@@ -5,6 +5,7 @@
     "sggCode": "11260",
     "name": "서울신현초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 봉화산로 188",
     "latitude": 37.6058145949305,
     "longitude": 127.093521755522,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 4,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=0764f8c8-364c-495b-9fbc-b389148b7b4f",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "c2e09cc2-cdd2-4105-ba11-7fe02b7e47f8",
@@ -36,6 +37,7 @@
     "sggCode": "11260",
     "name": "서울양원숲초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 양원역로 95",
     "latitude": 37.6090134040458,
     "longitude": 127.105258353397,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 14,
       "year1to2": 0,
-      "year2to4": 6,
+      "year2to4": 86,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=c2e09cc2-cdd2-4105-ba11-7fe02b7e47f8",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "b6a058d4-d077-4426-a262-864967ac2010",
@@ -67,6 +69,7 @@
     "sggCode": "11260",
     "name": "서울중흥초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 봉화산로 82",
     "latitude": 37.6016735855,
     "longitude": 127.0841443286,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 20,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 20,
       "year4to6": 0,
-      "over6": 3
+      "over6": 60
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=b6a058d4-d077-4426-a262-864967ac2010",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "b0005379-c35f-4cdf-8d60-e1c2bd49b158",
@@ -98,6 +101,7 @@
     "sggCode": "11260",
     "name": "서울봉화초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 신내로15길 110",
     "latitude": 37.61356947696399,
     "longitude": 127.09240428944574,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19���30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 67,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=b0005379-c35f-4cdf-8d60-e1c2bd49b158",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "94432cea-3906-4d55-bf04-527173edcac1",
@@ -129,6 +133,7 @@
     "sggCode": "11260",
     "name": "서울중랑초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 봉우재로6길 26",
     "latitude": 37.5895759967979,
     "longitude": 127.075207616393,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=94432cea-3906-4d55-bf04-527173edcac1",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "4ce05486-64ac-428e-84b9-69c07789c249",
@@ -160,6 +165,7 @@
     "sggCode": "11260",
     "name": "정암유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 용마산로118길 55",
     "latitude": 37.6012290593675,
     "longitude": 127.103580655512,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 2,
+      "under1": 33,
+      "year1to2": 17,
+      "year2to4": 17,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=4ce05486-64ac-428e-84b9-69c07789c249",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "274fc57a-1928-4d00-8b7d-ca05e3a5d20c",
@@ -191,6 +197,7 @@
     "sggCode": "11260",
     "name": "서울면북초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 용마공원로5길 32",
     "latitude": 37.5946279108304,
     "longitude": 127.103404753746,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=274fc57a-1928-4d00-8b7d-ca05e3a5d20c",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e09-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "11260",
     "name": "진달래유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 상봉중앙로1가길 13",
     "latitude": 37.5987299423997,
     "longitude": 127.08685277087,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 50,
+      "year1to2": 17,
+      "year2to4": 17,
       "year4to6": 0,
-      "over6": 1
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e09-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c06-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "11260",
     "name": "새아랑유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 신내로 151",
     "latitude": 37.6123867066449,
     "longitude": 127.096108508433,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "63% (10명/16명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 5,
-      "year2to4": 7,
+      "under1": 18,
+      "year1to2": 29,
+      "year2to4": 41,
       "year4to6": 0,
-      "over6": 2
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c06-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0a6b-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "11260",
     "name": "서울새솔유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 신내역로1길 136",
     "latitude": 37.6176150635422,
     "longitude": 127.109941136392,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시10분~19시10분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (6명/9명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 4,
-      "over6": 1
+      "under1": 33,
+      "year1to2": 8,
+      "year2to4": 17,
+      "year4to6": 33,
+      "over6": 9
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0a6b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09aa-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "11260",
     "name": "은성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 동일로 752",
     "latitude": 37.5970124255191,
     "longitude": 127.081606716875,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "31% (5명/16명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 4,
-      "year2to4": 7,
+      "under1": 35,
+      "year1to2": 24,
+      "year2to4": 41,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09aa-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09a8-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "11260",
     "name": "예원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 신내로 51",
     "latitude": 37.604303990668,
     "longitude": 127.094163940111,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (4명/7명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 29,
+      "year1to2": 14,
+      "year2to4": 29,
+      "year4to6": 14,
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09a8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0831-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "11260",
     "name": "누리에유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 중랑천로 20",
     "latitude": 37.5871086139817,
     "longitude": 127.076100128242,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "44% (4명/9명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 44,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 11,
       "year4to6": 0,
-      "over6": 4
+      "over6": 45
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0831-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-078d-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "11260",
     "name": "서울동원초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 송림길 114",
     "latitude": 37.6047078414437,
     "longitude": 127.105071138901,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 75,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-078d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0376-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "11260",
     "name": "수산유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 중랑역로 35-1",
     "latitude": 37.5976483546323,
     "longitude": 127.075932723803,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "56% (5명/9명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 0
+      "under1": 33,
+      "year1to2": 22,
+      "year2to4": 22,
+      "year4to6": 22,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0376-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-01ff-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "11260",
     "name": "이루니유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 신내로7다길 57",
     "latitude": 37.6016277152525,
     "longitude": 127.091759103217,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "6% (1명/16명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 3,
-      "year2to4": 6,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 29,
+      "year1to2": 18,
+      "year2to4": 35,
+      "year4to6": 6,
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-01ff-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ffcd-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "11260",
     "name": "동성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 신내로 110",
     "latitude": 37.6097779070842,
     "longitude": 127.096281236983,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "8% (1명/13명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 3,
-      "year2to4": 3,
+      "under1": 46,
+      "year1to2": 23,
+      "year2to4": 23,
       "year4to6": 0,
-      "over6": 1
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ffcd-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff1e-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "11260",
     "name": "색동유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 동일로109길 31",
     "latitude": 37.5916767632803,
     "longitude": 127.078399821232,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
+      "year1to2": 67,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff1e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fb78-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "11260",
     "name": "동일유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 면목로35길 21",
     "latitude": 37.5781444779421,
     "longitude": 127.084655514858,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "11% (1명/9명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
-      "year2to4": 4,
-      "year4to6": 2,
-      "over6": 1
+      "year1to2": 30,
+      "year2to4": 40,
+      "year4to6": 20,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fb78-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa6b-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "11260",
     "name": "서울묵현초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 동일로157길 75",
     "latitude": 37.6090810434597,
     "longitude": 127.073691004492,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 2
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa6b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f894-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "11260",
     "name": "윤경유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 숙선옹주로 91",
     "latitude": 37.6164824913923,
     "longitude": 127.085474837716,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (4명/12명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 5,
-      "year2to4": 1,
+      "under1": 46,
+      "year1to2": 38,
+      "year2to4": 8,
       "year4to6": 0,
-      "over6": 1
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f894-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f721-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "11260",
     "name": "봄내유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 면목로61길 50",
     "latitude": 37.5859785454291,
     "longitude": 127.085553441256,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "30% (3명/10명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 3,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 45,
+      "year1to2": 27,
+      "year2to4": 9,
+      "year4to6": 9,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f721-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f720-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "11260",
     "name": "솔방울유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 ���마산로 250-14",
     "latitude": 37.5749603198126,
     "longitude": 127.0889553819,
@@ -698,11 +721,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -710,7 +733,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f720-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f56b-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "11260",
     "name": "서울면목초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 면목로 434",
     "latitude": 37.5910827374749,
     "longitude": 127.088347759505,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 3,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f56b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3e9-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "11260",
     "name": "영은유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 신내로19길 42",
     "latitude": 37.6154000255018,
     "longitude": 127.091953608179,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "19% (3명/16명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 1,
-      "year2to4": 4,
-      "year4to6": 2,
-      "over6": 3
+      "under1": 38,
+      "year1to2": 6,
+      "year2to4": 25,
+      "year4to6": 13,
+      "over6": 18
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3e9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f29a-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "11260",
     "name": "로뎅유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 봉화산로 90",
     "latitude": 37.6019946303502,
     "longitude": 127.084546291953,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
+      "year1to2": 67,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f29a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f1fe-b044-e053-0a32095ab044",
@@ -811,6 +837,7 @@
     "sggCode": "11260",
     "name": "신일유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 면목로44길 55",
     "latitude": 37.5810658342512,
     "longitude": 127.091655537084,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f1fe-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f053-b044-e053-0a32095ab044",
@@ -842,6 +869,7 @@
     "sggCode": "11260",
     "name": "서울면동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 면목로57길 32",
     "latitude": 37.5853512438542,
     "longitude": 127.086591917897,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f053-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ed85-b044-e053-0a32095ab044",
@@ -873,6 +901,7 @@
     "sggCode": "11260",
     "name": "서울중곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 면목로23길 20",
     "latitude": 37.5748287924068,
     "longitude": 127.083483363269,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 2,
+      "year2to4": 25,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ed85-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "076db651-036b-4bee-80ba-09f0edb4a57a",
@@ -904,6 +933,7 @@
     "sggCode": "11260",
     "name": "서울신묵초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 동일로149길 46",
     "latitude": 37.6065228487307,
     "longitude": 127.075835832737,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 3,
+      "year1to2": 25,
+      "year2to4": 75,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=076db651-036b-4bee-80ba-09f0edb4a57a",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "cec68159-711c-4efe-97bd-5d43416a051b",
@@ -935,6 +965,7 @@
     "sggCode": "11260",
     "name": "서울중목초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 중랑구 동일로 665",
     "latitude": 37.590087350296,
     "longitude": 127.07937319697,
@@ -946,18 +977,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~20시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 33,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 67,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=cec68159-711c-4efe-97bd-5d43416a051b",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

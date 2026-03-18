@@ -5,6 +5,7 @@
     "sggCode": "41500",
     "name": "삼성숲유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 부발읍 가좌로61번길 16",
     "latitude": 37.257522452118,
     "longitude": 127.468425784424,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (3명/7명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 17,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 3
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=106e9bc8-880d-4c77-a71e-7fb3792f02d4",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0127-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "41500",
     "name": "대서초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 서동대로8487번길 23-24",
     "latitude": 37.1135432953279,
     "longitude": 127.575995346415,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0127-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0128-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "41500",
     "name": "무지개유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 현방로43번길 63-6",
     "latitude": 37.340110905735,
     "longitude": 127.489055546205,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 2
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0128-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0129-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "41500",
     "name": "설봉초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 향교로 129",
     "latitude": 37.2843444078479,
     "longitude": 127.452849190319,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 2,
-      "over6": 1
+      "year2to4": 25,
+      "year4to6": 50,
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0129-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-012a-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "41500",
     "name": "아미초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 신아로92번길 32",
     "latitude": 37.2584661279072,
     "longitude": 127.491321469089,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-012a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-04f8-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "41500",
     "name": "이천송정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 영창로45번길 165",
     "latitude": 37.2941612041398,
     "longitude": 127.433389061644,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-04f8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-04f9-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "41500",
     "name": "이황초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 경충대로 456-20",
     "latitude": 37.1459794617674,
     "longitude": 127.587385165356,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-04f9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0553-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "41500",
     "name": "나래초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 이풍로63번길 114",
     "latitude": 37.1697101949974,
     "longitude": 127.588617736999,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~16시40분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0553-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0554-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "41500",
     "name": "백사초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 현방로 55",
     "latitude": 37.3388941554173,
     "longitude": 127.490537440438,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0554-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-074b-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "41500",
     "name": "지예슬유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 증신로156번길 37",
     "latitude": 37.2909555311924,
     "longitude": 127.453513530022,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (2명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 3,
-      "over6": 2
+      "under1": 20,
+      "year1to2": 20,
+      "year2to4": 10,
+      "year4to6": 30,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-074b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0928-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "41500",
     "name": "이천남초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 경충대로2614번길 32",
     "latitude": 37.2769750497939,
     "longitude": 127.443657748548,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0928-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0929-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "41500",
     "name": "이천매곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 이섭대천로96번길 8",
     "latitude": 37.2148715418036,
     "longitude": 127.394440787945,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0929-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-092a-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "41500",
     "name": "한울숲유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 이섭대천로783번길 1",
     "latitude": 37.2412866248403,
     "longitude": 127.439863553109,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 25,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 2
+      "year4to6": 25,
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-092a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0999-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "41500",
     "name": "도암초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 증신로 550",
     "latitude": 37.3188550066625,
     "longitude": 127.442061208515,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~17시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0999-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0cff-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "41500",
     "name": "토마토유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 대산로 626-3",
     "latitude": 37.2696011003842,
     "longitude": 127.490596197147,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시40분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/5명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 80,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 20,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0cff-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d97-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "41500",
     "name": "장천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 설성로 165-25",
     "latitude": 37.1457513840751,
     "longitude": 127.528326931014,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d97-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0dfe-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "41500",
     "name": "마장초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 마장면 중앙로 25",
     "latitude": 37.2533457996056,
     "longitude": 127.355843359943,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
-      "over6": 1
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0dfe-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0dff-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "41500",
     "name": "한마음유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 청백리로 64-28",
     "latitude": 37.3021273790978,
     "longitude": 127.470023962973,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "45% (5명/11명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 3
+      "under1": 18,
+      "year1to2": 27,
+      "year2to4": 18,
+      "year4to6": 9,
+      "over6": 28
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0dff-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00c5-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "41500",
     "name": "진가초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 진상미로 1321-14",
     "latitude": 37.1743494999432,
     "longitude": 127.478934918364,
@@ -574,11 +593,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~17시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -586,7 +605,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00c5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00c2-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "41500",
     "name": "이천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 서희로81번길 20",
     "latitude": 37.2844350052663,
     "longitude": 127.441730784446,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00c2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ee63-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "41500",
     "name": "그린나래유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 증신로 22-57",
     "latitude": 37.2809782619773,
     "longitude": 127.464904633475,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 29,
       "year1to2": 0,
-      "year2to4": 3,
-      "year4to6": 2,
+      "year2to4": 43,
+      "year4to6": 29,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ee63-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef34-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "41500",
     "name": "이천은광유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 증신로 22-60",
     "latitude": 37.2800532079998,
     "longitude": 127.464178825501,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 1,
+      "under1": 29,
+      "year1to2": 43,
+      "year2to4": 14,
       "year4to6": 0,
-      "over6": 1
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef34-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef35-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "41500",
     "name": "아미하늘땅별땅유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 신아로 101-69",
     "latitude": 37.2627386747725,
     "longitude": 127.489996502233,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~21시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "13% (1명/8명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 13,
+      "year4to6": 13,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef35-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef3d-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "41500",
     "name": "이천유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 증신로 290-6",
     "latitude": 37.2967028513734,
     "longitude": 127.441349774779,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시20분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (4명/7명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 4,
-      "year4to6": 2,
-      "over6": 1
+      "year2to4": 57,
+      "year4to6": 29,
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef3d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f1e1-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "41500",
     "name": "영재유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 증신로271번길 32",
     "latitude": 37.29527115449831,
     "longitude": 127.43942171973012,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 38,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 3,
+      "year2to4": 25,
+      "year4to6": 38,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f1e1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f375-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "41500",
     "name": "한내초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 갈산로 71",
     "latitude": 37.290286887589,
     "longitude": 127.461596035074,
@@ -791,19 +817,12 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
-    "teacherTenure": {
-      "under1": 0,
-      "year1to2": 0,
-      "year2to4": 0,
-      "year4to6": 0,
-      "over6": 0
-    },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f375-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3e0-b044-e053-0a32095ab044",
@@ -811,6 +830,7 @@
     "sggCode": "41500",
     "name": "성모유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 중리천로 32",
     "latitude": 37.2798771585497,
     "longitude": 127.440985614372,
@@ -822,19 +842,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (1명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 20,
+      "year1to2": 20,
+      "year2to4": 20,
+      "year4to6": 20,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3e0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3e1-b044-e053-0a32095ab044",
@@ -842,6 +862,7 @@
     "sggCode": "41500",
     "name": "신하초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 경충대로2250번길 12",
     "latitude": 37.2610841114344,
     "longitude": 127.479281596701,
@@ -853,19 +874,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 25,
+      "year1to2": 25,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3e1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3e2-b044-e053-0a32095ab044",
@@ -873,6 +894,7 @@
     "sggCode": "41500",
     "name": "이천가산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 황무로2065번길 112",
     "latitude": 37.2423163897417,
     "longitude": 127.518137862221,
@@ -884,19 +906,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3e2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3e6-b044-e053-0a32095ab044",
@@ -904,6 +926,7 @@
     "sggCode": "41500",
     "name": "호법초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 이섭대천로537번길 8",
     "latitude": 37.2240833875089,
     "longitude": 127.427229197291,
@@ -915,19 +938,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3e6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f849-b044-e053-0a32095ab044",
@@ -935,6 +958,7 @@
     "sggCode": "41500",
     "name": "증포초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 이섭대천로 1418",
     "latitude": 37.2940169553831,
     "longitude": 127.456613562522,
@@ -946,11 +970,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~17시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -958,7 +982,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f849-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f88b-b044-e053-0a32095ab044",
@@ -966,6 +990,7 @@
     "sggCode": "41500",
     "name": "부발초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 무촌로 155",
     "latitude": 37.2867464630348,
     "longitude": 127.488578175893,
@@ -977,19 +1002,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f88b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f88c-b044-e053-0a32095ab044",
@@ -997,6 +1022,7 @@
     "sggCode": "41500",
     "name": "안흥초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 영창로300번길 16",
     "latitude": 37.2799514982864,
     "longitude": 127.456546283768,
@@ -1008,11 +1034,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1020,7 +1046,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f88c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fbaf-b044-e053-0a32095ab044",
@@ -1028,6 +1054,7 @@
     "sggCode": "41500",
     "name": "이천사동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 경충대로2003번길 124-87",
     "latitude": 37.2420223204724,
     "longitude": 127.487137580496,
@@ -1039,19 +1066,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fbaf-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc68-b044-e053-0a32095ab044",
@@ -1059,6 +1086,7 @@
     "sggCode": "41500",
     "name": "이화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 이여로101번길 163-59",
     "latitude": 37.3090253017349,
     "longitude": 127.456852528966,
@@ -1070,19 +1098,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 3,
+      "under1": 43,
+      "year1to2": 43,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 14,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc68-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fce4-b044-e053-0a32095ab044",
@@ -1090,6 +1118,7 @@
     "sggCode": "41500",
     "name": "신둔초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 경충대로3150번길 82-3",
     "latitude": 37.3108100960007,
     "longitude": 127.403452002684,
@@ -1101,19 +1130,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fce4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fce6-b044-e053-0a32095ab044",
@@ -1121,6 +1150,7 @@
     "sggCode": "41500",
     "name": "율면초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 이천시 고당로 48",
     "latitude": 37.088125263483,
     "longitude": 127.542749631901,
@@ -1132,19 +1162,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fce6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "f8b9a3a6-71df-4b57-ab5d-1634bf7856e9",
@@ -1152,6 +1182,7 @@
     "sggCode": "41500",
     "name": "나루유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 이천시 황무로 1911-79",
     "latitude": 37.2499582142,
     "longitude": 127.5166333902,
@@ -1163,18 +1194,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50���~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 1,
+      "under1": 67,
+      "year1to2": 17,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=f8b9a3a6-71df-4b57-ab5d-1634bf7856e9",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

@@ -5,6 +5,7 @@
     "sggCode": "29155",
     "name": "불로초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 제석로80번길 58-5",
     "latitude": 35.1209504992148,
     "longitude": 126.914115561548,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "44% (4명/9명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 1,
+      "under1": 80,
+      "year1to2": 20,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=081d574e-9934-41b8-9751-87a312a7d101",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0525-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "29155",
     "name": "대촌중앙초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 고싸움로152번길 1",
     "latitude": 35.0824491113359,
     "longitude": 126.832546400158,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "89% (8명/9명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 5,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0525-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06b2-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "29155",
     "name": "위즈캐슬유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 효우로116번길 58",
     "latitude": 35.1037072305979,
     "longitude": 126.899876289747,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (6명/14명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 3,
-      "year2to4": 3,
+      "under1": 43,
+      "year1to2": 21,
+      "year2to4": 21,
       "year4to6": 0,
-      "over6": 2
+      "over6": 15
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06b2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06b9-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "29155",
     "name": "궁전누리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 진다리로27번길 20",
     "latitude": 35.1382998619002,
     "longitude": 126.904335171014,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
+      "year1to2": 14,
+      "year2to4": 29,
       "year4to6": 0,
-      "over6": 4
+      "over6": 57
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06b9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06ba-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "29155",
     "name": "슈에뜨유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 봉주7길 30",
     "latitude": 35.1382842421352,
     "longitude": 126.889599323638,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "10% (1명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 20,
+      "year1to2": 10,
+      "year2to4": 30,
+      "year4to6": 20,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06ba-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-073d-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "29155",
     "name": "윌링스유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 회재로 1140-3",
     "latitude": 35.1301264703431,
     "longitude": 126.887270204999,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "10% (1명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 4,
-      "year4to6": 2,
-      "over6": 1
+      "under1": 18,
+      "year1to2": 18,
+      "year2to4": 36,
+      "year4to6": 18,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-073d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0747-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "29155",
     "name": "광주대성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 서동로2번길 8",
     "latitude": 35.1443799890369,
     "longitude": 126.905229105642,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0747-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-07ba-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "29155",
     "name": "인애유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 용대로 91",
     "latitude": 35.1246124798245,
     "longitude": 126.917808749124,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/8명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 3,
+      "under1": 38,
+      "year1to2": 25,
+      "year2to4": 38,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-07ba-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-08df-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "29155",
     "name": "이화숲유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 제석로 14-6",
     "latitude": 35.1158758182621,
     "longitude": 126.908128736017,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "64% (7명/11명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 4
+      "under1": 18,
+      "year1to2": 9,
+      "year2to4": 18,
+      "year4to6": 18,
+      "over6": 37
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-08df-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b1c-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "29155",
     "name": "하버드유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 천변좌로520번길 8",
     "latitude": 35.1347368739439,
     "longitude": 126.921198355681,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "31% (5명/16명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 3,
-      "year4to6": 4,
-      "over6": 8
+      "year1to2": 12,
+      "year2to4": 18,
+      "year4to6": 24,
+      "over6": 46
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b1c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0bbb-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "29155",
     "name": "광주농성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 금화로481번길 7",
     "latitude": 35.1480717450518,
     "longitude": 126.89021447539,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
-      "year2to4": 1,
+      "year1to2": 75,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0bbb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c29-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "29155",
     "name": "광주제석초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 봉선로51번길 14",
     "latitude": 35.1282783540217,
     "longitude": 126.906371370776,
@@ -357,11 +369,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -369,7 +381,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c29-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d53-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "29155",
     "name": "지예유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 백운로66번길 5",
     "latitude": 35.1392554673816,
     "longitude": 126.906498938042,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "17% (1명/6명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 2
+      "year2to4": 50,
+      "year4to6": 17,
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d53-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0dd9-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "29155",
     "name": "화니유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 봉선로122번길 1",
     "latitude": 35.1236459482933,
     "longitude": 126.908887428128,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 3
+      "under1": 14,
+      "year1to2": 14,
+      "year2to4": 14,
+      "year4to6": 14,
+      "over6": 44
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0dd9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0f7b-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "29155",
     "name": "꿈그린유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 봉선로84번길 19",
     "latitude": 35.1269829861422,
     "longitude": 126.904428560926,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 25,
+      "year4to6": 25,
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0f7b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1fd6777e-1518-e0b0-e053-0a32095ae0b0",
@@ -470,6 +485,7 @@
     "sggCode": "29155",
     "name": "꿈드리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 행암도동길 16",
     "latitude": 35.0991452817489,
     "longitude": 126.88615049561,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~18시40분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 29,
+      "year1to2": 14,
+      "year2to4": 29,
+      "year4to6": 14,
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1fd6777e-1518-e0b0-e053-0a32095ae0b0",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1fd6777e-152d-e0b0-e053-0a32095ae0b0",
@@ -501,6 +517,7 @@
     "sggCode": "29155",
     "name": "방림유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 큰방림길 20",
     "latitude": 35.1339362102928,
     "longitude": 126.920266305663,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (4명/10명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 2,
+      "year1to2": 40,
+      "year2to4": 20,
+      "year4to6": 40,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1fd6777e-152d-e0b0-e053-0a32095ae0b0",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1fd6777e-1540-e0b0-e053-0a32095ae0b0",
@@ -532,6 +549,7 @@
     "sggCode": "29155",
     "name": "효천다솜유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 효우2로 5",
     "latitude": 35.1015531210467,
     "longitude": 126.891929865543,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (12명/12명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 4,
-      "year4to6": 1,
+      "under1": 30,
+      "year1to2": 20,
+      "year2to4": 40,
+      "year4to6": 10,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1fd6777e-1540-e0b0-e053-0a32095ae0b0",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0522-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "29155",
     "name": "까리따스유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 입하2안길 20-22",
     "latitude": 35.1066826982857,
     "longitude": 126.872416456793,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "22% (4명/18명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 4,
-      "year2to4": 3,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 39,
+      "year1to2": 22,
+      "year2to4": 17,
+      "year4to6": 11,
+      "over6": 11
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0522-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-051f-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "29155",
     "name": "광주효덕초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 화산로 7",
     "latitude": 35.1133866710358,
     "longitude": 126.897971408816,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-051f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef40-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "29155",
     "name": "조하유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 화산로 43",
     "latitude": 35.1127365939654,
     "longitude": 126.901442412603,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 38,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 38,
       "year4to6": 0,
-      "over6": 2
+      "over6": 24
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef40-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef71-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "29155",
     "name": "광주삼육유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 서문대로817번길 3-4",
     "latitude": 35.1317815486001,
     "longitude": 126.899246476309,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 20,
+      "year1to2": 40,
+      "year2to4": 20,
+      "year4to6": 20,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef71-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef73-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "29155",
     "name": "남광유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 광복마을2길 12",
     "latitude": 35.1193604069416,
     "longitude": 126.897227182392,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (1명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 25,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
-      "over6": 1
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef73-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef7a-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "29155",
     "name": "혜화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 금당로 116",
     "latitude": 35.1272679018398,
     "longitude": 126.895137683448,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 67,
       "year4to6": 0,
-      "over6": 1
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef7a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f035-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "29155",
     "name": "무학초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 월지길 7",
     "latitude": 35.0668551230007,
     "longitude": 126.804343236466,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f035-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f1ac-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "29155",
     "name": "진남유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 노대실로 67",
     "latitude": 35.103409226826,
     "longitude": 126.906196557602,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "91% (10명/11명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 2,
+      "under1": 50,
+      "year1to2": 17,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f1ac-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f551-b044-e053-0a32095ab044",
@@ -811,6 +837,7 @@
     "sggCode": "29155",
     "name": "효천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 효우2로 70",
     "latitude": 35.1003369171827,
     "longitude": 126.884110444798,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "83% (5명/6명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year1to2": 33,
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f551-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5fc-b044-e053-0a32095ab044",
@@ -842,6 +869,7 @@
     "sggCode": "29155",
     "name": "광주백운초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 독립로 51",
     "latitude": 35.1378451077893,
     "longitude": 126.899889309268,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "86% (6명/7명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5fc-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f67e-b044-e053-0a32095ab044",
@@ -873,6 +901,7 @@
     "sggCode": "29155",
     "name": "장산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 회서로 27",
     "latitude": 35.1307421152378,
     "longitude": 126.894221621348,
@@ -884,11 +913,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -896,7 +925,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f67e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f9ef-b044-e053-0a32095ab044",
@@ -904,6 +933,7 @@
     "sggCode": "29155",
     "name": "브라이튼유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 회재로 1140-13",
     "latitude": 35.129476721021,
     "longitude": 126.886989042547,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 13,
+      "year1to2": 38,
+      "year2to4": 13,
+      "year4to6": 13,
+      "over6": 23
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f9ef-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fb09-b044-e053-0a32095ab044",
@@ -935,6 +965,7 @@
     "sggCode": "29155",
     "name": "월산성모유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 중앙로24번길 13",
     "latitude": 35.14358997350717,
     "longitude": 126.90113403295054,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fb09-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-01b5-b044-e053-0a32095ab044",
@@ -966,6 +997,7 @@
     "sggCode": "29155",
     "name": "새그린유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 봉선1로16번안길 18",
     "latitude": 35.1273153315799,
     "longitude": 126.908954865515,
@@ -977,19 +1009,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 4
+      "year2to4": 17,
+      "year4to6": 17,
+      "over6": 66
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-01b5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-01b6-b044-e053-0a32095ab044",
@@ -997,6 +1029,7 @@
     "sggCode": "29155",
     "name": "다온유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 용대로 128",
     "latitude": 35.1276722236431,
     "longitude": 126.918422899699,
@@ -1008,19 +1041,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 3
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-01b6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-01b9-b044-e053-0a32095ab044",
@@ -1028,6 +1061,7 @@
     "sggCode": "29155",
     "name": "광주봉주초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 봉주길 32",
     "latitude": 35.1360591804513,
     "longitude": 126.890026899554,
@@ -1039,19 +1073,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "71% (5명/7명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 1,
+      "under1": 25,
+      "year1to2": 50,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-01b9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0280-b044-e053-0a32095ab044",
@@ -1059,6 +1093,7 @@
     "sggCode": "29155",
     "name": "송원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "광주광역시 남구 송암로 73",
     "latitude": 35.108183028004,
     "longitude": 126.873265672743,
@@ -1070,19 +1105,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0280-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-03a5-b044-e053-0a32095ab044",
@@ -1090,6 +1125,7 @@
     "sggCode": "29155",
     "name": "광주월산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 월산로116번길 6",
     "latitude": 35.1477350353993,
     "longitude": 126.897711629148,
@@ -1101,19 +1137,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-03a5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-051e-b044-e053-0a32095ab044",
@@ -1121,6 +1157,7 @@
     "sggCode": "29155",
     "name": "광주학강초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 양림로 92",
     "latitude": 35.1383635489531,
     "longitude": 126.918750276638,
@@ -1132,19 +1169,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-051e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "bdcd1631-bfcf-47a7-a1db-e5ae3de4aeb6",
@@ -1152,6 +1189,7 @@
     "sggCode": "29155",
     "name": "빛여울초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "광주광역시 남구 효천중앙로 4",
     "latitude": 35.1032603171802,
     "longitude": 126.869174075701,
@@ -1163,18 +1201,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (7명/7명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 2,
+      "under1": 25,
+      "year1to2": 25,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=bdcd1631-bfcf-47a7-a1db-e5ae3de4aeb6",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

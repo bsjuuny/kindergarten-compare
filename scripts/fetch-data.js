@@ -182,23 +182,35 @@ const REGIONS = [
     }
 ];
 
-function fetchApi(endpoint, sidoCode, sggCode) {
-    return new Promise((resolve, reject) => {
-        const url = `https://e-childschoolinfo.moe.go.kr/api/notice/${endpoint}.do?key=${API_KEY}&sidoCode=${sidoCode}&sggCode=${sggCode}`;
-        const options = { headers: { 'User-Agent': 'Mozilla/5.0' } };
-        https.get(url, options, (res) => {
-            let data = '';
-            res.on('data', d => data += d);
-            res.on('end', () => {
-                try {
-                    if (data.trim().startsWith('<')) throw new Error('HTML returned instead of JSON');
-                    resolve(JSON.parse(data));
-                } catch (e) {
-                    reject(e);
-                }
+async function fetchApi(endpoint, sidoCode, sggCode, retries = 3) {
+    const url = `https://e-childschoolinfo.moe.go.kr/api/notice/${endpoint}.do?key=${API_KEY}&sidoCode=${sidoCode}&sggCode=${sggCode}`;
+    const options = { headers: { 'User-Agent': 'Mozilla/5.0' } };
+
+    for (let i = 0; i < retries; i++) {
+        try {
+            const data = await new Promise((resolve, reject) => {
+                https.get(url, options, (res) => {
+                    let body = '';
+                    res.on('data', d => body += d);
+                    res.on('end', () => resolve(body));
+                }).on('error', reject);
             });
-        }).on('error', reject);
-    });
+
+            if (data.trim().startsWith('<')) {
+                if (data.includes('high traffic') || data.includes('too many requests')) {
+                    console.warn(`   ⚠️ High traffic detected for ${endpoint}. Retrying in 5s... (${i + 1}/${retries})`);
+                    await delay(5000);
+                    continue;
+                }
+                throw new Error('HTML returned instead of JSON');
+            }
+            return JSON.parse(data);
+        } catch (e) {
+            if (i === retries - 1) throw e;
+            console.warn(`   ⚠️ Fetch error for ${endpoint}: ${e.message}. Retrying in 3s...`);
+            await delay(3000);
+        }
+    }
 }
 
 function fetchTenureHtml(sidoCode, sggCode) {
@@ -345,7 +357,22 @@ function normalizeData(basicInfoData, teachersInfoData, tenureMap, schoolBusData
             expenseLevel: '-',
             ageRange: '-',
             teacherRatio,
-            teacherTenure: tenureMap.get(item.kindercode),
+            teacherTenure: (() => {
+                const raw = tenureMap.get(item.kindercode);
+                if (!raw) return undefined;
+                const sum = raw.under1 + raw.year1to2 + raw.year2to4 + raw.year4to6 + raw.over6;
+                if (sum === 0) return undefined;
+                const pct = {
+                    under1: Math.round((raw.under1 / sum) * 100),
+                    year1to2: Math.round((raw.year1to2 / sum) * 100),
+                    year2to4: Math.round((raw.year2to4 / sum) * 100),
+                    year4to6: Math.round((raw.year4to6 / sum) * 100),
+                    over6: Math.round((raw.over6 / sum) * 100),
+                };
+                const pctSum = pct.under1 + pct.year1to2 + pct.year2to4 + pct.year4to6 + pct.over6;
+                pct.over6 = Math.max(0, pct.over6 + (100 - pctSum));
+                return pct;
+            })(),
             alimiUrl,
             tags: []
         };
@@ -405,7 +432,9 @@ function parseXmlItems(xml) {
 
     for (const itemXml of itemMatches) {
         const obj = {};
-        const tagMatches = itemXml.matchAll(/<(\w+)>([\s\S]*?)<\/\1>/g);
+        // Strip out the outer <item> and </item> to parse inner tags correctly
+        const innerXml = itemXml.substring(itemXml.indexOf('>') + 1, itemXml.lastIndexOf('</'));
+        const tagMatches = innerXml.matchAll(/<([a-zA-Z0-9_]+)>([\s\S]*?)<\/\1>/g);
         for (const m of tagMatches) {
             obj[m[1].trim()] = m[2].trim();
         }
@@ -424,6 +453,29 @@ function mapChildcareType(crtypename) {
     if (crtypename.includes('부모협동')) return '부모협동';
     if (crtypename.includes('직장')) return '직장';
     return '민간';
+}
+
+const CHILDCARE_TAG_RULES = [
+    ['야간연장', '야간운영'],
+    ['24시간', '24시간'],
+    ['장애아통합', '장애아통합'],
+    ['장애아전담', '장애아전담'],
+    ['영아전담', '영아전담'],
+    ['시간제보육', '시간제보육'],
+    ['휴일보육', '휴일운영'],
+    ['공동육아', '공동육아'],
+];
+
+function buildChildcareTags(specialPrograms, hasSchoolBus) {
+    const tags = [];
+    if (hasSchoolBus) tags.push('통학차량');
+    if (!specialPrograms || specialPrograms === '-') return tags;
+    for (const [keyword, tag] of CHILDCARE_TAG_RULES) {
+        if (specialPrograms.includes(keyword) && !tags.includes(tag)) {
+            tags.push(tag);
+        }
+    }
+    return tags;
 }
 
 function normalizeChildcareData(items, sidoCode, sggCode) {
@@ -445,41 +497,52 @@ function normalizeChildcareData(items, sidoCode, sggCode) {
             const hasSchoolBus = (item.crcargbname || '').includes('운용');
             const cctvCount = parseInt(item.cctvinstlcnt) || 0;
 
-            // 교직원 근속 (API 필드명 대문자)
-            const teacherTenure = {
-                under1: parseInt(item.EM_CNT_0Y) || 0,
-                year1to2: parseInt(item.EM_CNT_1Y) || 0,
-                year2to4: parseInt(item.EM_CNT_2Y) || 0,
-                year4to6: parseInt(item.EM_CNT_4Y) || 0,
-                over6: parseInt(item.EM_CNT_6Y) || 0,
-            };
+            // 교사 전문성 비율 (보육교사+특수교사 / 전체직원)
+            const careTeachersCount = parseInt(item.EM_CNT_A2) || 0;
+            const specialTeachersCount = parseInt(item.EM_CNT_A3) || 0;
+            const totalCareTeachers = careTeachersCount + specialTeachersCount;
+            const totalStaff = parseInt(item.EM_CNT_TOT) || 0;
+            
+            const teacherRatio = (totalStaff > 0 && totalCareTeachers > 0)
+                ? `${Math.round((totalCareTeachers / totalStaff) * 100)}% (${totalCareTeachers}명/${totalStaff}명)`
+                : '-';
+
+            // 교직원 근속 (API 필드명 대문자, 백분율 그대로 저장)
+            const parsePct = (val) => Math.min(100, Math.max(0, parseInt(val) || 0));
 
             // 교사 1인당 아동 수 (보육교사 기준)
-            const teacherCount = parseInt(item.EM_CNT_A2) || 0;
-            const childrenPerTeacher = teacherCount > 0 ? Number((currentPupils / teacherCount).toFixed(1)) : 0;
+            const childrenPerTeacher = careTeachersCount > 0 ? Number((currentPupils / careTeachersCount).toFixed(1)) : 0;
 
-            // 교사 전문성 비율 (보육교사+특수교사 / 전체직원)
-            const careTeachers = (parseInt(item.EM_CNT_A2) || 0) + (parseInt(item.EM_CNT_A3) || 0);
-            const totalStaff = parseInt(item.EM_CNT_TOT) || 0;
-            const teacherRatio = (totalStaff > 0 && careTeachers > 0)
-                ? `${Math.round((careTeachers / totalStaff) * 100)}% (${careTeachers}명/${totalStaff}명)`
-                : '-';
+            const teacherTenure = {
+                under1: parsePct(item.EM_CNT_0Y),
+                year1to2: parsePct(item.EM_CNT_1Y),
+                year2to4: parsePct(item.EM_CNT_2Y),
+                year4to6: parsePct(item.EM_CNT_4Y),
+                over6: parsePct(item.EM_CNT_6Y),
+            };
 
             // 입소대기 아동수
             const waitlistTotal = parseInt(item.EW_CNT_TOT) || 0;
 
-            // 연령 범위 (API 필드명 대문자)
-            const ages = [];
-            if (parseInt(item.CHILD_CNT_00) > 0) ages.push('만 0세');
-            if (parseInt(item.CHILD_CNT_01) > 0) ages.push('만 1세');
-            if (parseInt(item.CHILD_CNT_02) > 0) ages.push('만 2세');
-            if (parseInt(item.CHILD_CNT_03) > 0) ages.push('만 3세');
-            if (parseInt(item.CHILD_CNT_04) > 0) ages.push('만 4세');
-            if (parseInt(item.CHILD_CNT_05) > 0) ages.push('만 5세');
-            const ageRange = ages.length > 0 ? `${ages[0]} ~ ${ages[ages.length - 1]}` : '-';
+            // 연령 범위 — CLASS_CNT(반 편성) 기준으로 판단, 현원이 0이어도 반이 있으면 포함
+            // CLASS_CNT_M2: 0~2세 혼합반, CLASS_CNT_M5: 0~5세 혼합반
+            const ageSet = new Set();
+            if (parseInt(item.CLASS_CNT_00) > 0) ageSet.add(0);
+            if (parseInt(item.CLASS_CNT_01) > 0) ageSet.add(1);
+            if (parseInt(item.CLASS_CNT_02) > 0) ageSet.add(2);
+            if (parseInt(item.CLASS_CNT_03) > 0) ageSet.add(3);
+            if (parseInt(item.CLASS_CNT_04) > 0) ageSet.add(4);
+            if (parseInt(item.CLASS_CNT_05) > 0) ageSet.add(5);
+            if (parseInt(item.CLASS_CNT_M2) > 0) [0, 1, 2].forEach(a => ageSet.add(a));
+            if (parseInt(item.CLASS_CNT_M5) > 0) [0, 1, 2, 3, 4, 5].forEach(a => ageSet.add(a));
+            const sortedAges = [...ageSet].sort((a, b) => a - b);
+            const ageRange = sortedAges.length === 0 ? '-'
+                : sortedAges.length === 1 ? `만 ${sortedAges[0]}세`
+                : `만 ${sortedAges[0]}세 ~ 만 ${sortedAges[sortedAges.length - 1]}세`;
 
-            // 특이사항/제공서비스
-            const specialPrograms = item.crspec || '-';
+            // 특이사항/제공서비스 ("일반"은 의미 없으므로 제외)
+            const rawSpec = (item.crspec || '').trim();
+            const specialPrograms = (rawSpec === '' || rawSpec === '-' || rawSpec === '일반') ? '-' : rawSpec;
 
             // 안전 현황 (CCTV만 제공)
             const safetyStatus = cctvCount > 0 ? `CCTV ${cctvCount}대 설치` : '-';
@@ -488,8 +551,9 @@ function normalizeChildcareData(items, sidoCode, sggCode) {
             const nutritionistCount = parseInt(item.EM_CNT_A5) || 0;
             const mealStatus = nutritionistCount > 0 ? `영양사 배치 (${nutritionistCount}명)` : '-';
 
-            // 홈페이지 (있으면 alimiUrl로 활용)
-            const alimiUrl = item.crhome || null;
+            // 홈페이지 (http/https URL만 유효)
+            const rawHome = (item.crhome || '').trim();
+            const alimiUrl = (rawHome.startsWith('http://') || rawHome.startsWith('https://')) ? rawHome : null;
 
             return {
                 id,
@@ -515,9 +579,9 @@ function normalizeChildcareData(items, sidoCode, sggCode) {
                 teacherTenure,
                 waitlistTotal,
                 cctvCount,
-                specialPrograms,
+                specialPrograms: specialPrograms === '-' ? undefined : specialPrograms,
                 alimiUrl,
-                tags: [],
+                tags: buildChildcareTags(specialPrograms, hasSchoolBus),
             };
         });
 }
@@ -560,7 +624,7 @@ async function run() {
                 fs.writeFileSync(path.join(dataDir, filename), JSON.stringify(normalizedList, null, 2), 'utf-8');
                 console.log(`✅ Saved ${normalizedList.length} institutions to ${filename}`);
 
-                await delay(1000);
+                await delay(2000);
             }
         }
 
@@ -577,8 +641,12 @@ async function run() {
                     try {
                         const xml = await fetchChildcareApi(sgg.sggCode);
 
-                        if (xml.includes('ERROR') || xml.includes('INFO-')) {
+                        if (xml.includes('ERROR') || xml.includes('INFO-') || xml.includes('traffic')) {
                             const errMatch = xml.match(/<(ERROR|INFO)[^>]*>([^<]*)/i);
+                            if (xml.includes('traffic')) {
+                                console.warn(`   ⚠️ Childcare API high traffic. Waiting 10s...`);
+                                await delay(10000);
+                            }
                             console.warn(`   ⚠️ API response: ${errMatch ? errMatch[0] : xml.substring(0, 100)}`);
                             continue;
                         }
@@ -594,7 +662,7 @@ async function run() {
                         fs.writeFileSync(path.join(dataDir, filename), JSON.stringify(normalizedList, null, 2), 'utf-8');
                         console.log(`   ✅ Saved ${normalizedList.length} childcare centers to ${filename}`);
 
-                        await delay(1000);
+                        await delay(2000);
                     } catch (err) {
                         console.error(`   ❌ Error fetching childcare data for ${sgg.sggName}:`, err.message);
                     }

@@ -5,6 +5,7 @@
     "sggCode": "11470",
     "name": "서울강월초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양천구 신월로 97",
     "latitude": 37.5163409961,
     "longitude": 126.8334325031,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 50,
       "year4to6": 0,
-      "over6": 2
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1dfcc6e7-c6ff-4843-b970-cfba072320b4",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-018d-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "11470",
     "name": "광영유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 남부순환로30길 17",
     "latitude": 37.5385992387164,
     "longitude": 126.82479267244,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 4
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-018d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02b0-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "11470",
     "name": "서울강신초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양천구 월정로 280",
     "latitude": 37.5421012206375,
     "longitude": 126.829583937884,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "71% (5명/7명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 4,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 67,
+      "year4to6": 17,
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02b0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-054c-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "11470",
     "name": "세화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동동로 130",
     "latitude": 37.514362377,
     "longitude": 126.87503467,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "31% (5명/16명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 4,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 4
+      "under1": 25,
+      "year1to2": 25,
+      "year2to4": 13,
+      "year4to6": 13,
+      "over6": 24
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-054c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0599-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "11470",
     "name": "서울장수초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양천구 신정로13가길 30",
     "latitude": 37.5129957909419,
     "longitude": 126.845158891516,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (4명/7명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 5,
-      "year4to6": 1,
+      "year2to4": 83,
+      "year4to6": 17,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0599-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-05b8-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "11470",
     "name": "등대유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동동로12길 60",
     "latitude": 37.5204678926541,
     "longitude": 126.877291773714,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "42% (5명/12명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 1,
-      "year2to4": 4,
+      "under1": 50,
+      "year1to2": 8,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 1
+      "over6": 9
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-05b8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-08bb-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "11470",
     "name": "한서유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동동로 430",
     "latitude": 37.5349970857018,
     "longitude": 126.885135104149,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "31% (4명/13명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 2,
+      "under1": 54,
+      "year1to2": 8,
+      "year2to4": 23,
+      "year4to6": 15,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-08bb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-08bc-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "11470",
     "name": "해림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동서로2길 22",
     "latitude": 37.5419618439468,
     "longitude": 126.881371817927,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (4명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 4,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 17,
+      "year1to2": 33,
+      "year2to4": 17,
+      "year4to6": 17,
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-08bc-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0913-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "11470",
     "name": "신목유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동중앙북로10길 7-10",
     "latitude": 37.546378490209,
     "longitude": 126.870214310942,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 40,
       "year4to6": 0,
-      "over6": 3
+      "over6": 60
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0913-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c03-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "11470",
     "name": "빛나유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동로 212",
     "latitude": 37.5280352171785,
     "longitude": 126.867384003052,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "11% (1명/9명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 3,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 11,
+      "year4to6": 11,
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c03-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c04-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "11470",
     "name": "서울신기초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양천구 신정로 292",
     "latitude": 37.5113105383073,
     "longitude": 126.854212154027,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "year1to2": 40,
+      "year2to4": 20,
+      "year4to6": 20,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c04-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e6c-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "11470",
     "name": "경성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동로3길 57",
     "latitude": 37.5094542561098,
     "longitude": 126.862162255157,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (4명/14명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 3,
-      "year2to4": 1,
-      "year4to6": 2,
-      "over6": 0
+      "under1": 57,
+      "year1to2": 21,
+      "year2to4": 7,
+      "year4to6": 14,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e6c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e6d-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "11470",
     "name": "등촌유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동중앙북로8길 46",
     "latitude": 37.5466155952066,
     "longitude": 126.864742896585,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (1명/4명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 25,
       "year4to6": 0,
-      "over6": 1
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e6d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0ef0-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "11470",
     "name": "꿈나무유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동서로 280",
     "latitude": 37.5225787627058,
     "longitude": 126.86775797935,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (6명/15명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 3,
-      "year4to6": 6,
-      "over6": 3
+      "year2to4": 19,
+      "year4to6": 38,
+      "over6": 18
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0ef0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1fc6dd86-cccf-d1d2-e053-0a32095ad1d2",
@@ -439,6 +453,7 @@
     "sggCode": "11470",
     "name": "목동유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 오목로42길 13",
     "latitude": 37.5243767985448,
     "longitude": 126.860563006528,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "9% (1명/11명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 4,
+      "under1": 55,
+      "year1to2": 36,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 9
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1fc6dd86-cccf-d1d2-e053-0a32095ad1d2",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "8abcadee-6df5-4c85-9e38-cba5a2d519a5",
@@ -470,6 +485,7 @@
     "sggCode": "11470",
     "name": "서울양동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양���구 오목로23길 24",
     "latitude": 37.5258482641162,
     "longitude": 126.851240194989,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "71% (5명/7명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 3,
+      "year2to4": 40,
+      "year4to6": 60,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=8abcadee-6df5-4c85-9e38-cba5a2d519a5",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "9c26aa7f-0f07-4613-9136-4984c723803f",
@@ -501,6 +517,7 @@
     "sggCode": "11470",
     "name": "꿈꾸는유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 오목로4길 8",
     "latitude": 37.5208625544,
     "longitude": 126.8401916117,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (2명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 4,
-      "over6": 2
+      "under1": 18,
+      "year1to2": 18,
+      "year2to4": 9,
+      "year4to6": 36,
+      "over6": 19
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=9c26aa7f-0f07-4613-9136-4984c723803f",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "a59a057e-4f5c-411a-bb2a-60068691c766",
@@ -532,6 +549,7 @@
     "sggCode": "11470",
     "name": "세신유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동동로1길 38",
     "latitude": 37.5176784899657,
     "longitude": 126.856857979819,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (5명/10명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 30,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 5
+      "year2to4": 10,
+      "year4to6": 10,
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=a59a057e-4f5c-411a-bb2a-60068691c766",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0121-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "11470",
     "name": "어린이의정원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동남로4길 6-46",
     "latitude": 37.5061514725403,
     "longitude": 126.865183338178,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "83% (15명/18명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 2,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 7
+      "under1": 32,
+      "year1to2": 11,
+      "year2to4": 16,
+      "year4to6": 5,
+      "over6": 36
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0121-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00ac-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "11470",
     "name": "서울신은초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양천구 신정이펜2로 30",
     "latitude": 37.5139127409143,
     "longitude": 126.832169297768,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00ac-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ed7f-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "11470",
     "name": "새서울유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동서로 340",
     "latitude": 37.5184936956306,
     "longitude": 126.864502708873,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (1명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 1,
+      "year1to2": 40,
+      "year2to4": 40,
+      "year4to6": 20,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ed7f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ed80-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "11470",
     "name": "샘터유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 신월로 99",
     "latitude": 37.5188109297824,
     "longitude": 126.831259961226,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (2명/8명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 67,
+      "year1to2": 11,
+      "year2to4": 11,
       "year4to6": 0,
-      "over6": 1
+      "over6": 11
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ed80-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ed81-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "11470",
     "name": "서울경인유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양천구 안양천로 1009",
     "latitude": 37.5326833215072,
     "longitude": 126.88685013887,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 2,
+      "under1": 33,
+      "year1to2": 17,
+      "year2to4": 17,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ed81-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef9b-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "11470",
     "name": "서울월촌초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동중앙로 132",
     "latitude": 37.5404197970863,
     "longitude": 126.876539402434,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "44% (4명/9명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 1,
+      "year1to2": 40,
+      "year2to4": 40,
+      "year4to6": 20,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef9b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f320-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "11470",
     "name": "원일유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동동로 350",
     "latitude": 37.5338947494205,
     "longitude": 126.8815409336,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "42% (5명/12명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 2,
+      "under1": 58,
+      "year1to2": 17,
+      "year2to4": 8,
+      "year4to6": 17,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f320-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3d6-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "11470",
     "name": "서울영도초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동중앙로 70",
     "latitude": 37.5359598212457,
     "longitude": 126.871545053601,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 40,
+      "year1to2": 20,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 1
+      "year4to6": 20,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3d6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f449-b044-e053-0a32095ab044",
@@ -811,6 +837,7 @@
     "sggCode": "11470",
     "name": "동연유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동중앙북로7길 22",
     "latitude": 37.5488734761804,
     "longitude": 126.867708072284,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f449-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f44a-b044-e053-0a32095ab044",
@@ -842,6 +869,7 @@
     "sggCode": "11470",
     "name": "목성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동동로 50",
     "latitude": 37.5131642340354,
     "longitude": 126.861044450975,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "31% (4명/13명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 3
+      "under1": 31,
+      "year1to2": 15,
+      "year2to4": 23,
+      "year4to6": 8,
+      "over6": 23
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f44a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5de-b044-e053-0a32095ab044",
@@ -873,6 +901,7 @@
     "sggCode": "11470",
     "name": "서울서정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동로8길 19",
     "latitude": 37.524292094207,
     "longitude": 126.867193993735,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시10분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5de-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f649-b044-e053-0a32095ab044",
@@ -904,6 +933,7 @@
     "sggCode": "11470",
     "name": "서울신원초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양천구 남부순환로58길 32",
     "latitude": 37.5295411710137,
     "longitude": 126.829459492762,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 67,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f649-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f7f5-b044-e053-0a32095ab044",
@@ -935,6 +965,7 @@
     "sggCode": "11470",
     "name": "계상유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 남부순환로86길 22",
     "latitude": 37.5125092579441,
     "longitude": 126.839850665004,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "30% (3명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 3,
+      "under1": 18,
+      "year1to2": 18,
+      "year2to4": 27,
       "year4to6": 0,
-      "over6": 4
+      "over6": 37
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f7f5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f883-b044-e053-0a32095ab044",
@@ -966,6 +997,7 @@
     "sggCode": "11470",
     "name": "서울양목초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동로11길 30",
     "latitude": 37.5236603982685,
     "longitude": 126.861681274287,
@@ -977,19 +1009,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "56% (5명/9명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 20,
+      "year1to2": 20,
+      "year2to4": 20,
+      "year4to6": 20,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f883-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8f6-b044-e053-0a32095ab044",
@@ -997,6 +1029,7 @@
     "sggCode": "11470",
     "name": "목동다솜유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 월정로9길 23-4",
     "latitude": 37.524247786636,
     "longitude": 126.838771154672,
@@ -1008,19 +1041,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 60,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 40,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8f6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fae5-b044-e053-0a32095ab044",
@@ -1028,6 +1061,7 @@
     "sggCode": "11470",
     "name": "신예유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 신정로 290",
     "latitude": 37.5130129581228,
     "longitude": 126.85301719021,
@@ -1039,19 +1073,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/3명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 43,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 29,
+      "year4to6": 14,
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fae5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe4b-b044-e053-0a32095ab044",
@@ -1059,6 +1093,7 @@
     "sggCode": "11470",
     "name": "아란유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동서로 100",
     "latitude": 37.5339224818752,
     "longitude": 126.873376223052,
@@ -1070,19 +1105,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "27% (3명/11명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 3,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 8,
+      "year4to6": 8,
+      "over6": 9
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe4b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fead-b044-e053-0a32095ab044",
@@ -1090,6 +1125,7 @@
     "sggCode": "11470",
     "name": "서울양화초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양천구 목동중앙북로16길 57",
     "latitude": 37.5438701816461,
     "longitude": 126.874520405091,
@@ -1101,19 +1137,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fead-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-005d-b044-e053-0a32095ab044",
@@ -1121,6 +1157,7 @@
     "sggCode": "11470",
     "name": "튼튼유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 양천구 중앙로52길 62",
     "latitude": 37.5260329949362,
     "longitude": 126.857153699859,
@@ -1132,19 +1169,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (3명/7명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 3,
+      "under1": 13,
+      "year1to2": 25,
+      "year2to4": 38,
       "year4to6": 0,
-      "over6": 2
+      "over6": 24
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-005d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "d72d2e90-cf0d-4a9b-8697-a47e692aa3ea",
@@ -1152,6 +1189,7 @@
     "sggCode": "11470",
     "name": "서울신정유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 양천구 신정로7길 81-4",
     "latitude": 37.51357077726,
     "longitude": 126.833371811835,
@@ -1163,18 +1201,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (10명/10명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 2,
-      "year2to4": 3,
-      "year4to6": 2,
+      "under1": 42,
+      "year1to2": 17,
+      "year2to4": 25,
+      "year4to6": 17,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=d72d2e90-cf0d-4a9b-8697-a47e692aa3ea",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

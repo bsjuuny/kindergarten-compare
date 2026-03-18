@@ -5,6 +5,7 @@
     "sggCode": "41550",
     "name": "백성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 아양3로 41",
     "latitude": 37.00547297064299,
     "longitude": 127.25190839209594,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=10e3df59-cff6-4ab1-a59b-153f5524adf8",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe47-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "41550",
     "name": "금광초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 금광초교길 54",
     "latitude": 36.9997558786406,
     "longitude": 127.324877700853,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe47-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff11-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "41550",
     "name": "안성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 안성시 실왕길 12",
     "latitude": 37.0246051650677,
     "longitude": 127.266825823738,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시20분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (3명/12명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 5,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 17,
+      "year1to2": 17,
+      "year2to4": 42,
+      "year4to6": 8,
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff11-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff12-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "41550",
     "name": "엄마사랑유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 안성시 공도3로 19",
     "latitude": 37.0013527187248,
     "longitude": 127.170002103515,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
+      "year1to2": 20,
+      "year2to4": 40,
       "year4to6": 0,
-      "over6": 2
+      "over6": 40
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff12-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff45-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "41550",
     "name": "보개초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 보개원삼로 649",
     "latitude": 37.0425321257873,
     "longitude": 127.308155563647,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff45-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff46-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "41550",
     "name": "삼죽초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 삼죽초교길 20",
     "latitude": 37.0753519780685,
     "longitude": 127.373727684596,
@@ -171,11 +177,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -183,7 +189,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff46-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff47-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "41550",
     "name": "원곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 가천중앙1길 51-17",
     "latitude": 37.0417519821435,
     "longitude": 127.127835426881,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff47-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0108-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "41550",
     "name": "성모유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 안성시 마산길 5",
     "latitude": 36.9752969829841,
     "longitude": 127.216190598681,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시30분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (3명/7명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 43,
+      "year1to2": 14,
+      "year2to4": 29,
+      "year4to6": 14,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0108-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02a2-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "41550",
     "name": "마전초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 서동대로 5915",
     "latitude": 37.0309612399425,
     "longitude": 127.341051624796,
@@ -264,19 +273,12 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
-    "teacherTenure": {
-      "under1": 0,
-      "year1to2": 0,
-      "year2to4": 0,
-      "year4to6": 0,
-      "over6": 0
-    },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02a2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-03a0-b044-e053-0a32095ab044",
@@ -284,6 +286,7 @@
     "sggCode": "41550",
     "name": "비룡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 비룡로 78",
     "latitude": 37.0147448633295,
     "longitude": 127.262095337642,
@@ -295,19 +298,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year1to2": 33,
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-03a0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-03a1-b044-e053-0a32095ab044",
@@ -315,6 +318,7 @@
     "sggCode": "41550",
     "name": "안성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 혜산로 13",
     "latitude": 37.0110241618694,
     "longitude": 127.272432076977,
@@ -326,19 +330,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-03a1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06bc-b044-e053-0a32095ab044",
@@ -346,6 +350,7 @@
     "sggCode": "41550",
     "name": "명덕초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 미륵로 16",
     "latitude": 37.0508972798069,
     "longitude": 127.263162744204,
@@ -357,19 +362,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06bc-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06bd-b044-e053-0a32095ab044",
@@ -377,6 +382,7 @@
     "sggCode": "41550",
     "name": "문기초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 서동대로 4424",
     "latitude": 37.0076359539958,
     "longitude": 127.193618396168,
@@ -388,19 +394,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06bd-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-07b8-b044-e053-0a32095ab044",
@@ -408,6 +414,7 @@
     "sggCode": "41550",
     "name": "안법유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 안성시 혜산로 33",
     "latitude": 37.0112197800371,
     "longitude": 127.273849945663,
@@ -419,19 +426,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 29,
+      "year1to2": 14,
       "year2to4": 0,
-      "year4to6": 3,
-      "over6": 1
+      "year4to6": 43,
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-07b8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0978-b044-e053-0a32095ab044",
@@ -439,6 +446,7 @@
     "sggCode": "41550",
     "name": "한울유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 안성시 송원길 19",
     "latitude": 37.0075208878791,
     "longitude": 127.172144768107,
@@ -450,19 +458,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시40분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "17% (1명/6명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 14,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 3,
-      "over6": 2
+      "year2to4": 14,
+      "year4to6": 43,
+      "over6": 29
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0978-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0bf9-b044-e053-0a32095ab044",
@@ -470,6 +478,7 @@
     "sggCode": "41550",
     "name": "파랑새유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 안성시 진사길 62",
     "latitude": 36.9894214729383,
     "longitude": 127.14147636155,
@@ -481,19 +490,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시40분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "11% (1명/9명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 6,
+      "under1": 40,
+      "year1to2": 60,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0bf9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0ce8-b044-e053-0a32095ab044",
@@ -501,6 +510,7 @@
     "sggCode": "41550",
     "name": "봄누리유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 백성2길 59",
     "latitude": 37.0111756860953,
     "longitude": 127.267360092471,
@@ -512,19 +522,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "78% (7명/9명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 4,
-      "year4to6": 2,
-      "over6": 0
+      "year2to4": 44,
+      "year4to6": 22,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0ce8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0f7f-b044-e053-0a32095ab044",
@@ -532,6 +542,7 @@
     "sggCode": "41550",
     "name": "개정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 미양로 72",
     "latitude": 36.9608003513321,
     "longitude": 127.188997680317,
@@ -543,11 +554,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -555,7 +566,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0f7f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0f80-b044-e053-0a32095ab044",
@@ -563,6 +574,7 @@
     "sggCode": "41550",
     "name": "공도초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 공도1로 9",
     "latitude": 37.0002032558934,
     "longitude": 127.168338873038,
@@ -574,19 +586,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 50,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0f80-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "9365cbcb-8a64-4a34-8a77-0af26f0a8c63",
@@ -594,6 +606,7 @@
     "sggCode": "41550",
     "name": "별빛누리유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 고무다리길 121",
     "latitude": 36.9900424703026,
     "longitude": 127.174642449847,
@@ -605,19 +618,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "90% (9명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 3,
-      "over6": 0
+      "under1": 22,
+      "year1to2": 22,
+      "year2to4": 22,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=9365cbcb-8a64-4a34-8a77-0af26f0a8c63",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe46-b044-e053-0a32095ab044",
@@ -625,6 +638,7 @@
     "sggCode": "41550",
     "name": "개산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 외개산길 42",
     "latitude": 36.9844792647724,
     "longitude": 127.302020801415,
@@ -636,19 +650,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe46-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fbc1-b044-e053-0a32095ab044",
@@ -656,6 +670,7 @@
     "sggCode": "41550",
     "name": "만정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 송원길 12",
     "latitude": 37.0069419335908,
     "longitude": 127.171734973226,
@@ -667,19 +682,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 50,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fbc1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fb04-b044-e053-0a32095ab044",
@@ -687,6 +702,7 @@
     "sggCode": "41550",
     "name": "용머리초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 기업단지로 57",
     "latitude": 37.0027368674447,
     "longitude": 127.158369038069,
@@ -698,19 +714,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fb04-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ed72-b044-e053-0a32095ab044",
@@ -718,6 +734,7 @@
     "sggCode": "41550",
     "name": "사관유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 안성시 벚꽃길 43",
     "latitude": 36.9992543697485,
     "longitude": 127.153929216868,
@@ -729,19 +746,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (2명/10명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 1,
-      "year2to4": 4,
-      "year4to6": 1,
+      "under1": 40,
+      "year1to2": 10,
+      "year2to4": 40,
+      "year4to6": 10,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ed72-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-edad-b044-e053-0a32095ab044",
@@ -749,6 +766,7 @@
     "sggCode": "41550",
     "name": "양진초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 진사1길 14",
     "latitude": 36.9885884546774,
     "longitude": 127.140255412336,
@@ -760,19 +778,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (6명/6명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 67,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-edad-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-edae-b044-e053-0a32095ab044",
@@ -780,6 +798,7 @@
     "sggCode": "41550",
     "name": "일죽초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 주래본죽로 72",
     "latitude": 37.0916525413246,
     "longitude": 127.481714016301,
@@ -791,19 +810,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 4,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-edae-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-edaf-b044-e053-0a32095ab044",
@@ -811,6 +830,7 @@
     "sggCode": "41550",
     "name": "죽산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 죽산초교��� 43",
     "latitude": 37.0784795107155,
     "longitude": 127.421191362484,
@@ -822,19 +842,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-edaf-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-edb0-b044-e053-0a32095ab044",
@@ -842,6 +862,7 @@
     "sggCode": "41550",
     "name": "현매초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 매향길 61",
     "latitude": 36.9360805215213,
     "longitude": 127.230542246557,
@@ -853,19 +874,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-edb0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f039-b044-e053-0a32095ab044",
@@ -873,6 +894,7 @@
     "sggCode": "41550",
     "name": "리더스유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 안성시 기업단지로 57-50",
     "latitude": 37.0006088779158,
     "longitude": 127.155356726196,
@@ -884,19 +906,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (3명/9명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 22,
+      "year1to2": 22,
+      "year2to4": 11,
+      "year4to6": 22,
+      "over6": 23
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f039-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f22d-b044-e053-0a32095ab044",
@@ -904,6 +926,7 @@
     "sggCode": "41550",
     "name": "미곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 안성맞춤대로 2304-9",
     "latitude": 37.1108029376327,
     "longitude": 127.245062045391,
@@ -915,19 +938,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f22d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f22e-b044-e053-0a32095ab044",
@@ -935,6 +958,7 @@
     "sggCode": "41550",
     "name": "보체초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 보체길 47",
     "latitude": 36.9741431580807,
     "longitude": 127.238169465835,
@@ -946,11 +970,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -958,7 +982,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f22e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f55b-b044-e053-0a32095ab044",
@@ -966,6 +990,7 @@
     "sggCode": "41550",
     "name": "광덕초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 내리1길 25",
     "latitude": 37.0089113443173,
     "longitude": 127.235727950555,
@@ -977,19 +1002,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f55b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f55c-b044-e053-0a32095ab044",
@@ -997,6 +1022,7 @@
     "sggCode": "41550",
     "name": "광선초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 개좌길 16",
     "latitude": 37.0081667105626,
     "longitude": 127.433139257319,
@@ -1008,19 +1034,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f55c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f55d-b044-e053-0a32095ab044",
@@ -1028,6 +1054,7 @@
     "sggCode": "41550",
     "name": "내혜홀초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 내혜홀3길 29",
     "latitude": 37.0062903747826,
     "longitude": 127.265320105955,
@@ -1039,19 +1066,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f55d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f61c-b044-e053-0a32095ab044",
@@ -1059,6 +1086,7 @@
     "sggCode": "41550",
     "name": "혜윰유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 안성시 중앙로 110-4",
     "latitude": 37.0120870555622,
     "longitude": 127.240827735203,
@@ -1070,19 +1098,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (2명/8명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 4,
-      "year2to4": 2,
+      "under1": 25,
+      "year1to2": 50,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f61c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f63b-b044-e053-0a32095ab044",
@@ -1090,6 +1118,7 @@
     "sggCode": "41550",
     "name": "다온프라임유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 안성시 서동대로 4079",
     "latitude": 37.0005827120239,
     "longitude": 127.158153895956,
@@ -1101,19 +1130,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~16시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/7명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 2,
+      "under1": 43,
+      "year1to2": 29,
+      "year2to4": 29,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f63b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f679-b044-e053-0a32095ab044",
@@ -1121,6 +1150,7 @@
     "sggCode": "41550",
     "name": "미양초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 양지길 40",
     "latitude": 36.9753693842996,
     "longitude": 127.212934897187,
@@ -1132,19 +1162,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f679-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f67a-b044-e053-0a32095ab044",
@@ -1152,6 +1182,7 @@
     "sggCode": "41550",
     "name": "서운초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 서운초교길 24",
     "latitude": 36.9466148371128,
     "longitude": 127.254656841515,
@@ -1163,19 +1194,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f67a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f67b-b044-e053-0a32095ab044",
@@ -1183,6 +1214,7 @@
     "sggCode": "41550",
     "name": "금광초등학교조령분교장병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 사흥길 59",
     "latitude": 37.0012541742055,
     "longitude": 127.358019978773,
@@ -1194,11 +1226,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1206,7 +1238,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f67b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa06-b044-e053-0a32095ab044",
@@ -1214,6 +1246,7 @@
     "sggCode": "41550",
     "name": "고삼초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 고삼호수로 37",
     "latitude": 37.0827346804749,
     "longitude": 127.264859646127,
@@ -1225,19 +1258,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시50분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa06-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa07-b044-e053-0a32095ab044",
@@ -1245,6 +1278,7 @@
     "sggCode": "41550",
     "name": "동신초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 사갑뜰길 6",
     "latitude": 37.0122725077456,
     "longitude": 127.304736443268,
@@ -1256,19 +1290,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa07-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fab3-b044-e053-0a32095ab044",
@@ -1276,6 +1310,7 @@
     "sggCode": "41550",
     "name": "삼성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 안성시 봉기길 161",
     "latitude": 36.9950754325494,
     "longitude": 127.181678412147,
@@ -1287,19 +1322,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "28% (5명/18명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 3,
-      "year2to4": 7,
-      "year4to6": 1,
-      "over6": 4
+      "under1": 21,
+      "year1to2": 16,
+      "year2to4": 37,
+      "year4to6": 5,
+      "over6": 21
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fab3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "af03712b-1b5a-4c17-8096-bcfe8f4f81e7",
@@ -1307,6 +1342,7 @@
     "sggCode": "41550",
     "name": "어울초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 안성시 신령로 58",
     "latitude": 37.0152744443,
     "longitude": 127.2204420143,
@@ -1318,18 +1354,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 3,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=af03712b-1b5a-4c17-8096-bcfe8f4f81e7",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

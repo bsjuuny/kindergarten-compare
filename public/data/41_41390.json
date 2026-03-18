@@ -5,6 +5,7 @@
     "sggCode": "41390",
     "name": "운흥초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 목감둘레로 109",
     "latitude": 37.3727485576,
     "longitude": 126.8526677456,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 2,
+      "under1": 20,
+      "year1to2": 40,
+      "year2to4": 40,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=08a0fbee-1c02-490b-b9ac-dd82aad7454a",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0f72-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "41390",
     "name": "서촌초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 정왕대로118번길 27",
     "latitude": 37.3492910054393,
     "longitude": 126.727375140449,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0f72-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e95-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "41390",
     "name": "모아유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 승지로 104",
     "latitude": 37.372771085032,
     "longitude": 126.811641183949,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (6명/14명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
-      "year2to4": 5,
-      "year4to6": 3,
-      "over6": 2
+      "under1": 7,
+      "year1to2": 21,
+      "year2to4": 36,
+      "year4to6": 21,
+      "over6": 15
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e95-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e8c-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "41390",
     "name": "진영유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 포도원로 39",
     "latitude": 37.4360645152254,
     "longitude": 126.778336419683,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 2,
+      "year2to4": 25,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e8c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e7c-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "41390",
     "name": "시흥월곶초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 월곶해안로 69",
     "latitude": 37.3917667017787,
     "longitude": 126.737339007006,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e7c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d2f-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "41390",
     "name": "함현초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 역전로 455",
     "latitude": 37.3653010659108,
     "longitude": 126.737791832594,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d2f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0ce1-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "41390",
     "name": "웃터골초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 은행고길 18",
     "latitude": 37.4396014174964,
     "longitude": 126.799152297734,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 3,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0ce1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c33-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "41390",
     "name": "냉정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 역전로 369",
     "latitude": 37.3573788670125,
     "longitude": 126.735125230495,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c33-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0bff-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "41390",
     "name": "은계초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 대은로103번길 24",
     "latitude": 37.4473132691504,
     "longitude": 126.798213354764,
@@ -264,11 +273,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -276,7 +285,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0bff-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0bfe-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "41390",
     "name": "시흥도원초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 수인로3413번길 34",
     "latitude": 37.44011398021,
     "longitude": 126.777986665718,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0bfe-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0a23-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "41390",
     "name": "시화유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 큰솔로7번길 10",
     "latitude": 37.3393447737015,
     "longitude": 126.7516914431,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "70% (7명/10명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 3,
+      "under1": 38,
+      "year1to2": 13,
+      "year2to4": 13,
+      "year4to6": 38,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0a23-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-091d-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "41390",
     "name": "꿈나래유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 장곡로70번길 7-3",
     "latitude": 37.3801574645325,
     "longitude": 126.780689682335,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (5명/10명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 4,
-      "year4to6": 3,
-      "over6": 1
+      "under1": 10,
+      "year1to2": 10,
+      "year2to4": 40,
+      "year4to6": 30,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-091d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-091c-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "41390",
     "name": "궁전유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥�� 정왕천로411번길 51",
     "latitude": 37.3470400490922,
     "longitude": 126.747189303365,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (3명/7명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 2
+      "year1to2": 14,
+      "year2to4": 29,
+      "year4to6": 29,
+      "over6": 28
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-091c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-08b9-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "41390",
     "name": "해맑은유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 시청로 77",
     "latitude": 37.3808988270056,
     "longitude": 126.798923898703,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (4명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
+      "under1": 33,
+      "year1to2": 33,
       "year2to4": 0,
-      "year4to6": 2,
-      "over6": 0
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-08b9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-08b8-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "41390",
     "name": "장곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 장곡로70번길 12",
     "latitude": 37.380774584762,
     "longitude": 126.782121116874,
@@ -450,11 +465,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -462,7 +477,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-08b8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-07af-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "41390",
     "name": "월포초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 월곶중앙로 18",
     "latitude": 37.3874754321602,
     "longitude": 126.742827292999,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-07af-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0755-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "41390",
     "name": "소망유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 대골안길 26-10",
     "latitude": 37.4475455259336,
     "longitude": 126.788665958747,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (4명/7명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
-      "year4to6": 2,
-      "over6": 2
+      "year2to4": 43,
+      "year4to6": 29,
+      "over6": 28
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0755-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "2428a3f3-8ae6-4724-af3b-cb0ef5eb77f6",
@@ -532,6 +549,7 @@
     "sggCode": "41390",
     "name": "배곧새봄유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 배곧4로 94-15",
     "latitude": 37.3731724471125,
     "longitude": 126.733355069881,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "88% (21명/24명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 8,
-      "year2to4": 1,
-      "year4to6": 2,
+      "under1": 27,
+      "year1to2": 53,
+      "year2to4": 7,
+      "year4to6": 13,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=2428a3f3-8ae6-4724-af3b-cb0ef5eb77f6",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "28a9b124-1204-4b4e-a734-e8bd09ba275b",
@@ -563,6 +581,7 @@
     "sggCode": "41390",
     "name": "하하유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 연성로29번길 31",
     "latitude": 37.3934093275248,
     "longitude": 126.805413447894,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "22% (2명/9명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 3,
-      "year2to4": 3,
-      "year4to6": 1,
+      "under1": 30,
+      "year1to2": 30,
+      "year2to4": 30,
+      "year4to6": 10,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=28a9b124-1204-4b4e-a734-e8bd09ba275b",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "31243c98-95b5-4767-9376-76742f863ccd",
@@ -594,6 +613,7 @@
     "sggCode": "41390",
     "name": "시화나래유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 거북섬남로 80",
     "latitude": 37.3201906845314,
     "longitude": 126.689454396077,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "96% (24명/25명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 10,
+      "under1": 14,
+      "year1to2": 14,
+      "year2to4": 71,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=31243c98-95b5-4767-9376-76742f863ccd",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "e264a849-8f5e-444c-923c-56af2842f458",
@@ -625,6 +645,7 @@
     "sggCode": "41390",
     "name": "시흥가온유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 장현서1길 4",
     "latitude": 37.3720266437584,
     "longitude": 126.795320598125,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "68% (17명/25명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 20,
       "year1to2": 0,
-      "year2to4": 12,
+      "year2to4": 80,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=e264a849-8f5e-444c-923c-56af2842f458",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "c5f9b7bd-3987-4f23-8dd3-536a3f5c23c1",
@@ -656,6 +677,7 @@
     "sggCode": "41390",
     "name": "은빛초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 은계로142번길 6",
     "latitude": 37.4342869907264,
     "longitude": 126.805182362711,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
+      "under1": 20,
+      "year1to2": 40,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 40,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=c5f9b7bd-3987-4f23-8dd3-536a3f5c23c1",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "bf9012a4-7787-48dc-9b72-6e993c97d0fe",
@@ -687,6 +709,7 @@
     "sggCode": "41390",
     "name": "산현유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 목감둘레로 59-4",
     "latitude": 37.3728784291334,
     "longitude": 126.84869787081,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "87% (27명/31명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 14,
+      "under1": 17,
+      "year1to2": 6,
+      "year2to4": 78,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=bf9012a4-7787-48dc-9b72-6e993c97d0fe",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "be180228-c6fb-4dd6-8185-54e9e7c40493",
@@ -718,6 +741,7 @@
     "sggCode": "41390",
     "name": "배곧누리초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 해송십리로 472-30",
     "latitude": 37.382765300968664,
     "longitude": 126.73209306483055,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 25,
+      "year1to2": 25,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=be180228-c6fb-4dd6-8185-54e9e7c40493",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "a4a4834c-5b49-4a2d-a07d-8311cc46c148",
@@ -749,6 +773,7 @@
     "sggCode": "41390",
     "name": "조남초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 목감둘레로 229-9",
     "latitude": 37.3794068078,
     "longitude": 126.8598176177,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=a4a4834c-5b49-4a2d-a07d-8311cc46c148",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "8e1f843c-4e1d-47ac-b114-f09af780b453",
@@ -780,6 +805,7 @@
     "sggCode": "41390",
     "name": "배곧초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 배곧4로 44-5",
     "latitude": 37.3759486253513,
     "longitude": 126.729266825364,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=8e1f843c-4e1d-47ac-b114-f09af780b453",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "89a6c47d-5244-4173-9698-cd8dd4fc34d9",
@@ -811,6 +837,7 @@
     "sggCode": "41390",
     "name": "한여울초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 능곡군자로 2",
     "latitude": 37.36562802429089,
     "longitude": 126.80546929094352,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "62% (8명/13명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 4,
+      "under1": 29,
+      "year1to2": 14,
+      "year2to4": 57,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=89a6c47d-5244-4173-9698-cd8dd4fc34d9",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "838f8d7b-8004-4fdb-94cd-0e76a396a270",
@@ -842,6 +869,7 @@
     "sggCode": "41390",
     "name": "배곧유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 배곧4로 44-8",
     "latitude": 37.3759486253513,
     "longitude": 126.729266825364,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "74% (14명/19명)",
     "teacherTenure": {
-      "under1": 5,
+      "under1": 45,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 4,
-      "over6": 0
+      "year2to4": 18,
+      "year4to6": 36,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=838f8d7b-8004-4fdb-94cd-0e76a396a270",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "8048a3c4-752b-44a9-a2f1-33c70d0bcda8",
@@ -873,6 +901,7 @@
     "sggCode": "41390",
     "name": "배곧라온초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 배곧4로 94-39",
     "latitude": 37.3725906865,
     "longitude": 126.7351729765,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 1
+      "over6": 34
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=8048a3c4-752b-44a9-a2f1-33c70d0bcda8",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "7ed1e901-46a4-4f88-ac83-c5684755fde5",
@@ -904,6 +933,7 @@
     "sggCode": "41390",
     "name": "배곧누리유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 배곧5로 65-9",
     "latitude": 37.3832878862,
     "longitude": 126.7336855483,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (8명/8명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 25,
+      "year1to2": 13,
+      "year2to4": 38,
+      "year4to6": 13,
+      "over6": 11
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=7ed1e901-46a4-4f88-ac83-c5684755fde5",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "6f004e70-44c8-4bbe-bf97-0e3a0abb121d",
@@ -935,6 +965,7 @@
     "sggCode": "41390",
     "name": "은계유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 은계중앙로 165",
     "latitude": 37.4407015401821,
     "longitude": 126.807743154812,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "81% (25명/31명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 14,
+      "year1to2": 7,
       "year2to4": 0,
-      "year4to6": 11,
+      "year4to6": 79,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=6f004e70-44c8-4bbe-bf97-0e3a0abb121d",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "693aaeb6-cbf6-495a-b272-d0ac0e37335c",
@@ -966,6 +997,7 @@
     "sggCode": "41390",
     "name": "빛가람유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 장현장곡로 37",
     "latitude": 37.3804968804034,
     "longitude": 126.792673896735,
@@ -977,19 +1009,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "85% (17명/20명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 21,
       "year1to2": 0,
-      "year2to4": 11,
+      "year2to4": 79,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=693aaeb6-cbf6-495a-b272-d0ac0e37335c",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "6753ead8-09ce-47af-a9a4-6dd0f2347edb",
@@ -997,6 +1029,7 @@
     "sggCode": "41390",
     "name": "시흥가온초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 장현능곡로 33",
     "latitude": 37.3736986211696,
     "longitude": 126.794303346373,
@@ -1008,19 +1041,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 33,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 67,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=6753ead8-09ce-47af-a9a4-6dd0f2347edb",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "5385a45f-7acd-4bde-9c26-9f834f6797e4",
@@ -1028,6 +1061,7 @@
     "sggCode": "41390",
     "name": "배곧초록유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 배곧1로 28-11",
     "latitude": 37.3604832908016,
     "longitude": 126.711824618511,
@@ -1039,19 +1073,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "74% (23명/31명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 5,
+      "under1": 40,
+      "year1to2": 33,
       "year2to4": 0,
-      "year4to6": 4,
+      "year4to6": 27,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=5385a45f-7acd-4bde-9c26-9f834f6797e4",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "3cfe3a36-56f3-46a3-874a-a641eee31103",
@@ -1059,6 +1093,7 @@
     "sggCode": "41390",
     "name": "조남유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 목감둘레로 199",
     "latitude": 37.376590358,
     "longitude": 126.8584318825,
@@ -1070,19 +1105,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "92% (11명/12명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 1,
-      "year2to4": 5,
-      "year4to6": 3,
+      "under1": 31,
+      "year1to2": 8,
+      "year2to4": 38,
+      "year4to6": 23,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=3cfe3a36-56f3-46a3-874a-a641eee31103",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "37cd9b32-b588-4a7f-8621-491bc1549bc0",
@@ -1090,6 +1125,7 @@
     "sggCode": "41390",
     "name": "산현초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 목감남서로 68",
     "latitude": 37.3749118269,
     "longitude": 126.8448462182,
@@ -1101,19 +1137,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=37cd9b32-b588-4a7f-8621-491bc1549bc0",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-053b-b044-e053-0a32095ab044",
@@ -1121,6 +1157,7 @@
     "sggCode": "41390",
     "name": "다원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 정왕천로375번길 19",
     "latitude": 37.3426358805193,
     "longitude": 126.747602327708,
@@ -1132,19 +1169,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "48% (10명/21명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 4,
+      "under1": 19,
+      "year1to2": 19,
       "year2to4": 0,
-      "year4to6": 6,
-      "over6": 7
+      "year4to6": 29,
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-053b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0530-b044-e053-0a32095ab044",
@@ -1152,6 +1189,7 @@
     "sggCode": "41390",
     "name": "승지초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 승지로 110",
     "latitude": 37.3723853813193,
     "longitude": 126.812740234064,
@@ -1163,19 +1201,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
+      "year1to2": 67,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0530-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-052f-b044-e053-0a32095ab044",
@@ -1183,6 +1221,7 @@
     "sggCode": "41390",
     "name": "서해초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 정왕대로53번길 14",
     "latitude": 37.3561249678587,
     "longitude": 126.724726435062,
@@ -1194,19 +1233,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-052f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa4d-b044-e053-0a32095ab044",
@@ -1214,6 +1253,7 @@
     "sggCode": "41390",
     "name": "한울유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 오이도어시장로 33",
     "latitude": 37.3446115327867,
     "longitude": 126.691429026642,
@@ -1225,19 +1265,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "71% (10명/14명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 5,
-      "year4to6": 2,
-      "over6": 5
+      "year1to2": 14,
+      "year2to4": 36,
+      "year4to6": 14,
+      "over6": 36
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa4d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f867-b044-e053-0a32095ab044",
@@ -1245,6 +1285,7 @@
     "sggCode": "41390",
     "name": "새빛유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 군자로315번길 4",
     "latitude": 37.3582336498329,
     "longitude": 126.772901461249,
@@ -1256,19 +1297,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "10시00분~18시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f867-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f819-b044-e053-0a32095ab044",
@@ -1276,6 +1317,7 @@
     "sggCode": "41390",
     "name": "군자유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 군자로533번길 21",
     "latitude": 37.3446229470769,
     "longitude": 126.786518504875,
@@ -1287,19 +1329,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
+      "year1to2": 75,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f819-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f682-b044-e053-0a32095ab044",
@@ -1307,6 +1349,7 @@
     "sggCode": "41390",
     "name": "생금초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 죽율로 45-42 (죽율동)",
     "latitude": 37.35041360652861,
     "longitude": 126.75758340673893,
@@ -1318,19 +1361,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 33,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 1
+      "year4to6": 33,
+      "over6": 34
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f682-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f646-b044-e053-0a32095ab044",
@@ -1338,6 +1381,7 @@
     "sggCode": "41390",
     "name": "시흥매화초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 매화1로 62",
     "latitude": 37.416347311739,
     "longitude": 126.807886253237,
@@ -1349,19 +1393,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f646-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5ab-b044-e053-0a32095ab044",
@@ -1369,6 +1413,7 @@
     "sggCode": "41390",
     "name": "해오름유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 신현로38번길 15",
     "latitude": 37.4068122359405,
     "longitude": 126.784193269827,
@@ -1380,19 +1425,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~17시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year1to2": 50,
+      "year2to4": 25,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5ab-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3bc-b044-e053-0a32095ab044",
@@ -1400,6 +1445,7 @@
     "sggCode": "41390",
     "name": "예일유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 매화로 66",
     "latitude": 37.4136930147863,
     "longitude": 126.814420315607,
@@ -1411,19 +1457,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "31% (4명/13명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 4,
-      "over6": 2
+      "under1": 31,
+      "year1to2": 15,
+      "year2to4": 8,
+      "year4to6": 31,
+      "over6": 15
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3bc-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3ba-b044-e053-0a32095ab044",
@@ -1431,6 +1477,7 @@
     "sggCode": "41390",
     "name": "아름유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 포도원로 96",
     "latitude": 37.434257453758,
     "longitude": 126.78444141608,
@@ -1442,19 +1489,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "36% (4명/11명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 1,
-      "year4to6": 4,
-      "over6": 1
+      "under1": 18,
+      "year1to2": 27,
+      "year2to4": 9,
+      "year4to6": 36,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3ba-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f1cb-b044-e053-0a32095ab044",
@@ -1462,6 +1509,7 @@
     "sggCode": "41390",
     "name": "시흥은행초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 대은로104번길 29-10",
     "latitude": 37.44215339263,
     "longitude": 126.800560668953,
@@ -1473,19 +1521,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f1cb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f1c9-b044-e053-0a32095ab044",
@@ -1493,6 +1541,7 @@
     "sggCode": "41390",
     "name": "소래초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 호현로27번길 14",
     "latitude": 37.4439597172948,
     "longitude": 126.784449977056,
@@ -1504,19 +1553,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f1c9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f128-b044-e053-0a32095ab044",
@@ -1524,6 +1573,7 @@
     "sggCode": "41390",
     "name": "등밭유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 은행로 280",
     "latitude": 37.4425907442656,
     "longitude": 126.797401931849,
@@ -1535,19 +1585,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "27% (3명/11명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 4,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 18,
+      "year1to2": 18,
+      "year2to4": 36,
+      "year4to6": 9,
+      "over6": 19
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f128-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f008-b044-e053-0a32095ab044",
@@ -1555,6 +1605,7 @@
     "sggCode": "41390",
     "name": "금모래초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 대은로 16-29",
     "latitude": 37.4416005646593,
     "longitude": 126.79520037634,
@@ -1566,19 +1617,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f008-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efdf-b044-e053-0a32095ab044",
@@ -1586,6 +1637,7 @@
     "sggCode": "41390",
     "name": "검바위초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 수인로3247번길 59",
     "latitude": 37.4326588599934,
     "longitude": 126.798495105278,
@@ -1597,19 +1649,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efdf-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef76-b044-e053-0a32095ab044",
@@ -1617,6 +1669,7 @@
     "sggCode": "41390",
     "name": "송운초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 옥구천동로 433-25",
     "latitude": 37.3601555394657,
     "longitude": 126.730333213288,
@@ -1628,19 +1681,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef76-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-eec4-b044-e053-0a32095ab044",
@@ -1648,6 +1701,7 @@
     "sggCode": "41390",
     "name": "하중초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 하중로209번길 10",
     "latitude": 37.39321110674,
     "longitude": 126.807424709766,
@@ -1659,11 +1713,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1671,7 +1725,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-eec4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "0cd45287-5c8f-4726-bf29-c5c7474b801e",
@@ -1679,6 +1733,7 @@
     "sggCode": "41390",
     "name": "배곧한울초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 배곧1로 28-25",
     "latitude": 37.3604913199291,
     "longitude": 126.712940402358,
@@ -1690,19 +1745,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=0cd45287-5c8f-4726-bf29-c5c7474b801e",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-faa8-b044-e053-0a32095ab044",
@@ -1710,6 +1765,7 @@
     "sggCode": "41390",
     "name": "세심유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 시흥대로 1059",
     "latitude": 37.4306221387144,
     "longitude": 126.792354079684,
@@ -1721,19 +1777,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-faa8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-faa9-b044-e053-0a32095ab044",
@@ -1741,6 +1797,7 @@
     "sggCode": "41390",
     "name": "시흥유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 은행로12번길 24",
     "latitude": 37.4329838286708,
     "longitude": 126.795847130842,
@@ -1752,19 +1809,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (3명/12명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 5,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 17,
+      "year1to2": 25,
+      "year2to4": 42,
+      "year4to6": 8,
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-faa9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-faaa-b044-e053-0a32095ab044",
@@ -1772,6 +1829,7 @@
     "sggCode": "41390",
     "name": "시흥초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 정왕대로143번길 15",
     "latitude": 37.352050315925,
     "longitude": 126.731699532012,
@@ -1783,19 +1841,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-faaa-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0499-b044-e053-0a32095ab044",
@@ -1803,6 +1861,7 @@
     "sggCode": "41390",
     "name": "진말초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 황고개로 567",
     "latitude": 37.3808400296239,
     "longitude": 126.788325807885,
@@ -1814,11 +1873,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1826,7 +1885,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0499-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0293-b044-e053-0a32095ab044",
@@ -1834,6 +1893,7 @@
     "sggCode": "41390",
     "name": "목감초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 목감초등길 49",
     "latitude": 37.3870014499618,
     "longitude": 126.858534032256,
@@ -1845,11 +1905,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1857,7 +1917,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0293-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-017d-b044-e053-0a32095ab044",
@@ -1865,6 +1925,7 @@
     "sggCode": "41390",
     "name": "계수초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 계수로 203",
     "latitude": 37.4534274033093,
     "longitude": 126.819992222991,
@@ -1876,11 +1937,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1888,7 +1949,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-017d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0107-b044-e053-0a32095ab044",
@@ -1896,6 +1957,7 @@
     "sggCode": "41390",
     "name": "옥터초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 옥터로 33",
     "latitude": 37.345081755369,
     "longitude": 126.692442107938,
@@ -1907,19 +1969,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0107-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff8f-b044-e053-0a32095ab044",
@@ -1927,6 +1989,7 @@
     "sggCode": "41390",
     "name": "시화리라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 정왕천로427번길 13",
     "latitude": 37.3460376524166,
     "longitude": 126.752008889224,
@@ -1938,19 +2001,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (3명/7명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 2,
+      "under1": 29,
+      "year1to2": 14,
+      "year2to4": 29,
+      "year4to6": 29,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff8f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff17-b044-e053-0a32095ab044",
@@ -1958,6 +2021,7 @@
     "sggCode": "41390",
     "name": "시흥장현초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 시청로80번길 5",
     "latitude": 37.382113528565,
     "longitude": 126.799018429099,
@@ -1969,19 +2033,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff17-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fedd-b044-e053-0a32095ab044",
@@ -1989,6 +2053,7 @@
     "sggCode": "41390",
     "name": "아란유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 하중로173번길 11",
     "latitude": 37.3963806541737,
     "longitude": 126.803953256712,
@@ -2000,19 +2065,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fedd-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fedb-b044-e053-0a32095ab044",
@@ -2020,6 +2085,7 @@
     "sggCode": "41390",
     "name": "세종유��원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 인선길 56",
     "latitude": 37.3775640960328,
     "longitude": 126.782447530781,
@@ -2031,19 +2097,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (3명/7명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 13,
       "year1to2": 0,
-      "year2to4": 6,
-      "year4to6": 1,
+      "year2to4": 75,
+      "year4to6": 13,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fedb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-feda-b044-e053-0a32095ab044",
@@ -2051,6 +2117,7 @@
     "sggCode": "41390",
     "name": "HJ프라임유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 대골안길 26-1",
     "latitude": 37.447142999696,
     "longitude": 126.789028713185,
@@ -2062,19 +2129,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (1명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 25,
+      "year1to2": 25,
+      "year2to4": 25,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-feda-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe7f-b044-e053-0a32095ab044",
@@ -2082,6 +2149,7 @@
     "sggCode": "41390",
     "name": "풍림월드유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 월곶해안로 87",
     "latitude": 37.3906517422,
     "longitude": 126.7356677622,
@@ -2093,19 +2161,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (3명/9명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 5,
+      "under1": 33,
+      "year1to2": 56,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 11
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe7f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcc5-b044-e053-0a32095ab044",
@@ -2113,6 +2181,7 @@
     "sggCode": "41390",
     "name": "보람유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 정왕천로408번길 19",
     "latitude": 37.3433947377021,
     "longitude": 126.753705980324,
@@ -2124,19 +2193,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "44% (8명/18명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 4,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 5
+      "under1": 24,
+      "year1to2": 24,
+      "year2to4": 18,
+      "year4to6": 6,
+      "over6": 28
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcc5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcc3-b044-e053-0a32095ab044",
@@ -2144,6 +2213,7 @@
     "sggCode": "41390",
     "name": "매화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 매화1로 5",
     "latitude": 37.4152601231129,
     "longitude": 126.81404724008,
@@ -2155,19 +2225,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 13,
       "year1to2": 0,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 3
+      "year2to4": 38,
+      "year4to6": 13,
+      "over6": 36
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcc3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcb1-b044-e053-0a32095ab044",
@@ -2175,6 +2245,7 @@
     "sggCode": "41390",
     "name": "은행유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 검바위1로 9",
     "latitude": 37.430418969316,
     "longitude": 126.793835392967,
@@ -2186,19 +2257,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시20분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "18% (2명/11명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 2,
-      "year2to4": 2,
+      "under1": 45,
+      "year1to2": 18,
+      "year2to4": 18,
       "year4to6": 0,
-      "over6": 2
+      "over6": 19
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcb1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fb44-b044-e053-0a32095ab044",
@@ -2206,6 +2277,7 @@
     "sggCode": "41390",
     "name": "해피아이유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 시흥시 은행로 92",
     "latitude": 37.4397130575101,
     "longitude": 126.797460603077,
@@ -2217,19 +2289,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (4명/10명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 1,
+      "under1": 40,
+      "year1to2": 20,
+      "year2to4": 10,
       "year4to6": 0,
-      "over6": 3
+      "over6": 30
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fb44-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-facf-b044-e053-0a32095ab044",
@@ -2237,6 +2309,7 @@
     "sggCode": "41390",
     "name": "시흥능곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경���도 시흥시 능곡중앙로 22",
     "latitude": 37.3652954011307,
     "longitude": 126.81292845218,
@@ -2248,19 +2321,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-facf-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-faab-b044-e053-0a32095ab044",
@@ -2268,6 +2341,7 @@
     "sggCode": "41390",
     "name": "신천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 포도원로 88",
     "latitude": 37.4351667856463,
     "longitude": 126.78307984418,
@@ -2279,19 +2353,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-faab-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "fcd90659-074b-4928-aebb-2c79593399bf",
@@ -2299,6 +2373,7 @@
     "sggCode": "41390",
     "name": "배곧해솔초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 시흥시 서울대학로 150-17",
     "latitude": 37.3605495653,
     "longitude": 126.7180891864,
@@ -2310,18 +2385,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=fcd90659-074b-4928-aebb-2c79593399bf",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

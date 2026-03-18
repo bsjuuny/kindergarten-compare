@@ -5,6 +5,7 @@
     "sggCode": "41310",
     "name": "반석유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 구리시 건원대로34번길 67",
     "latitude": 37.6050615199278,
     "longitude": 127.143995330184,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef86-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "8a3e923c-eddd-4644-a82e-32caa1eb9074",
@@ -36,6 +37,7 @@
     "sggCode": "41310",
     "name": "로라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 구리시 인창2로27번길 24",
     "latitude": 37.6053429487521,
     "longitude": 127.129997352729,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 34
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=8a3e923c-eddd-4644-a82e-32caa1eb9074",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "79f1d379-0912-4838-b0d1-d17d2ab97ed0",
@@ -67,6 +69,7 @@
     "sggCode": "41310",
     "name": "산마루초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 갈매순환로 133",
     "latitude": 37.6316236741,
     "longitude": 127.1201676499,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "88% (7명/8명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 1,
+      "year1to2": 40,
+      "year2to4": 40,
+      "year4to6": 20,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=79f1d379-0912-4838-b0d1-d17d2ab97ed0",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "2bb1753f-a8e1-4c01-b006-f3976ed65827",
@@ -98,6 +101,7 @@
     "sggCode": "41310",
     "name": "갈매유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 산마루로 72",
     "latitude": 37.6293162375,
     "longitude": 127.1210611535,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "87% (20명/23명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 7,
-      "over6": 0
+      "under1": 8,
+      "year1to2": 8,
+      "year2to4": 25,
+      "year4to6": 58,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=2bb1753f-a8e1-4c01-b006-f3976ed65827",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e33-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "41310",
     "name": "장자초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 장자대로 40",
     "latitude": 37.586841211212,
     "longitude": 127.135279349051,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e33-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e25-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "41310",
     "name": "동구초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 건원대로76번길 45",
     "latitude": 37.6093147589737,
     "longitude": 127.141840152092,
@@ -171,11 +177,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -183,7 +189,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e25-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c37-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "41310",
     "name": "한마음유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 구리시 건원대로76번길 41",
     "latitude": 37.6102621514039,
     "longitude": 127.140679937502,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 17,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c37-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-096d-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "41310",
     "name": "인창유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 동구릉로 37-13",
     "latitude": 37.6052402631,
     "longitude": 127.131459347,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "83% (10명/12명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 38,
+      "year1to2": 25,
+      "year2to4": 25,
+      "year4to6": 13,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-096d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0902-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "41310",
     "name": "에덴유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 구리시 장자대로37번길 76",
     "latitude": 37.5912382161439,
     "longitude": 127.134770029082,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 5,
+      "under1": 83,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 17
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0902-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0728-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "41310",
     "name": "교문유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 구리시 이문안로 49",
     "latitude": 37.5924262834524,
     "longitude": 127.136844274439,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "22% (2명/9명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 4,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 44,
+      "year4to6": 11,
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0728-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0727-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "41310",
     "name": "갈매초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 갈매중앙로 40",
     "latitude": 37.6284276707364,
     "longitude": 127.116054038144,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 1,
+      "year2to4": 67,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0727-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-057d-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "41310",
     "name": "윤희유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 구리시 안골로20번길 27",
     "latitude": 37.5959181267295,
     "longitude": 127.133353140927,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~16시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (2명/5명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 40,
+      "year1to2": 20,
+      "year2to4": 20,
       "year4to6": 0,
-      "over6": 1
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-057d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-031e-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "41310",
     "name": "구지초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 건원대로76번길 40",
     "latitude": 37.6072618549378,
     "longitude": 127.142256390815,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-031e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-031d-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "41310",
     "name": "구리초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 경춘로276번길 51",
     "latitude": 37.6015361185217,
     "longitude": 127.148124480635,
@@ -419,11 +433,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -431,7 +445,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-031d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-014c-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "41310",
     "name": "덕현유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 구리시 장자대로37번길 59",
     "latitude": 37.5906796198737,
     "longitude": 127.133103478213,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (2명/8명)",
     "teacherTenure": {
-      "under1": 5,
+      "under1": 63,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 13,
       "year4to6": 0,
-      "over6": 2
+      "over6": 24
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-014c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-014b-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "41310",
     "name": "대우유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 구리시 장자대로37번길 22",
     "latitude": 37.5889161671299,
     "longitude": 127.135296069006,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "22% (2명/9명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 11,
       "year1to2": 0,
-      "year2to4": 3,
-      "year4to6": 3,
-      "over6": 2
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 23
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-014b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-009a-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "41310",
     "name": "수택초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 검배로136번길 41",
     "latitude": 37.592104567574,
     "longitude": 127.152433643358,
@@ -512,11 +529,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -524,7 +541,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-009a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd13-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "41310",
     "name": "토평초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 벌말로129번길 17-1",
     "latitude": 37.5880593723982,
     "longitude": 127.146985939171,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd13-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc48-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "41310",
     "name": "예향유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 구리시 건원대로76번길 33",
     "latitude": 37.6084149291421,
     "longitude": 127.140855939223,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (6명/8명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 5,
-      "year4to6": 2,
-      "over6": 1
+      "year2to4": 63,
+      "year4to6": 25,
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc48-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa6c-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "41310",
     "name": "건영유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 구리시 동구릉로 151",
     "latitude": 37.6122840412651,
     "longitude": 127.13603040362,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (2명/5명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 40,
+      "year1to2": 20,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 2
+      "over6": 40
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa6c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5d7-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "41310",
     "name": "교문초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 안골로19번길 16",
     "latitude": 37.5986481378295,
     "longitude": 127.13329873626,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
+      "year1to2": 33,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5d7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f400-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "41310",
     "name": "백문초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 장자대로13번길 12",
     "latitude": 37.5887318989587,
     "longitude": 127.132843347016,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 33,
+      "year1to2": 33,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 0
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f400-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f355-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "41310",
     "name": "부양초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 장자대로 89-2",
     "latitude": 37.5904444819923,
     "longitude": 127.141648781325,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f355-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efc8-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "41310",
     "name": "동인초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 동구릉로103번길 37",
     "latitude": 37.6105791170273,
     "longitude": 127.134125955306,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efc8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efc7-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "41310",
     "name": "도림초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 구리시 아차산로 431",
     "latitude": 37.5932891522793,
     "longitude": 127.129969251666,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efc7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "fb6a43d3-de80-46c8-b26a-31f5fd4e2aa6",
@@ -780,6 +805,7 @@
     "sggCode": "41310",
     "name": "자닮유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 구리시 동구릉로53번길 144",
     "latitude": 37.6101275710963,
     "longitude": 127.130662633234,
@@ -791,18 +817,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (8명/16명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 5,
-      "year2to4": 1,
-      "year4to6": 2,
-      "over6": 3
+      "under1": 31,
+      "year1to2": 31,
+      "year2to4": 6,
+      "year4to6": 13,
+      "over6": 19
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=fb6a43d3-de80-46c8-b26a-31f5fd4e2aa6",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

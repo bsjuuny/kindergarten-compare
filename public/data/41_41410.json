@@ -5,6 +5,7 @@
     "sggCode": "41410",
     "name": "송안초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 송부로73번길 7",
     "latitude": 37.31797740423964,
     "longitude": 126.92118199858922,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 20,
+      "year1to2": 20,
+      "year2to4": 40,
+      "year4to6": 20,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=16bf95f1-29a3-4691-aba9-647770c5ce4c",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcfb-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "41410",
     "name": "그린유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 산본로432번길 10",
     "latitude": 37.3685460698531,
     "longitude": 126.928158503947,
@@ -47,11 +49,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -59,7 +61,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcfb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe29-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "41410",
     "name": "천사유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 수리산로 216",
     "latitude": 37.3658385889956,
     "longitude": 126.923013108095,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시20분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "78% (7명/9명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 22,
+      "year1to2": 11,
+      "year2to4": 22,
+      "year4to6": 22,
+      "over6": 23
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe29-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe6f-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "41410",
     "name": "도장초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 번영로 371",
     "latitude": 37.3486468736835,
     "longitude": 126.92361607943,
@@ -109,11 +113,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -121,7 +125,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe6f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff90-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "41410",
     "name": "사랑유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 오금로 24",
     "latitude": 37.3522256071744,
     "longitude": 126.931493972838,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "88% (7명/8명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 3
+      "year1to2": 25,
+      "year2to4": 25,
+      "year4to6": 13,
+      "over6": 37
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff90-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00e9-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "41410",
     "name": "럭키유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 ��포시 용호1로16번길 26",
     "latitude": 37.3455585606851,
     "longitude": 126.940282802187,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 25,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 2
+      "year4to6": 25,
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00e9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0139-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "41410",
     "name": "광정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 산본로386번길 5-20",
     "latitude": 37.3659357385729,
     "longitude": 126.930597878494,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0139-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-013a-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "41410",
     "name": "군포유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 당산로 13",
     "latitude": 37.3529238324309,
     "longitude": 126.944129243032,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year1to2": 33,
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-013a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-013b-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "41410",
     "name": "그림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 고산로539번길 18",
     "latitude": 37.3629805419259,
     "longitude": 126.922133719066,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (4명/6명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 1,
+      "under1": 67,
+      "year1to2": 17,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 17,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-013b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-01fc-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "41410",
     "name": "홍하유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 번영로550번길 15",
     "latitude": 37.3591124469074,
     "longitude": 126.938543328971,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "64% (7명/11명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 4,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 18,
+      "year1to2": 9,
+      "year2to4": 36,
+      "year4to6": 18,
+      "over6": 19
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-01fc-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-026e-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "41410",
     "name": "용호초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 용호2로 12",
     "latitude": 37.3422663648144,
     "longitude": 126.940778579984,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-026e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-03af-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "41410",
     "name": "부곡중앙초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 송부로273번길 7",
     "latitude": 37.3226904837686,
     "longitude": 126.941034394351,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-03af-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0567-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "41410",
     "name": "금정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 금정로 40",
     "latitude": 37.3671119238828,
     "longitude": 126.941158105315,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0567-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0690-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "41410",
     "name": "태을초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 산본로 451-49",
     "latitude": 37.3720518305102,
     "longitude": 126.926362221419,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0690-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0a48-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "41410",
     "name": "창의마을유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 용호1로2번안길 2",
     "latitude": 37.3437463215635,
     "longitude": 126.939042288767,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "53% (9명/17명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 1,
-      "year2to4": 4,
-      "year4to6": 5,
+      "under1": 41,
+      "year1to2": 6,
+      "year2to4": 24,
+      "year4to6": 29,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0a48-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0bf7-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "41410",
     "name": "소중한아이들유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 한세로4번길 21",
     "latitude": 37.3444682699577,
     "longitude": 126.950748230615,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시40분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "78% (7명/9명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 11,
       "year2to4": 0,
-      "year4to6": 3,
-      "over6": 5
+      "year4to6": 33,
+      "over6": 56
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0bf7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0ce9-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "41410",
     "name": "군포신기초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 삼성로28번길 3",
     "latitude": 37.3386453067548,
     "longitude": 126.932780914687,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0ce9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e0d-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "41410",
     "name": "군포화산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 오금로 48",
     "latitude": 37.3532588635339,
     "longitude": 126.934560909389,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e0d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0eec-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "41410",
     "name": "흥진초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 오금로 15-40",
     "latitude": 37.3538774121357,
     "longitude": 126.928600747942,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0eec-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fb1a-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "41410",
     "name": "당정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 고산로151번길 26-24",
     "latitude": 37.3465690078543,
     "longitude": 126.954758594121,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fb1a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa38-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "41410",
     "name": "신흥초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 고산로 470",
     "latitude": 37.3565016178926,
     "longitude": 126.926613265174,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa38-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-edf6-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "41410",
     "name": "둔대초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 호수로 305-14",
     "latitude": 37.3272024933087,
     "longitude": 126.911054093752,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-edf6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-edf7-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "41410",
     "name": "성유유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 군포로471번길 28",
     "latitude": 37.3489082010879,
     "longitude": 126.942216070946,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "62% (8명/13명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 4,
-      "year2to4": 3,
+      "under1": 23,
+      "year1to2": 31,
+      "year2to4": 23,
       "year4to6": 0,
-      "over6": 3
+      "over6": 23
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-edf7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efad-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "41410",
     "name": "군포초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 군포로 463",
     "latitude": 37.3482461596537,
     "longitude": 126.941933850396,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (6명/6명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efad-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f09e-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "41410",
     "name": "관모초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 곡란로8번길 35-22",
     "latitude": 37.3762009969324,
     "longitude": 126.938031952419,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 50,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f09e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f09f-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "41410",
     "name": "곡란초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 고산로677번길 24-42",
     "latitude": 37.3742430971633,
     "longitude": 126.933850002007,
@@ -791,11 +817,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -803,7 +829,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f09f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f0fb-b044-e053-0a32095ab044",
@@ -811,6 +837,7 @@
     "sggCode": "41410",
     "name": "우성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 고산로677번길 24-22",
     "latitude": 37.373356573778,
     "longitude": 126.933186800389,
@@ -822,11 +849,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "시분~시분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -834,7 +861,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f0fb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f26a-b044-e053-0a32095ab044",
@@ -842,6 +869,7 @@
     "sggCode": "41410",
     "name": "둔전초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 고산로 542",
     "latitude": 37.3614816138787,
     "longitude": 126.92436419079,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f26a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f26b-b044-e053-0a32095ab044",
@@ -873,6 +901,7 @@
     "sggCode": "41410",
     "name": "밝음유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 산본로 418",
     "latitude": 37.3668758827218,
     "longitude": 126.928357519823,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 25,
+      "year1to2": 25,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 1
+      "year4to6": 25,
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f26b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f26c-b044-e053-0a32095ab044",
@@ -904,6 +933,7 @@
     "sggCode": "41410",
     "name": "산본초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 산본로386번길 60",
     "latitude": 37.3687762006587,
     "longitude": 126.934591289031,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
+      "under1": 60,
+      "year1to2": 40,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f26c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3b5-b044-e053-0a32095ab044",
@@ -935,6 +965,7 @@
     "sggCode": "41410",
     "name": "군포대야초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 대야2로 148",
     "latitude": 37.329379281855,
     "longitude": 126.915224837469,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3b5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3f1-b044-e053-0a32095ab044",
@@ -966,6 +997,7 @@
     "sggCode": "41410",
     "name": "군포옥천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 용호2로54번길 12",
     "latitude": 37.3438740371271,
     "longitude": 126.94529107775,
@@ -977,11 +1009,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -989,7 +1021,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3f1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f4d9-b044-e053-0a32095ab044",
@@ -997,6 +1029,7 @@
     "sggCode": "41410",
     "name": "당동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 용호1로 34",
     "latitude": 37.3459379347481,
     "longitude": 126.939498818016,
@@ -1008,11 +1041,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1020,7 +1053,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f4d9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f52a-b044-e053-0a32095ab044",
@@ -1028,6 +1061,7 @@
     "sggCode": "41410",
     "name": "청운유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 산본천로 119-13",
     "latitude": 37.3655655371662,
     "longitude": 126.933468452096,
@@ -1039,19 +1073,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 25,
+      "year4to6": 25,
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f52a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f639-b044-e053-0a32095ab044",
@@ -1059,6 +1093,7 @@
     "sggCode": "41410",
     "name": "산본유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 고산로 646-20",
     "latitude": 37.3677136167441,
     "longitude": 126.932173995301,
@@ -1070,19 +1105,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 33,
+      "year1to2": 17,
       "year2to4": 0,
-      "year4to6": 3,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f639-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f6d0-b044-e053-0a32095ab044",
@@ -1090,6 +1125,7 @@
     "sggCode": "41410",
     "name": "여수룬유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 오금�� 39",
     "latitude": 37.3533941317055,
     "longitude": 126.932691184343,
@@ -1101,19 +1137,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "17% (1명/6명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 17,
+      "year1to2": 17,
+      "year2to4": 33,
+      "year4to6": 17,
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f6d0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f6d1-b044-e053-0a32095ab044",
@@ -1121,6 +1157,7 @@
     "sggCode": "41410",
     "name": "예일유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 산본천로 22",
     "latitude": 37.3588297342771,
     "longitude": 126.926770581602,
@@ -1132,19 +1169,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f6d1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f90e-b044-e053-0a32095ab044",
@@ -1152,6 +1189,7 @@
     "sggCode": "41410",
     "name": "군포양정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 오금로 131",
     "latitude": 37.3593083282579,
     "longitude": 126.940695855133,
@@ -1163,11 +1201,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1175,7 +1213,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f90e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f9d5-b044-e053-0a32095ab044",
@@ -1183,6 +1221,7 @@
     "sggCode": "41410",
     "name": "예지유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 군포시 군포로785번길 33",
     "latitude": 37.3743014629755,
     "longitude": 126.939670377216,
@@ -1194,19 +1233,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f9d5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "6a2625b3-392a-429a-89b7-055f423b48ad",
@@ -1214,6 +1253,7 @@
     "sggCode": "41410",
     "name": "숲속해뜰유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 군포시 번영로 12",
     "latitude": 37.3234163260799,
     "longitude": 126.940116497189,
@@ -1225,18 +1265,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (8명/8명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 25,
+      "year1to2": 38,
+      "year2to4": 13,
+      "year4to6": 13,
+      "over6": 11
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=6a2625b3-392a-429a-89b7-055f423b48ad",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

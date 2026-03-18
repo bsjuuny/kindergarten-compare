@@ -5,6 +5,7 @@
     "sggCode": "41150",
     "name": "한아름유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 호암로 248",
     "latitude": 37.722570553927,
     "longitude": 127.044458679688,
@@ -16,11 +17,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (2명/5명)",
     "teacherTenure": {
-      "under1": 5,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -28,7 +29,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ed31-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-043b-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "41150",
     "name": "소슬유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 장곡로226번길 49",
     "latitude": 37.7242283185555,
     "longitude": 127.055378132495,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (1명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
-      "over6": 2
+      "year4to6": 50,
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-043b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-05af-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "41150",
     "name": "귀복유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 녹양로18번길 16",
     "latitude": 37.7527651040893,
     "longitude": 127.033001993533,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (1명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 20,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 40,
       "year4to6": 0,
-      "over6": 2
+      "over6": 40
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-05af-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06ce-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "41150",
     "name": "민락초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 용현로159번길 26",
     "latitude": 37.7421779941771,
     "longitude": 127.094830429956,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06ce-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06d0-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "41150",
     "name": "산들유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 용현로 155",
     "latitude": 37.7408657192666,
     "longitude": 127.093275485971,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 1
+      "under1": 14,
+      "year1to2": 14,
+      "year2to4": 29,
+      "year4to6": 29,
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06d0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06d1-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "41150",
     "name": "예린유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 상금로 41-9",
     "latitude": 37.758530698464,
     "longitude": 127.074375249052,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (4명/7명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 14,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 3,
-      "over6": 2
+      "year2to4": 14,
+      "year4to6": 43,
+      "over6": 29
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06d1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06fa-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "41150",
     "name": "의정부효자초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 부용로204번길 16",
     "latitude": 37.7502783646784,
     "longitude": 127.077930105584,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06fa-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-074a-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "41150",
     "name": "의정부서초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 둔야로 57",
     "latitude": 37.7408032217722,
     "longitude": 127.038149897116,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-074a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0854-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "41150",
     "name": "샘터유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 오목로122번길 20",
     "latitude": 37.7380317646033,
     "longitude": 127.09452809115,
@@ -264,11 +273,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시50분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/2명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -276,7 +285,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0854-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09d9-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "41150",
     "name": "의정부호원초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 전좌로156번길 20",
     "latitude": 37.7225450162562,
     "longitude": 127.040664573373,
@@ -295,19 +305,12 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
-    "teacherTenure": {
-      "under1": 0,
-      "year1to2": 0,
-      "year2to4": 0,
-      "year4to6": 0,
-      "over6": 0
-    },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09d9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b3d-b044-e053-0a32095ab044",
@@ -315,6 +318,7 @@
     "sggCode": "41150",
     "name": "배영초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 가능로135번길 20",
     "latitude": 37.7481943624798,
     "longitude": 127.046584579953,
@@ -326,19 +330,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year1to2": 33,
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b3d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0bbc-b044-e053-0a32095ab044",
@@ -346,6 +350,7 @@
     "sggCode": "41150",
     "name": "유지유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 오목로 36",
     "latitude": 37.7318879650631,
     "longitude": 127.08818163831,
@@ -357,19 +362,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
+      "year1to2": 25,
+      "year2to4": 50,
       "year4to6": 0,
-      "over6": 1
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0bbc-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0bbd-b044-e053-0a32095ab044",
@@ -377,6 +382,7 @@
     "sggCode": "41150",
     "name": "의정부신곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 능곡로 31",
     "latitude": 37.7411674451183,
     "longitude": 127.059845207772,
@@ -388,11 +394,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -400,7 +406,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0bbd-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c32-b044-e053-0a32095ab044",
@@ -408,6 +414,7 @@
     "sggCode": "41150",
     "name": "호암유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 호암로 47",
     "latitude": 37.7047238362203,
     "longitude": 127.045744121789,
@@ -419,19 +426,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "77% (10명/13명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 17,
+      "year1to2": 50,
+      "year2to4": 17,
+      "year4to6": 17,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c32-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d01-b044-e053-0a32095ab044",
@@ -439,6 +446,7 @@
     "sggCode": "41150",
     "name": "코코유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 누원로 37",
     "latitude": 37.6885400903079,
     "longitude": 127.052957108201,
@@ -450,19 +458,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "46% (6명/13명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 3,
-      "over6": 6
+      "year1to2": 8,
+      "year2to4": 23,
+      "year4to6": 23,
+      "over6": 46
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d01-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d8e-b044-e053-0a32095ab044",
@@ -470,6 +478,7 @@
     "sggCode": "41150",
     "name": "유정유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 부용로213번길 39",
     "latitude": 37.7513100214304,
     "longitude": 127.081368083071,
@@ -481,19 +490,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시20분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "28% (8명/29명)",
     "teacherTenure": {
-      "under1": 10,
-      "year1to2": 5,
-      "year2to4": 6,
-      "year4to6": 3,
-      "over6": 5
+      "under1": 34,
+      "year1to2": 17,
+      "year2to4": 21,
+      "year4to6": 10,
+      "over6": 18
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d8e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e34-b044-e053-0a32095ab044",
@@ -501,6 +510,7 @@
     "sggCode": "41150",
     "name": "어룡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 부용로 241",
     "latitude": 37.7478119276301,
     "longitude": 127.082621419359,
@@ -512,19 +522,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e34-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e35-b044-e053-0a32095ab044",
@@ -532,6 +542,7 @@
     "sggCode": "41150",
     "name": "의순초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 부용로 77",
     "latitude": 37.7510786997032,
     "longitude": 127.066006457673,
@@ -543,19 +554,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e35-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e67-b044-e053-0a32095ab044",
@@ -563,6 +574,7 @@
     "sggCode": "41150",
     "name": "고산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 문화로 41",
     "latitude": 37.7264316199758,
     "longitude": 127.10679389929,
@@ -574,19 +586,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
+      "under1": 25,
+      "year1to2": 75,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e67-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0f92-b044-e053-0a32095ab044",
@@ -594,6 +606,7 @@
     "sggCode": "41150",
     "name": "성모유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 신흥로265번길 27",
     "latitude": 37.7394088745401,
     "longitude": 127.041613077779,
@@ -605,19 +618,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 5,
+      "under1": 63,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 2
+      "year4to6": 13,
+      "over6": 24
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0f92-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0f93-b044-e053-0a32095ab044",
@@ -625,6 +638,7 @@
     "sggCode": "41150",
     "name": "성심유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 능곡로 65",
     "latitude": 37.7434202269626,
     "longitude": 127.061396853818,
@@ -636,19 +650,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (4명/7명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 57,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 2,
+      "year2to4": 14,
+      "year4to6": 29,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0f93-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0f94-b044-e053-0a32095ab044",
@@ -656,6 +670,7 @@
     "sggCode": "41150",
     "name": "열매유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 평화로 364",
     "latitude": 37.7243746617776,
     "longitude": 127.048586608582,
@@ -667,19 +682,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "10% (1명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 2,
-      "year4to6": 3,
+      "under1": 20,
+      "year1to2": 30,
+      "year2to4": 20,
+      "year4to6": 30,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0f94-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "68db35b8-0ddf-4459-9246-7c72455b2e92",
@@ -687,6 +702,7 @@
     "sggCode": "41150",
     "name": "삼현초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 송양로 87",
     "latitude": 37.75137500200874,
     "longitude": 127.11580404979459,
@@ -698,19 +714,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=68db35b8-0ddf-4459-9246-7c72455b2e92",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "a00b345b-b56f-4af7-b9e7-8e92b4b723bd",
@@ -718,6 +734,7 @@
     "sggCode": "41150",
     "name": "도도유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 호암로109번길 82",
     "latitude": 37.7112345152163,
     "longitude": 127.042813450193,
@@ -729,19 +746,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "21% (4명/19명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 3,
+      "under1": 42,
+      "year1to2": 16,
       "year2to4": 0,
-      "year4to6": 4,
-      "over6": 4
+      "year4to6": 21,
+      "over6": 21
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=a00b345b-b56f-4af7-b9e7-8e92b4b723bd",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "dfad2dbe-4d15-476a-b057-a9346dac82ab",
@@ -749,6 +766,7 @@
     "sggCode": "41150",
     "name": "훈민초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 훈민로 14",
     "latitude": 37.7387565208484,
     "longitude": 127.114761849583,
@@ -760,11 +778,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -772,7 +790,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=dfad2dbe-4d15-476a-b057-a9346dac82ab",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "f66957e3-ab9b-4c85-8e12-3d9d7d633223",
@@ -780,6 +798,7 @@
     "sggCode": "41150",
     "name": "의정부송산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 오목로 228",
     "latitude": 37.7464332015514,
     "longitude": 127.100657902019,
@@ -791,19 +810,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
+      "year1to2": 67,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=f66957e3-ab9b-4c85-8e12-3d9d7d633223",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "f6a5baf4-6e95-4265-bad5-8919291b259b",
@@ -811,6 +830,7 @@
     "sggCode": "41150",
     "name": "정음유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 솔향길 15",
     "latitude": 37.7381933799473,
     "longitude": 127.115351719213,
@@ -822,19 +842,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "89% (24명/27명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 5,
-      "year2to4": 11,
+      "under1": 16,
+      "year1to2": 26,
+      "year2to4": 58,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=f6a5baf4-6e95-4265-bad5-8919291b259b",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-033a-b044-e053-0a32095ab044",
@@ -842,6 +862,7 @@
     "sggCode": "41150",
     "name": "의정부호동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 호동로 45",
     "latitude": 37.7300914564632,
     "longitude": 127.041732253485,
@@ -853,19 +874,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-033a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0339-b044-e053-0a32095ab044",
@@ -873,6 +894,7 @@
     "sggCode": "41150",
     "name": "의정부장암초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 동일로 417",
     "latitude": 37.7254601268792,
     "longitude": 127.05986090401,
@@ -884,19 +906,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0339-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02b6-b044-e053-0a32095ab044",
@@ -904,6 +926,7 @@
     "sggCode": "41150",
     "name": "세종유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 추동로 45",
     "latitude": 37.7455001693093,
     "longitude": 127.059862908669,
@@ -915,19 +938,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (2명/10명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 4,
-      "year2to4": 1,
+      "under1": 50,
+      "year1to2": 40,
+      "year2to4": 10,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02b6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ee60-b044-e053-0a32095ab044",
@@ -935,6 +958,7 @@
     "sggCode": "41150",
     "name": "솔빛유정유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 오목로91번길 45-20",
     "latitude": 37.7368138318709,
     "longitude": 127.089768799364,
@@ -946,19 +970,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (5명/25명)",
     "teacherTenure": {
-      "under1": 13,
-      "year1to2": 5,
+      "under1": 52,
+      "year1to2": 20,
       "year2to4": 0,
-      "year4to6": 5,
-      "over6": 2
+      "year4to6": 20,
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ee60-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f010-b044-e053-0a32095ab044",
@@ -966,6 +990,7 @@
     "sggCode": "41150",
     "name": "그림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 신흥로207번길 44",
     "latitude": 37.7348543127036,
     "longitude": 127.040872943244,
@@ -977,19 +1002,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 33,
+      "year1to2": 33,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 0
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f010-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f011-b044-e053-0a32095ab044",
@@ -997,6 +1022,7 @@
     "sggCode": "41150",
     "name": "금오초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 천보로 418",
     "latitude": 37.7562176266823,
     "longitude": 127.066630672841,
@@ -1008,19 +1034,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f011-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f13d-b044-e053-0a32095ab044",
@@ -1028,6 +1054,7 @@
     "sggCode": "41150",
     "name": "동오초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 추동로23번길 10",
     "latitude": 37.744454110661,
     "longitude": 127.058517598294,
@@ -1039,11 +1066,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1051,7 +1078,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f13d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f1b7-b044-e053-0a32095ab044",
@@ -1059,6 +1086,7 @@
     "sggCode": "41150",
     "name": "의정부중앙초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 호국로1291번길 17",
     "latitude": 37.7448872066853,
     "longitude": 127.0465309778,
@@ -1070,19 +1098,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f1b7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f1b9-b044-e053-0a32095ab044",
@@ -1090,6 +1118,7 @@
     "sggCode": "41150",
     "name": "이화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 추동로24번길 14",
     "latitude": 37.742745836081,
     "longitude": 127.05868664847,
@@ -1101,19 +1130,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (6명/12명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 4,
-      "year4to6": 1,
-      "over6": 3
+      "under1": 17,
+      "year1to2": 17,
+      "year2to4": 33,
+      "year4to6": 8,
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f1b9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f1ba-b044-e053-0a32095ab044",
@@ -1121,6 +1150,7 @@
     "sggCode": "41150",
     "name": "한빛유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 범골로29번길 19-12",
     "latitude": 37.7271479571811,
     "longitude": 127.040863783594,
@@ -1132,19 +1162,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 3,
-      "over6": 3
+      "year4to6": 50,
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f1ba-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f40d-b044-e053-0a32095ab044",
@@ -1152,6 +1182,7 @@
     "sggCode": "41150",
     "name": "의정부부용초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 오목로 83",
     "latitude": 37.7360695479497,
     "longitude": 127.09086663251,
@@ -1163,19 +1194,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f40d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f416-b044-e053-0a32095ab044",
@@ -1183,6 +1214,7 @@
     "sggCode": "41150",
     "name": "경민대학교부설유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 서부로 545",
     "latitude": 37.7444870184306,
     "longitude": 127.022787483738,
@@ -1194,19 +1226,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "시분~시분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 4
+      "year4to6": 20,
+      "over6": 80
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f416-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f572-b044-e053-0a32095ab044",
@@ -1214,6 +1246,7 @@
     "sggCode": "41150",
     "name": "솔뫼초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 시민로 442",
     "latitude": 37.7320805436052,
     "longitude": 127.081187659869,
@@ -1225,19 +1258,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f572-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f573-b044-e053-0a32095ab044",
@@ -1245,6 +1278,7 @@
     "sggCode": "41150",
     "name": "산내들유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 용현로159번길 18",
     "latitude": 37.741299798229,
     "longitude": 127.094217320661,
@@ -1256,19 +1290,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 2,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
-      "over6": 4
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f573-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f59a-b044-e053-0a32095ab044",
@@ -1276,6 +1310,7 @@
     "sggCode": "41150",
     "name": "동암초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 장곡로 206",
     "latitude": 37.7231750405375,
     "longitude": 127.054283063715,
@@ -1287,19 +1322,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f59a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f601-b044-e053-0a32095ab044",
@@ -1307,6 +1342,7 @@
     "sggCode": "41150",
     "name": "예지유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 동일로454번길 6",
     "latitude": 37.7286529974036,
     "longitude": 127.059961843488,
@@ -1318,19 +1354,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (3명/9명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 3,
+      "under1": 30,
+      "year1to2": 20,
+      "year2to4": 30,
       "year4to6": 0,
-      "over6": 2
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f601-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f603-b044-e053-0a32095ab044",
@@ -1338,6 +1374,7 @@
     "sggCode": "41150",
     "name": "의정부초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 동일로522번길 30",
     "latitude": 37.7345856820686,
     "longitude": 127.060248137329,
@@ -1349,19 +1386,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 1
+      "year4to6": 50,
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f603-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f693-b044-e053-0a32095ab044",
@@ -1369,6 +1406,7 @@
     "sggCode": "41150",
     "name": "녹양유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 체육로 265-25",
     "latitude": 37.7634095816377,
     "longitude": 127.035712340776,
@@ -1380,19 +1418,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 17,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f693-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8c6-b044-e053-0a32095ab044",
@@ -1400,6 +1438,7 @@
     "sggCode": "41150",
     "name": "노벨유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 용민로122번길 10-12",
     "latitude": 37.7394804169404,
     "longitude": 127.090681132706,
@@ -1411,19 +1450,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (6명/15명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 5,
-      "year2to4": 5,
-      "year4to6": 2,
-      "over6": 0
+      "under1": 20,
+      "year1to2": 33,
+      "year2to4": 33,
+      "year4to6": 13,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8c6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8ed-b044-e053-0a32095ab044",
@@ -1431,6 +1470,7 @@
     "sggCode": "41150",
     "name": "가능초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 의정로140번길 15",
     "latitude": 37.7456904380812,
     "longitude": 127.034775274654,
@@ -1442,19 +1482,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8ed-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8ef-b044-e053-0a32095ab044",
@@ -1462,6 +1502,7 @@
     "sggCode": "41150",
     "name": "늘푸른유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 녹양로 86-60",
     "latitude": 37.7590076732935,
     "longitude": 127.037121367563,
@@ -1473,19 +1514,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 17,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 1
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 17
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8ef-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fbc9-b044-e053-0a32095ab044",
@@ -1493,6 +1534,7 @@
     "sggCode": "41150",
     "name": "경의유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 경의로 135",
     "latitude": 37.7341924819678,
     "longitude": 127.051102422292,
@@ -1504,19 +1546,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "85% (11명/13명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 3,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 40,
+      "year1to2": 30,
+      "year2to4": 20,
+      "year4to6": 10,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fbc9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd1b-b044-e053-0a32095ab044",
@@ -1524,6 +1566,7 @@
     "sggCode": "41150",
     "name": "새말초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 추동로124번길 37",
     "latitude": 37.7463940874647,
     "longitude": 127.069326231058,
@@ -1535,19 +1578,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd1b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd4b-b044-e053-0a32095ab044",
@@ -1555,6 +1598,7 @@
     "sggCode": "41150",
     "name": "꿈나무유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 평화로168번길 12-12",
     "latitude": 37.7061463801686,
     "longitude": 127.049096294881,
@@ -1566,19 +1610,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 20,
+      "year1to2": 20,
+      "year2to4": 20,
+      "year4to6": 20,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd4b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd62-b044-e053-0a32095ab044",
@@ -1586,6 +1630,7 @@
     "sggCode": "41150",
     "name": "버들개초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 체육로 201",
     "latitude": 37.7614141809634,
     "longitude": 127.030057578303,
@@ -1597,19 +1642,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd62-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe54-b044-e053-0a32095ab044",
@@ -1617,6 +1662,7 @@
     "sggCode": "41150",
     "name": "신동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 시민로179번길 42",
     "latitude": 37.7403731745681,
     "longitude": 127.054750975077,
@@ -1628,19 +1674,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 67,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe54-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fec9-b044-e053-0a32095ab044",
@@ -1648,6 +1694,7 @@
     "sggCode": "41150",
     "name": "자연유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 송산로971번길 76-17",
     "latitude": 37.7155215159524,
     "longitude": 127.10124436152,
@@ -1659,19 +1706,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "42% (5명/12명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 36,
+      "year1to2": 18,
+      "year2to4": 18,
+      "year4to6": 9,
+      "over6": 19
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fec9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff5c-b044-e053-0a32095ab044",
@@ -1679,6 +1726,7 @@
     "sggCode": "41150",
     "name": "의정부용���초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 용민로 87",
     "latitude": 37.738690108669,
     "longitude": 127.087364352638,
@@ -1690,19 +1738,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff5c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ffff-b044-e053-0a32095ab044",
@@ -1710,6 +1758,7 @@
     "sggCode": "41150",
     "name": "삼성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 의정부시 오목로35번길 31",
     "latitude": 37.7343056058465,
     "longitude": 127.085691335149,
@@ -1721,19 +1770,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (4명/14명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 1,
-      "year2to4": 4,
+      "under1": 57,
+      "year1to2": 7,
+      "year2to4": 29,
       "year4to6": 0,
-      "over6": 1
+      "over6": 7
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ffff-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "fee5ce77-b964-4654-8f85-8b3238322d37",
@@ -1741,6 +1790,7 @@
     "sggCode": "41150",
     "name": "송양유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 의정부시 민락로243번길 94",
     "latitude": 37.7477286215747,
     "longitude": 127.106619423634,
@@ -1752,18 +1802,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "89% (16명/18명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 5,
-      "year2to4": 3,
-      "year4to6": 3,
+      "under1": 42,
+      "year1to2": 26,
+      "year2to4": 16,
+      "year4to6": 16,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=fee5ce77-b964-4654-8f85-8b3238322d37",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

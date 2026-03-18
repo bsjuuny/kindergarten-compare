@@ -5,6 +5,7 @@
     "sggCode": "41450",
     "name": "감일초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 감일백제로 45",
     "latitude": 37.500175790585786,
     "longitude": 127.1622477416847,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "71% (5명/7명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 20,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 4,
+      "year4to6": 80,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=006f100b-0cfb-47ec-a74d-d813068a0ae7",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "2d58f764-e4bc-4d4e-b032-a0b8784ed205",
@@ -36,6 +37,7 @@
     "sggCode": "41450",
     "name": "미사중앙초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 미사강변한강로334번길 46",
     "latitude": 37.559224667258,
     "longitude": 127.198869526847,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year1to2": 33,
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=2d58f764-e4bc-4d4e-b032-a0b8784ed205",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "4169e9b0-51fb-440a-b5c4-81a08649c4a9",
@@ -67,6 +69,7 @@
     "sggCode": "41450",
     "name": "구산유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 미사강변대로226번길 33",
     "latitude": 37.5701587795031,
     "longitude": 127.185989021913,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (12명/15명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 36,
       "year1to2": 0,
-      "year2to4": 5,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 45,
+      "year4to6": 9,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=4169e9b0-51fb-440a-b5c4-81a08649c4a9",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "6a247c4f-241f-4bd4-8e29-b279491261c6",
@@ -98,6 +101,7 @@
     "sggCode": "41450",
     "name": "위례유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 위례순환로 314",
     "latitude": 37.477249816181974,
     "longitude": 127.15197345037714,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "74% (14명/19명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 4,
-      "year2to4": 7,
-      "year4to6": 4,
+      "under1": 25,
+      "year1to2": 20,
+      "year2to4": 35,
+      "year4to6": 20,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=6a247c4f-241f-4bd4-8e29-b279491261c6",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "6a721eff-6803-4a83-be61-2031803d2740",
@@ -129,6 +133,7 @@
     "sggCode": "41450",
     "name": "단가람유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 감일순환로 20",
     "latitude": 37.5065125967202,
     "longitude": 127.163134355541,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (14명/21명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 6,
+      "under1": 17,
+      "year1to2": 8,
+      "year2to4": 25,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=6a721eff-6803-4a83-be61-2031803d2740",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "6a8938f8-4a02-4116-81e8-f9dbeeee1d81",
@@ -160,6 +165,7 @@
     "sggCode": "41450",
     "name": "미사랑유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 미사강변대로54번길 108",
     "latitude": 37.5576371836,
     "longitude": 127.1894259679,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시20분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (6명/8명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 4,
+      "year1to2": 14,
+      "year2to4": 29,
+      "year4to6": 57,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=6a8938f8-4a02-4116-81e8-f9dbeeee1d81",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "7caba140-60ae-499e-b863-cf3eda8e591d",
@@ -191,6 +197,7 @@
     "sggCode": "41450",
     "name": "미담유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 미사강변북로85번길 16",
     "latitude": 37.5729741395,
     "longitude": 127.1881607465,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (10명/10명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 30,
       "year1to2": 0,
-      "year2to4": 3,
-      "year4to6": 4,
+      "year2to4": 30,
+      "year4to6": 40,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=7caba140-60ae-499e-b863-cf3eda8e591d",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "8f35f8d5-91ce-40d2-a3b7-bc918cbf1468",
@@ -222,6 +229,7 @@
     "sggCode": "41450",
     "name": "망월초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 미사강변북로24번길 10",
     "latitude": 37.5708474694978,
     "longitude": 127.180634110485,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
-      "year2to4": 1,
+      "year1to2": 75,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=8f35f8d5-91ce-40d2-a3b7-bc918cbf1468",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "96eb98b1-9a2d-4211-9c44-0c0ae4a7830e",
@@ -253,6 +261,7 @@
     "sggCode": "41450",
     "name": "위례숲초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 위례대로6길 65(학암동)",
     "latitude": 37.4851686444,
     "longitude": 127.1581164853,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=96eb98b1-9a2d-4211-9c44-0c0ae4a7830e",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "b942a555-b508-4dc4-a7ce-a4e81c39c058",
@@ -284,6 +293,7 @@
     "sggCode": "41450",
     "name": "윤슬초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 미사강변서로 151",
     "latitude": 37.5636775330822,
     "longitude": 127.18251429898727,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 3
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=b942a555-b508-4dc4-a7ce-a4e81c39c058",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "c64ff9ed-d5b5-4ab4-a9f1-1ab884c51266",
@@ -315,6 +325,7 @@
     "sggCode": "41450",
     "name": "신우초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 감일순환로 145",
     "latitude": 37.5109952080278,
     "longitude": 127.161079359333,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (8명/8명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 5,
+      "year1to2": 14,
+      "year2to4": 71,
       "year4to6": 0,
-      "over6": 1
+      "over6": 15
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=c64ff9ed-d5b5-4ab4-a9f1-1ab884c51266",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "ca104081-222f-4e80-bfe3-478032c0e4e5",
@@ -346,6 +357,7 @@
     "sggCode": "41450",
     "name": "달봄유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 미사강변북로30번길 56",
     "latitude": 37.5692348409,
     "longitude": 127.1825323863,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "90% (9명/10명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 6,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=ca104081-222f-4e80-bfe3-478032c0e4e5",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "d2b2783f-e238-4041-b282-b3a4a8af2c0f",
@@ -377,6 +389,7 @@
     "sggCode": "41450",
     "name": "청아초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 미사강변중앙로132번길 45",
     "latitude": 37.558746677,
     "longitude": 127.1941913146,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=d2b2783f-e238-4041-b282-b3a4a8af2c0f",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "d7a0f6ea-2f58-4920-a45b-70e26156e8a1",
@@ -408,6 +421,7 @@
     "sggCode": "41450",
     "name": "감일유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 감일순환로 185",
     "latitude": 37.507688024690346,
     "longitude": 127.15885343538493,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "68% (17명/25명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 6,
-      "year4to6": 9,
+      "under1": 6,
+      "year1to2": 6,
+      "year2to4": 35,
+      "year4to6": 53,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=d7a0f6ea-2f58-4920-a45b-70e26156e8a1",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "db6ad342-b6b2-488d-ac54-fe75c0d878b1",
@@ -439,6 +453,7 @@
     "sggCode": "41450",
     "name": "한홀초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 미사강변서로 68",
     "latitude": 37.5603826155193,
     "longitude": 127.185617460831,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year1to2": 33,
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=db6ad342-b6b2-488d-ac54-fe75c0d878b1",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "dbe693ba-7404-4500-a731-55f236c30228",
@@ -470,6 +485,7 @@
     "sggCode": "41450",
     "name": "향기로운유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 하남시 조정대로 84",
     "latitude": 37.5505781844,
     "longitude": 127.1886702603,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "16% (3명/19명)",
     "teacherTenure": {
-      "under1": 13,
-      "year1to2": 2,
-      "year2to4": 3,
-      "year4to6": 1,
+      "under1": 68,
+      "year1to2": 11,
+      "year2to4": 16,
+      "year4to6": 5,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=dbe693ba-7404-4500-a731-55f236c30228",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "ded6ce0a-ce25-4be0-b8c4-40b2e6772bfc",
@@ -501,6 +517,7 @@
     "sggCode": "41450",
     "name": "위례초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 위례순환로 333",
     "latitude": 37.4771218937111,
     "longitude": 127.149413851449,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
+      "under1": 33,
+      "year1to2": 67,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=ded6ce0a-ce25-4be0-b8c4-40b2e6772bfc",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e0b-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "41450",
     "name": "하남천현초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 천현로 45",
     "latitude": 37.5380864284789,
     "longitude": 127.216118762607,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e0b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c4f-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "41450",
     "name": "하남풍산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 덕풍북로 100",
     "latitude": 37.5543853901493,
     "longitude": 127.201391880311,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c4f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-08c7-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "41450",
     "name": "산곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 하남대로302번길 45",
     "latitude": 37.5040615389856,
     "longitude": 127.234986566409,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-08c7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "0438c9e6-ec9c-4c70-bf11-f73c3626b9f2",
@@ -625,6 +645,7 @@
     "sggCode": "41450",
     "name": "단샘초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 감일순환로 195",
     "latitude": 37.5071768525879,
     "longitude": 127.158743549685,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 2,
+      "year2to4": 33,
+      "year4to6": 67,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=0438c9e6-ec9c-4c70-bf11-f73c3626b9f2",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ee71-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "41450",
     "name": "나룰초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 덕풍북로 260",
     "latitude": 37.5485586668221,
     "longitude": 127.209192504431,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 50,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ee71-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efac-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "41450",
     "name": "하남유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 하남시 신장동로 128",
     "latitude": 37.5433651087816,
     "longitude": 127.221572807908,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "36% (5명/14명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 7,
-      "year2to4": 3,
-      "year4to6": 3,
-      "over6": 1
+      "year1to2": 50,
+      "year2to4": 21,
+      "year4to6": 21,
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efac-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f15a-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "41450",
     "name": "신평초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 신장동로 67",
     "latitude": 37.5437901805932,
     "longitude": 127.219952098826,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f15a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f269-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "41450",
     "name": "소화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 하남시 신평로73번길 38",
     "latitude": 37.5411414418719,
     "longitude": 127.204849095522,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (4명/12명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 3,
-      "year4to6": 2,
-      "over6": 1
+      "under1": 20,
+      "year1to2": 20,
+      "year2to4": 30,
+      "year4to6": 20,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f269-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3ef-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "41450",
     "name": "창우초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 대청로 99",
     "latitude": 37.5406580849102,
     "longitude": 127.223754718484,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3ef-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3f0-b044-e053-0a32095ab044",
@@ -811,6 +837,7 @@
     "sggCode": "41450",
     "name": "하남초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 천현로 109",
     "latitude": 37.5374265957143,
     "longitude": 127.222166344766,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3f0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f681-b044-e053-0a32095ab044",
@@ -842,6 +869,7 @@
     "sggCode": "41450",
     "name": "미사강변초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 미사강변북로55번길 70",
     "latitude": 37.5758256216494,
     "longitude": 127.186004864664,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f681-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f7c0-b044-e053-0a32095ab044",
@@ -873,6 +901,7 @@
     "sggCode": "41450",
     "name": "새싹유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 하남시 대청로 119-3",
     "latitude": 37.5405300638153,
     "longitude": 127.224514281473,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (1명/4명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f7c0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f7c1-b044-e053-0a32095ab044",
@@ -904,6 +933,7 @@
     "sggCode": "41450",
     "name": "서부초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 서하남로 161",
     "latitude": 37.5158132185989,
     "longitude": 127.161805127796,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f7c1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f892-b044-e053-0a32095ab044",
@@ -935,6 +965,7 @@
     "sggCode": "41450",
     "name": "덕풍초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 덕풍공원로 20",
     "latitude": 37.5413512656177,
     "longitude": 127.197647472236,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f892-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc04-b044-e053-0a32095ab044",
@@ -966,6 +997,7 @@
     "sggCode": "41450",
     "name": "신장초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 신평로 100",
     "latitude": 37.5426716795825,
     "longitude": 127.208004822649,
@@ -977,19 +1009,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc04-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc5e-b044-e053-0a32095ab044",
@@ -997,6 +1029,7 @@
     "sggCode": "41450",
     "name": "금강유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 하남시 대청로59번길 33",
     "latitude": 37.5421132198931,
     "longitude": 127.218934806753,
@@ -1008,19 +1041,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (5명/17명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 8,
+      "under1": 41,
+      "year1to2": 47,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 1
+      "year4to6": 6,
+      "over6": 6
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc5e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0063-b044-e053-0a32095ab044",
@@ -1028,6 +1061,7 @@
     "sggCode": "41450",
     "name": "동부초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 역말로 55",
     "latitude": 37.5374253764596,
     "longitude": 127.202427306594,
@@ -1039,19 +1073,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
+      "year1to2": 33,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0063-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0066-b044-e053-0a32095ab044",
@@ -1059,6 +1093,7 @@
     "sggCode": "41450",
     "name": "써니힐유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 하남시 덕풍동로 51",
     "latitude": 37.5470305625497,
     "longitude": 127.20459827197,
@@ -1070,19 +1105,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00��",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "13% (2명/16명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 7,
-      "year2to4": 3,
+      "under1": 38,
+      "year1to2": 44,
+      "year2to4": 19,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0066-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-07bf-b044-e053-0a32095ab044",
@@ -1090,6 +1125,7 @@
     "sggCode": "41450",
     "name": "미사초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 미사강변한강로 200",
     "latitude": 37.5717164317451,
     "longitude": 127.193232175508,
@@ -1101,19 +1137,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-07bf-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "facc8613-5169-4a17-9672-672742e23623",
@@ -1121,6 +1157,7 @@
     "sggCode": "41450",
     "name": "위례송하유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 하남시 위례대로6길 51",
     "latitude": 37.4847085982174,
     "longitude": 127.156961559525,
@@ -1132,18 +1169,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "59% (16명/27명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 8,
-      "year4to6": 6,
+      "year1to2": 7,
+      "year2to4": 53,
+      "year4to6": 40,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=facc8613-5169-4a17-9672-672742e23623",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

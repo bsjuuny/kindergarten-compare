@@ -5,6 +5,7 @@
     "sggCode": "26500",
     "name": "광안유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 수영구 광안로35번길 38",
     "latitude": 35.1572011894,
     "longitude": 129.1167318829,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (8명/12명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 2,
+      "under1": 71,
+      "year1to2": 29,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=11e409a8-b8ae-45e8-b669-f901c05532fa",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "59c58a32-79d0-421b-8019-00058e911a68",
@@ -36,6 +37,7 @@
     "sggCode": "26500",
     "name": "수영초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 수영구 광서로16번길 33",
     "latitude": 35.1661243974,
     "longitude": 129.112086326,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
+      "year1to2": 67,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=59c58a32-79d0-421b-8019-00058e911a68",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0745-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "26500",
     "name": "명성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 수영구 망미번영로 88",
     "latitude": 35.1749523378424,
     "longitude": 129.111507425967,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "30% (3명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 4,
-      "year2to4": 4,
+      "under1": 20,
+      "year1to2": 40,
+      "year2to4": 40,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0745-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0743-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "26500",
     "name": "광남초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 수영구 광안해변로 115",
     "latitude": 35.1456477148252,
     "longitude": 129.114144487188,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0743-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0538-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "26500",
     "name": "옥련유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 수영구 광남로257번길 58",
     "latitude": 35.1623137188879,
     "longitude": 129.126482535134,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "27% (3명/11명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 1,
-      "year2to4": 3,
+      "under1": 55,
+      "year1to2": 9,
+      "year2to4": 27,
       "year4to6": 0,
-      "over6": 1
+      "over6": 9
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0538-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0334-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "26500",
     "name": "삼성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 수영구 망미로30번길 23",
     "latitude": 35.1680836016894,
     "longitude": 129.102702264045,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 40,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 3,
+      "year4to6": 60,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0334-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-010c-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "26500",
     "name": "수영로유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 수영구 수영로679번길 9",
     "latitude": 35.1663816587079,
     "longitude": 129.114357650334,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "62% (8명/13명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 2,
-      "year2to4": 3,
+      "under1": 46,
+      "year1to2": 15,
+      "year2to4": 23,
       "year4to6": 0,
-      "over6": 2
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-010c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-010b-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "26500",
     "name": "분도유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 수영구 수영로497번길 18",
     "latitude": 35.151119143644,
     "longitude": 129.110718918785,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "53% (8명/15명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 2,
-      "year2to4": 2,
+      "under1": 47,
+      "year1to2": 13,
+      "year2to4": 13,
       "year4to6": 0,
-      "over6": 4
+      "over6": 27
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-010b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff34-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "26500",
     "name": "에버그린유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 수영구 망미배산로 104-7",
     "latitude": 35.1756811398043,
     "longitude": 129.096782324257,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (2명/10명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 4,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 10,
+      "year1to2": 40,
+      "year2to4": 30,
+      "year4to6": 10,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff34-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fec5-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "26500",
     "name": "금련사유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 수영구 광일로 71",
     "latitude": 35.1626959041863,
     "longitude": 129.10601760334,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
+      "year1to2": 60,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 40,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fec5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcb6-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "26500",
     "name": "영주암유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 수영구 망미배산로76번나길 11 (망미동)",
     "latitude": 35.1763833670475,
     "longitude": 129.099147342696,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "71% (5명/7명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
+      "under1": 29,
+      "year1to2": 43,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 2
+      "over6": 28
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcb6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa87-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "26500",
     "name": "민락초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 수영구 광남로257번길 12",
     "latitude": 35.1608191703386,
     "longitude": 129.12699732033,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 25,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa87-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f86b-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "26500",
     "name": "성모유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 수영구 민락본동로27번길 15",
     "latitude": 35.1587624034452,
     "longitude": 129.12781926169,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "14% (1명/7명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 4,
-      "year2to4": 1,
+      "under1": 29,
+      "year1to2": 57,
+      "year2to4": 14,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f86b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f7f1-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "26500",
     "name": "천사유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 수영구 수영로427번길 15",
     "latitude": 35.1442551598472,
     "longitude": 129.107739621443,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (4명/6명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 1,
+      "under1": 20,
+      "year1to2": 40,
+      "year2to4": 20,
       "year4to6": 0,
-      "over6": 1
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f7f1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef00-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "26500",
     "name": "호암유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 수영구 수영로545번길 29",
     "latitude": 35.154797000645,
     "longitude": 129.110769466056,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 33,
+      "year1to2": 33,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 0
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef00-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "99cd1379-2fd3-408a-b2c8-e5dc83a1499c",
@@ -470,6 +485,7 @@
     "sggCode": "26500",
     "name": "남천유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 수영구 남천서로 14",
     "latitude": 35.1435161581,
     "longitude": 129.1071266238,
@@ -481,18 +497,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "69% (9명/13명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 5,
+      "under1": 25,
+      "year1to2": 13,
+      "year2to4": 63,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=99cd1379-2fd3-408a-b2c8-e5dc83a1499c",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

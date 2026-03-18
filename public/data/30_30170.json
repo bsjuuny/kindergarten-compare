@@ -5,6 +5,7 @@
     "sggCode": "30170",
     "name": "열린교실유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 중반3길 49",
     "latitude": 36.3263255108376,
     "longitude": 127.382465985568,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 1,
+      "year1to2": 25,
+      "year2to4": 50,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ac6af21-bc7a-4b9b-990e-83c06702d5b1",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0a65-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "30170",
     "name": "느리울유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 구봉로147번길 64",
     "latitude": 36.2992686173248,
     "longitude": 127.338677350445,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (4명/10명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 3
+      "under1": 10,
+      "year1to2": 20,
+      "year2to4": 20,
+      "year4to6": 20,
+      "over6": 30
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0a65-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0a64-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "30170",
     "name": "롯데유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 신갈마로 46",
     "latitude": 36.3389339859117,
     "longitude": 127.368147473384,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시50분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 2,
+      "under1": 20,
+      "year1to2": 40,
+      "year2to4": 40,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0a64-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0a63-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "30170",
     "name": "이튼킨더유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 계룡로571번길 34",
     "latitude": 36.3437373672444,
     "longitude": 127.387679243721,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0a63-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0a52-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "30170",
     "name": "대전선암초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 관저중로 61",
     "latitude": 36.2974717930987,
     "longitude": 127.334038226984,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
+      "year1to2": 67,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0a52-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0914-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "30170",
     "name": "대전도안초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 원도안로 200",
     "latitude": 36.3218735626326,
     "longitude": 127.344474132415,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 67,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0914-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06eb-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "30170",
     "name": "대전느리울초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 관저로 196",
     "latitude": 36.2988865398988,
     "longitude": 127.344251809202,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06eb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06ea-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "30170",
     "name": "대전수미초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 괴곡길 42",
     "latitude": 36.2952871935828,
     "longitude": 127.361542971245,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06ea-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06e6-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "30170",
     "name": "평화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 월평중로13번길 53",
     "latitude": 36.3555247712313,
     "longitude": 127.360748795292,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "under1": 57,
+      "year1to2": 14,
+      "year2to4": 14,
+      "year4to6": 14,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06e6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06e4-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "30170",
     "name": "상아유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 대덕대로 415",
     "latitude": 36.3695347857413,
     "longitude": 127.377286391673,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 1
+      "year4to6": 33,
+      "over6": 34
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06e4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06e2-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "30170",
     "name": "은하수유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 둔산남로 15",
     "latitude": 36.3496271082097,
     "longitude": 127.380066943258,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 1
+      "over6": 17
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06e2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06da-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "30170",
     "name": "둔산수정유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 청사로 282",
     "latitude": 36.3595924052976,
     "longitude": 127.398170460462,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06da-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06cd-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "30170",
     "name": "대전구봉초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 관저로 75",
     "latitude": 36.2997317896625,
     "longitude": 127.330055846337,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06cd-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0604-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "30170",
     "name": "한양유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 계룡로571번길 65",
     "latitude": 36.3456339489217,
     "longitude": 127.387236003103,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
-      "under1": 5,
+      "under1": 71,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 14,
       "year4to6": 0,
-      "over6": 1
+      "over6": 15
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0604-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-05f2-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "30170",
     "name": "대전삼천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 둔산북로 232-33",
     "latitude": 36.3543694697266,
     "longitude": 127.401015897859,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (7명/7명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 3,
+      "year1to2": 17,
+      "year2to4": 33,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-05f2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-04df-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "30170",
     "name": "도안유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 도안북로 142",
     "latitude": 36.3299646661341,
     "longitude": 127.344492465505,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "52% (11명/21명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 5,
-      "year2to4": 3,
-      "year4to6": 3,
-      "over6": 6
+      "under1": 19,
+      "year1to2": 24,
+      "year2to4": 14,
+      "year4to6": 14,
+      "over6": 29
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-04df-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0400-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "30170",
     "name": "피피쿠스유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 도솔로 173",
     "latitude": 36.3261163223857,
     "longitude": 127.37360118173,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (3명/7명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 14,
       "year2to4": 0,
-      "year4to6": 3,
-      "over6": 3
+      "year4to6": 43,
+      "over6": 43
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0400-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b3a-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "30170",
     "name": "대전가장초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 가장로 150",
     "latitude": 36.3302843588204,
     "longitude": 127.388280406182,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b3a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b3c-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "30170",
     "name": "대전변동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 유등로 373",
     "latitude": 36.3248856851835,
     "longitude": 127.386130832863,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b3c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b45-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "30170",
     "name": "아름유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 문정로 131",
     "latitude": 36.3470126794146,
     "longitude": 127.393428183884,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "44% (4명/9명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 3,
-      "year2to4": 1,
+      "under1": 56,
+      "year1to2": 33,
+      "year2to4": 11,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b45-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "e2bff4db-b0ed-42c9-be4d-3df55fa0f5aa",
@@ -625,6 +645,7 @@
     "sggCode": "30170",
     "name": "프렌즈유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 원도안로25번길 97",
     "latitude": 36.3090293066483,
     "longitude": 127.347324045349,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "24% (4명/17명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 5,
-      "year4to6": 6,
+      "under1": 24,
+      "year1to2": 12,
+      "year2to4": 29,
+      "year4to6": 35,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=e2bff4db-b0ed-42c9-be4d-3df55fa0f5aa",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "b3d132dc-fbea-4fbf-b607-522845cdc29c",
@@ -656,6 +677,7 @@
     "sggCode": "30170",
     "name": "대전선유초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 관저남로 60",
     "latitude": 36.2949503941,
     "longitude": 127.3409490609,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (6명/6명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 2,
+      "year1to2": 20,
+      "year2to4": 40,
+      "year4to6": 40,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=b3d132dc-fbea-4fbf-b607-522845cdc29c",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "a1305382-2624-493f-b115-41addfb79728",
@@ -687,6 +709,7 @@
     "sggCode": "30170",
     "name": "일곱색깔유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 계룡로326번길 147",
     "latitude": 36.3475728342957,
     "longitude": 127.365962522815,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~21시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (1명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
+      "year1to2": 25,
+      "year2to4": 50,
       "year4to6": 0,
-      "over6": 1
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=a1305382-2624-493f-b115-41addfb79728",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "9eb3ac1c-ed1a-4a15-bc01-04693b7d07ef",
@@ -718,6 +741,7 @@
     "sggCode": "30170",
     "name": "대전도솔유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 원도안로 80",
     "latitude": 36.3112141742,
     "longitude": 127.3474780394,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "88% (7명/8명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 1,
+      "under1": 38,
+      "year1to2": 13,
+      "year2to4": 38,
+      "year4to6": 13,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=9eb3ac1c-ed1a-4a15-bc01-04693b7d07ef",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "774ce147-33d2-4d73-892e-c69db949d21e",
@@ -749,6 +773,7 @@
     "sggCode": "30170",
     "name": "대전어울림유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 복수중로 24",
     "latitude": 36.3064134900676,
     "longitude": 127.375780006437,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "54% (7명/13명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 10,
+      "under1": 15,
+      "year1to2": 8,
+      "year2to4": 77,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=774ce147-33d2-4d73-892e-c69db949d21e",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "4b0c3e05-511b-4c53-85a8-b15b8081c593",
@@ -780,6 +805,7 @@
     "sggCode": "30170",
     "name": "대전호수초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 도안동로 182-20",
     "latitude": 36.3204752953747,
     "longitude": 127.350211632175,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "78% (7명/9명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 8,
+      "year1to2": 11,
+      "year2to4": 89,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=4b0c3e05-511b-4c53-85a8-b15b8081c593",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1fd6777e-1505-e0b0-e053-0a32095ae0b0",
@@ -811,6 +837,7 @@
     "sggCode": "30170",
     "name": "펀키즈유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 도안동로 77",
     "latitude": 36.309550237072,
     "longitude": 127.349570189888,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
-      "year2to4": 1,
+      "under1": 13,
+      "year1to2": 38,
+      "year2to4": 13,
       "year4to6": 0,
-      "over6": 3
+      "over6": 36
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1fd6777e-1505-e0b0-e053-0a32095ae0b0",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0fb3-b044-e053-0a32095ab044",
@@ -842,6 +869,7 @@
     "sggCode": "30170",
     "name": "나래유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 정림서로 162-15",
     "latitude": 36.303572269883,
     "longitude": 127.365354972134,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 2
+      "year1to2": 20,
+      "year2to4": 20,
+      "year4to6": 20,
+      "over6": 40
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0fb3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0fa2-b044-e053-0a32095ab044",
@@ -873,6 +901,7 @@
     "sggCode": "30170",
     "name": "아이누리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 관저서로 70",
     "latitude": 36.2986701567677,
     "longitude": 127.32969684844,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 44,
       "year1to2": 0,
-      "year2to4": 3,
-      "year4to6": 2,
-      "over6": 0
+      "year2to4": 33,
+      "year4to6": 22,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0fa2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0fa1-b044-e053-0a32095ab044",
@@ -904,6 +933,7 @@
     "sggCode": "30170",
     "name": "은빛유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 둔산북로 172",
     "latitude": 36.3555643653523,
     "longitude": 127.393584615515,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "31% (5명/16명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 50,
+      "year1to2": 6,
+      "year2to4": 19,
+      "year4to6": 13,
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0fa1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0f97-b044-e053-0a32095ab044",
@@ -935,6 +965,7 @@
     "sggCode": "30170",
     "name": "서원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 청사로 254",
     "latitude": 36.3595329241015,
     "longitude": 127.391039097458,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (6명/9명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 33,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
-      "over6": 4
+      "year4to6": 22,
+      "over6": 45
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0f97-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0f90-b044-e053-0a32095ab044",
@@ -966,6 +997,7 @@
     "sggCode": "30170",
     "name": "대전금동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 관저로 45",
     "latitude": 36.298217311269,
     "longitude": 127.326376089693,
@@ -977,19 +1009,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08���00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 75,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0f90-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0f8f-b044-e053-0a32095ab044",
@@ -997,6 +1029,7 @@
     "sggCode": "30170",
     "name": "대전관저초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 관저동로 161",
     "latitude": 36.3065579023502,
     "longitude": 127.3399105575,
@@ -1008,19 +1041,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 67,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0f8f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0ea7-b044-e053-0a32095ab044",
@@ -1028,6 +1061,7 @@
     "sggCode": "30170",
     "name": "배재대학교부속유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 배재로 155-40",
     "latitude": 36.3197079565228,
     "longitude": 127.365181729576,
@@ -1039,19 +1073,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "42% (5명/12명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 27,
+      "year1to2": 9,
+      "year2to4": 27,
+      "year4to6": 18,
+      "over6": 19
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0ea7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c92-b044-e053-0a32095ab044",
@@ -1059,6 +1093,7 @@
     "sggCode": "30170",
     "name": "톰지유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 계룡로536번길 9",
     "latitude": 36.3427181884918,
     "longitude": 127.383298760762,
@@ -1070,19 +1105,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 3,
+      "under1": 29,
+      "year1to2": 29,
+      "year2to4": 43,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c92-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b4f-b044-e053-0a32095ab044",
@@ -1090,6 +1125,7 @@
     "sggCode": "30170",
     "name": "노란풍차유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 청사로 5",
     "latitude": 36.3614854878285,
     "longitude": 127.365237110725,
@@ -1101,19 +1137,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (2명/8명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 4,
-      "year4to6": 4,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b4f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02d9-b044-e053-0a32095ab044",
@@ -1121,6 +1157,7 @@
     "sggCode": "30170",
     "name": "하버드킨더유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 갈마로 262",
     "latitude": 36.3308538281161,
     "longitude": 127.38232414217,
@@ -1132,19 +1169,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "53% (8명/15명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
-      "year2to4": 12,
+      "year1to2": 20,
+      "year2to4": 80,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02d9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02d8-b044-e053-0a32095ab044",
@@ -1152,6 +1189,7 @@
     "sggCode": "30170",
     "name": "지니어스유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 월평서로 17",
     "latitude": 36.3551158609645,
     "longitude": 127.357258179902,
@@ -1163,19 +1201,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (4명/14명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 5,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 15,
+      "year1to2": 38,
+      "year2to4": 23,
+      "year4to6": 8,
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02d8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f56f-b044-e053-0a32095ab044",
@@ -1183,6 +1221,7 @@
     "sggCode": "30170",
     "name": "대전갈마유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 월평동로 2",
     "latitude": 36.3560898511955,
     "longitude": 127.369055875415,
@@ -1194,19 +1233,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "90% (9명/10명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 38,
+      "year1to2": 25,
+      "year2to4": 25,
+      "year4to6": 13,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f56f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f56e-b044-e053-0a32095ab044",
@@ -1214,6 +1253,7 @@
     "sggCode": "30170",
     "name": "가수원초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 벌곡로 1359",
     "latitude": 36.3031225719059,
     "longitude": 127.353245793785,
@@ -1225,19 +1265,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f56e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f47c-b044-e053-0a32095ab044",
@@ -1245,6 +1285,7 @@
     "sggCode": "30170",
     "name": "대전샘머리초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 유등로 879",
     "latitude": 36.3633998220816,
     "longitude": 127.393253244896,
@@ -1256,19 +1297,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f47c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3c4-b044-e053-0a32095ab044",
@@ -1276,6 +1317,7 @@
     "sggCode": "30170",
     "name": "대전도마초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 배재로172번길 23",
     "latitude": 36.3244577324516,
     "longitude": 127.372143028065,
@@ -1287,19 +1329,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3c4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f368-b044-e053-0a32095ab044",
@@ -1307,6 +1349,7 @@
     "sggCode": "30170",
     "name": "아이비유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 신갈마로 264",
     "latitude": 36.3564811035679,
     "longitude": 127.371010875142,
@@ -1318,19 +1361,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시10분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (3명/7명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 29,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 3,
-      "over6": 1
+      "year2to4": 14,
+      "year4to6": 43,
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f368-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f232-b044-e053-0a32095ab044",
@@ -1338,6 +1381,7 @@
     "sggCode": "30170",
     "name": "대전성천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 갈마역로 139",
     "latitude": 36.3631461215954,
     "longitude": 127.373481465668,
@@ -1349,19 +1393,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
-      "year2to4": 1,
+      "under1": 20,
+      "year1to2": 60,
+      "year2to4": 20,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f232-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f163-b044-e053-0a32095ab044",
@@ -1369,6 +1413,7 @@
     "sggCode": "30170",
     "name": "꿈내리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 원도안로242번길 24",
     "latitude": 36.3241594110367,
     "longitude": 127.346202037564,
@@ -1380,19 +1425,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (8명/14명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 7,
       "year1to2": 0,
-      "year2to4": 8,
-      "year4to6": 2,
-      "over6": 3
+      "year2to4": 57,
+      "year4to6": 14,
+      "over6": 22
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f163-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f161-b044-e053-0a32095ab044",
@@ -1400,6 +1445,7 @@
     "sggCode": "30170",
     "name": "제나킨더유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 동서대로1005번길 106",
     "latitude": 36.3363587721367,
     "longitude": 127.377948521995,
@@ -1411,19 +1457,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "44% (4명/9명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 3,
-      "year4to6": 2,
-      "over6": 0
+      "under1": 22,
+      "year1to2": 22,
+      "year2to4": 33,
+      "year4to6": 22,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f161-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f159-b044-e053-0a32095ab044",
@@ -1431,6 +1477,7 @@
     "sggCode": "30170",
     "name": "대전원앙초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 관저북로 97",
     "latitude": 36.3111489604127,
     "longitude": 127.337165116097,
@@ -1442,19 +1489,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 40,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
-      "over6": 1
+      "year4to6": 40,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f159-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f147-b044-e053-0a32095ab044",
@@ -1462,6 +1509,7 @@
     "sggCode": "30170",
     "name": "하이캠유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 계룡로325번길 16",
     "latitude": 36.3551542686064,
     "longitude": 127.365497462323,
@@ -1473,19 +1521,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (1명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
+      "under1": 20,
+      "year1to2": 60,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f147-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f146-b044-e053-0a32095ab044",
@@ -1493,6 +1541,7 @@
     "sggCode": "30170",
     "name": "대자연유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 관저북로 52",
     "latitude": 36.3061411002642,
     "longitude": 127.337335589544,
@@ -1504,19 +1553,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 1
+      "year1to2": 43,
+      "year2to4": 29,
+      "year4to6": 14,
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f146-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f145-b044-e053-0a32095ab044",
@@ -1524,6 +1573,7 @@
     "sggCode": "30170",
     "name": "명화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 조달청길 180",
     "latitude": 36.3189125420847,
     "longitude": 127.381994625391,
@@ -1535,19 +1585,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 20,
+      "year1to2": 20,
       "year2to4": 0,
-      "year4to6": 2,
-      "over6": 1
+      "year4to6": 40,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f145-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f03f-b044-e053-0a32095ab044",
@@ -1555,6 +1605,7 @@
     "sggCode": "30170",
     "name": "대전유천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 제비네6길 69",
     "latitude": 36.3139760160217,
     "longitude": 127.37609379458,
@@ -1566,19 +1617,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 40,
+      "year1to2": 20,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 40,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f03f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f03d-b044-e053-0a32095ab044",
@@ -1586,6 +1637,7 @@
     "sggCode": "30170",
     "name": "대전만년초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 만년남로 14",
     "latitude": 36.3671816960321,
     "longitude": 127.37721339356,
@@ -1597,19 +1649,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 25,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f03d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef28-b044-e053-0a32095ab044",
@@ -1617,6 +1669,7 @@
     "sggCode": "30170",
     "name": "성균관숲유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 정림���로1번길 79",
     "latitude": 36.2891882877598,
     "longitude": 127.365560651431,
@@ -1628,19 +1681,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "27% (3명/11명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 3,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 42,
+      "year1to2": 25,
+      "year2to4": 8,
+      "year4to6": 8,
+      "over6": 17
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef28-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ee1f-b044-e053-0a32095ab044",
@@ -1648,6 +1701,7 @@
     "sggCode": "30170",
     "name": "우정유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 관저서로 47",
     "latitude": 36.2965983348781,
     "longitude": 127.329652014056,
@@ -1659,11 +1713,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시40분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/3명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1671,7 +1725,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ee1f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f570-b044-e053-0a32095ab044",
@@ -1679,6 +1733,7 @@
     "sggCode": "30170",
     "name": "대전내동초등학교병설���치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 동서대로1063번길 13",
     "latitude": 36.3303828722354,
     "longitude": 127.379261460756,
@@ -1690,19 +1745,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "83% (5명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 40,
+      "year1to2": 20,
+      "year2to4": 20,
+      "year4to6": 20,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f570-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f57b-b044-e053-0a32095ab044",
@@ -1710,6 +1765,7 @@
     "sggCode": "30170",
     "name": "청아유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 동서대로 967",
     "latitude": 36.3354980279493,
     "longitude": 127.370457697644,
@@ -1721,11 +1777,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/3명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1733,7 +1789,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f57b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f57e-b044-e053-0a32095ab044",
@@ -1741,6 +1797,7 @@
     "sggCode": "30170",
     "name": "혜천유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 혜천로 100",
     "latitude": 36.3038217028056,
     "longitude": 127.37418784297,
@@ -1752,19 +1809,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
+      "under1": 43,
+      "year1to2": 29,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 2
+      "over6": 28
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f57e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02d7-b044-e053-0a32095ab044",
@@ -1772,6 +1829,7 @@
     "sggCode": "30170",
     "name": "돌샘유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 계백로1300번길 124",
     "latitude": 36.3031041886662,
     "longitude": 127.369256244239,
@@ -1783,19 +1841,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "10% (1명/10명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 4,
-      "year2to4": 4,
+      "under1": 10,
+      "year1to2": 40,
+      "year2to4": 40,
       "year4to6": 0,
-      "over6": 1
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02d7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02cb-b044-e053-0a32095ab044",
@@ -1803,6 +1861,7 @@
     "sggCode": "30170",
     "name": "대전신계초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 복수동로 26",
     "latitude": 36.3019284215935,
     "longitude": 127.378050254538,
@@ -1814,19 +1873,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02cb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02c8-b044-e053-0a32095ab044",
@@ -1834,6 +1893,7 @@
     "sggCode": "30170",
     "name": "비젤유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 가수원로65번길 44",
     "latitude": 36.2984776003936,
     "longitude": 127.350901701183,
@@ -1845,19 +1905,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/10명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 5,
-      "year2to4": 1,
+      "under1": 40,
+      "year1to2": 50,
+      "year2to4": 10,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02c8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02b5-b044-e053-0a32095ab044",
@@ -1865,6 +1925,7 @@
     "sggCode": "30170",
     "name": "기성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 기성초교길 42",
     "latitude": 36.2487564913429,
     "longitude": 127.338032046737,
@@ -1876,19 +1937,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02b5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-01ca-b044-e053-0a32095ab044",
@@ -1896,6 +1957,7 @@
     "sggCode": "30170",
     "name": "래미안유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 가장로 106",
     "latitude": 36.3332575114961,
     "longitude": 127.383415271912,
@@ -1907,19 +1969,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (5명/13명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 2,
-      "year4to6": 4,
-      "over6": 2
+      "under1": 15,
+      "year1to2": 23,
+      "year2to4": 15,
+      "year4to6": 31,
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-01ca-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-01c8-b044-e053-0a32095ab044",
@@ -1927,6 +1989,7 @@
     "sggCode": "30170",
     "name": "세명유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 청사서로 11",
     "latitude": 36.3586408765651,
     "longitude": 127.374953795155,
@@ -1938,19 +2001,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/6명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 1,
+      "under1": 83,
+      "year1to2": 17,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-01c8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ffb8-b044-e053-0a32095ab044",
@@ -1958,6 +2021,7 @@
     "sggCode": "30170",
     "name": "나은유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 관저북로 92",
     "latitude": 36.3099590986772,
     "longitude": 127.337297026781,
@@ -1969,19 +2033,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ffb8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe6d-b044-e053-0a32095ab044",
@@ -1989,6 +2053,7 @@
     "sggCode": "30170",
     "name": "맑은해유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 신갈마로 102",
     "latitude": 36.3431361527,
     "longitude": 127.3695731934,
@@ -2000,19 +2065,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 17,
+      "year4to6": 17,
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe6d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe56-b044-e053-0a32095ab044",
@@ -2020,6 +2085,7 @@
     "sggCode": "30170",
     "name": "누리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 청사로 70",
     "latitude": 36.3586842694094,
     "longitude": 127.369170926321,
@@ -2031,19 +2097,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~21시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 9,
+      "under1": 69,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 15,
+      "year4to6": 8,
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe56-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd91-b044-e053-0a32095ab044",
@@ -2051,6 +2117,7 @@
     "sggCode": "30170",
     "name": "다모아유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 월평동로 83",
     "latitude": 36.3430667052872,
     "longitude": 127.353969744127,
@@ -2062,19 +2129,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "17% (1명/6명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
+      "year1to2": 75,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd91-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd83-b044-e053-0a32095ab044",
@@ -2082,6 +2149,7 @@
     "sggCode": "30170",
     "name": "대전월평초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 월평서로 22",
     "latitude": 36.3559440849741,
     "longitude": 127.357770037213,
@@ -2093,19 +2161,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd83-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fb5f-b044-e053-0a32095ab044",
@@ -2113,6 +2181,7 @@
     "sggCode": "30170",
     "name": "경성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 대덕대로 150",
     "latitude": 36.3456079746851,
     "longitude": 127.37646584141,
@@ -2124,19 +2193,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (3명/9명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 67,
+      "year1to2": 11,
+      "year2to4": 11,
+      "year4to6": 11,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fb5f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa25-b044-e053-0a32095ab044",
@@ -2144,6 +2213,7 @@
     "sggCode": "30170",
     "name": "샘머리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 문예로 172",
     "latitude": 36.3623948124686,
     "longitude": 127.39148097166,
@@ -2155,19 +2225,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "31% (4명/13명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 5,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 31,
+      "year1to2": 38,
+      "year2to4": 8,
+      "year4to6": 8,
+      "over6": 15
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa25-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa15-b044-e053-0a32095ab044",
@@ -2175,6 +2245,7 @@
     "sggCode": "30170",
     "name": "대전봉산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대전광역시 서구 신갈마로141번길 45",
     "latitude": 36.3453071487104,
     "longitude": 127.36586265382,
@@ -2186,19 +2257,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa15-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f935-b044-e053-0a32095ab044",
@@ -2206,6 +2277,7 @@
     "sggCode": "30170",
     "name": "산새소리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 갈마로183번길 41",
     "latitude": 36.3396002741427,
     "longitude": 127.378022214307,
@@ -2217,19 +2289,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "36% (4명/11명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 1,
-      "year2to4": 3,
+      "under1": 45,
+      "year1to2": 9,
+      "year2to4": 27,
       "year4to6": 0,
-      "over6": 2
+      "over6": 19
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f935-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f6f2-b044-e053-0a32095ab044",
@@ -2237,6 +2309,7 @@
     "sggCode": "30170",
     "name": "레드애플유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 도안동로 183",
     "latitude": 36.322227774811,
     "longitude": 127.346273364776,
@@ -2248,19 +2321,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "64% (7명/11명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 6,
+      "under1": 18,
+      "year1to2": 27,
+      "year2to4": 55,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f6f2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "fe803f25-a90d-4f14-96f8-6b10ce944066",
@@ -2268,6 +2341,7 @@
     "sggCode": "30170",
     "name": "건양대학교부속유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대전광역시 서구 관저동로 158",
     "latitude": 36.304985176340004,
     "longitude": 127.34154497902217,
@@ -2279,18 +2353,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "35% (6명/17명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 3
+      "under1": 25,
+      "year1to2": 17,
+      "year2to4": 17,
+      "year4to6": 17,
+      "over6": 24
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=fe803f25-a90d-4f14-96f8-6b10ce944066",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

@@ -5,6 +5,7 @@
     "sggCode": "26710",
     "name": "죽성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 죽성로 270",
     "latitude": 35.2429318346335,
     "longitude": 129.243681692529,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-eefd-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0333-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "26710",
     "name": "용암초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 기장해안로 577",
     "latitude": 35.2251625484903,
     "longitude": 129.22678652233,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0333-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-067c-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "26710",
     "name": "모전초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 정관1로 17",
     "latitude": 35.3396841464992,
     "longitude": 129.162335526525,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-067c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0744-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "26710",
     "name": "기장초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 읍내로 75",
     "latitude": 35.2454002050661,
     "longitude": 129.212571481593,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0744-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0aed-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "26710",
     "name": "정관무지개유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 기장군 정관5로 127",
     "latitude": 35.32960538906,
     "longitude": 129.178198912769,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (6명/14명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 2,
-      "year2to4": 5,
+      "under1": 46,
+      "year1to2": 15,
+      "year2to4": 38,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0aed-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b60-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "26710",
     "name": "정관버클리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 기장군 정관상곡1길 34",
     "latitude": 35.3189976366142,
     "longitude": 129.168162156621,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~21시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "16% (3명/19명)",
     "teacherTenure": {
-      "under1": 12,
-      "year1to2": 1,
-      "year2to4": 4,
-      "year4to6": 2,
+      "under1": 63,
+      "year1to2": 5,
+      "year2to4": 21,
+      "year4to6": 11,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b60-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d62-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "26710",
     "name": "칠암초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 박영준길 19",
     "latitude": 35.2987449162427,
     "longitude": 129.255396089988,
@@ -202,11 +209,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -214,7 +221,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d62-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1fc6dd86-ccb6-d1d2-e053-0a32095ad1d2",
@@ -222,6 +229,7 @@
     "sggCode": "26710",
     "name": "정관아이숲유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 기장군 병산로 24",
     "latitude": 35.3361747043722,
     "longitude": 129.171852179579,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "88% (7명/8명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 25,
+      "year1to2": 13,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 5
+      "over6": 62
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1fc6dd86-ccb6-d1d2-e053-0a32095ad1d2",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1fc6dd86-ccc1-d1d2-e053-0a32095ad1d2",
@@ -253,6 +261,7 @@
     "sggCode": "26710",
     "name": "가동유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 정관5로 100",
     "latitude": 35.326899804133,
     "longitude": 129.178587422867,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "55% (6명/11명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 43,
+      "year1to2": 14,
+      "year2to4": 29,
+      "year4to6": 14,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1fc6dd86-ccc1-d1d2-e053-0a32095ad1d2",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "5464da0e-792c-46b3-9215-0dbcbd789897",
@@ -284,6 +293,7 @@
     "sggCode": "26710",
     "name": "내리초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 소정안길 50",
     "latitude": 35.2057614954533,
     "longitude": 129.205503633878,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=5464da0e-792c-46b3-9215-0dbcbd789897",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "74c62b56-6edb-4c92-b037-7b7dc5bd9c40",
@@ -315,6 +325,7 @@
     "sggCode": "26710",
     "name": "일광유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 해빛로 42",
     "latitude": 35.2677052837031,
     "longitude": 129.223693533835,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~20시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "74% (14명/19명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 4,
+      "under1": 22,
+      "year1to2": 33,
+      "year2to4": 44,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=74c62b56-6edb-4c92-b037-7b7dc5bd9c40",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "83d16a1b-7cf6-4e9b-a5e7-607cef82d79e",
@@ -346,6 +357,7 @@
     "sggCode": "26710",
     "name": "교리초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 기장읍 차성로 427",
     "latitude": 35.2550663729227,
     "longitude": 129.216719536424,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=83d16a1b-7cf6-4e9b-a5e7-607cef82d79e",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "9a9c62dc-be49-4205-836e-b9fc1b7e8a9c",
@@ -377,6 +389,7 @@
     "sggCode": "26710",
     "name": "방곡유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 정관덕산길 61",
     "latitude": 35.3229289398632,
     "longitude": 129.186709511429,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (4명/10명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
-      "year2to4": 2,
+      "under1": 17,
+      "year1to2": 50,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=9a9c62dc-be49-4205-836e-b9fc1b7e8a9c",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "c51e940a-e194-4b01-a0ac-2f36197f6603",
@@ -408,6 +421,7 @@
     "sggCode": "26710",
     "name": "해누리유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 용수로 109-33",
     "latitude": 35.3292597687545,
     "longitude": 129.171972534483,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "82% (9명/11명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 4,
+      "under1": 33,
+      "year1to2": 67,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=c51e940a-e194-4b01-a0ac-2f36197f6603",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "dad15845-6e9b-4620-9b27-576b346d8809",
@@ -439,6 +453,7 @@
     "sggCode": "26710",
     "name": "해빛유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 해빛6로 17",
     "latitude": 35.2643067308103,
     "longitude": 129.222448096573,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "70% (19명/27명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 10,
-      "year2to4": 4,
+      "under1": 13,
+      "year1to2": 63,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=dad15845-6e9b-4620-9b27-576b346d8809",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "e564ac6e-562f-4857-b1cf-da4a9ebd66b3",
@@ -470,6 +485,7 @@
     "sggCode": "26710",
     "name": "해빛초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 해빛6��� 9",
     "latitude": 35.2641739234161,
     "longitude": 129.222423668808,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=e564ac6e-562f-4857-b1cf-da4a9ebd66b3",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-032a-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "26710",
     "name": "정원초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 정관로 423",
     "latitude": 35.3323890699703,
     "longitude": 129.166888286483,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-032a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02d6-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "26710",
     "name": "행복엔젤유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 기장군 차성서로 44",
     "latitude": 35.2371191098506,
     "longitude": 129.210351221807,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/2명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02d6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-008a-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "26710",
     "name": "철마초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 철마로 493",
     "latitude": 35.2754681228224,
     "longitude": 129.150735923345,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-008a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f0e5-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "26710",
     "name": "정관피올라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 기장군 가동2길 5",
     "latitude": 35.3285165181425,
     "longitude": 129.179610968882,
@@ -605,11 +625,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -617,7 +637,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f0e5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f1a9-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "26710",
     "name": "달산유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 정관로 674",
     "latitude": 35.3193230726663,
     "longitude": 129.18700420953,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20��00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (8명/12명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 3,
+      "under1": 43,
+      "year1to2": 14,
+      "year2to4": 43,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f1a9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f210-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "26710",
     "name": "산새소리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 기장군 차성남로 1-4",
     "latitude": 35.2416118042674,
     "longitude": 129.208425709483,
@@ -667,11 +689,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -679,7 +701,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f210-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f349-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "26710",
     "name": "장안초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 장안��� 67-4",
     "latitude": 35.3465791507116,
     "longitude": 129.253688504125,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f349-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3bf-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "26710",
     "name": "신진초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 고촌로28번길 6",
     "latitude": 35.2399876648014,
     "longitude": 129.171205011029,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3bf-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3c8-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "26710",
     "name": "효성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 기장군 차성로344번길 13",
     "latitude": 35.2493631712845,
     "longitude": 129.215284345882,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 17,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3c8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f595-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "26710",
     "name": "정관유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 정관로 530",
     "latitude": 35.323215607959,
     "longitude": 129.171850404599,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "78% (7명/9명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 43,
+      "year1to2": 14,
+      "year2to4": 29,
+      "year4to6": 14,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f595-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f7f3-b044-e053-0a32095ab044",
@@ -811,6 +837,7 @@
     "sggCode": "26710",
     "name": "한솔기장유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 기장군 대청로45번길 6",
     "latitude": 35.2382100801091,
     "longitude": 129.215632366111,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (4명/8명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 4,
+      "under1": 17,
+      "year1to2": 17,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f7f3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f9c0-b044-e053-0a32095ab044",
@@ -842,6 +869,7 @@
     "sggCode": "26710",
     "name": "숲속원광유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 기장군 곰내길 654-125",
     "latitude": 35.3105109352782,
     "longitude": 129.173574695529,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 2
+      "over6": 67
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f9c0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa80-b044-e053-0a32095ab044",
@@ -873,6 +901,7 @@
     "sggCode": "26710",
     "name": "피터팬유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 기장군 가동옛길 37",
     "latitude": 35.3315729885797,
     "longitude": 129.179080123721,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (16명/32명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 9,
-      "year2to4": 5,
-      "year4to6": 4,
-      "over6": 6
+      "under1": 25,
+      "year1to2": 28,
+      "year2to4": 16,
+      "year4to6": 13,
+      "over6": 18
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa80-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc31-b044-e053-0a32095ab044",
@@ -904,6 +933,7 @@
     "sggCode": "26710",
     "name": "좌천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 좌천로 13-66",
     "latitude": 35.3121327895541,
     "longitude": 129.240135095425,
@@ -915,11 +945,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -927,7 +957,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc31-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcb5-b044-e053-0a32095ab044",
@@ -935,6 +965,7 @@
     "sggCode": "26710",
     "name": "세화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 기장군 기장대로 563",
     "latitude": 35.2440738347359,
     "longitude": 129.219574848636,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (4명/7명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 29,
+      "year1to2": 14,
+      "year2to4": 14,
+      "year4to6": 14,
+      "over6": 29
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcb5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcb8-b044-e053-0a32095ab044",
@@ -966,6 +997,7 @@
     "sggCode": "26710",
     "name": "월내초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 길천2길 25",
     "latitude": 35.3280702462303,
     "longitude": 129.283082694888,
@@ -977,19 +1009,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcb8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcb9-b044-e053-0a32095ab044",
@@ -997,6 +1029,7 @@
     "sggCode": "26710",
     "name": "월평초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 기장군 월평1길 21",
     "latitude": 35.3599299704976,
     "longitude": 129.138621824883,
@@ -1008,11 +1041,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1020,7 +1053,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcb9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcc7-b044-e053-0a32095ab044",
@@ -1028,6 +1061,7 @@
     "sggCode": "26710",
     "name": "녹원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 기장군 석산1길 69-1",
     "latitude": 35.2007398488783,
     "longitude": 129.210207488033,
@@ -1039,19 +1073,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 33,
+      "year1to2": 33,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 34
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcc7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "fc81a995-6717-47a7-8fe6-eda73f91bcc8",
@@ -1059,6 +1093,7 @@
     "sggCode": "26710",
     "name": "숲속나라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 기장군 산막길 46-28",
     "latitude": 35.3354967025059,
     "longitude": 129.172961541079,
@@ -1070,18 +1105,18 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (1명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 25,
+      "year4to6": 25,
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=fc81a995-6717-47a7-8fe6-eda73f91bcc8",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

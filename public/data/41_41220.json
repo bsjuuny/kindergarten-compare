@@ -5,6 +5,7 @@
     "sggCode": "41220",
     "name": "고덕함박초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 고덕국제5로 80",
     "latitude": 37.032876102903,
     "longitude": 127.032098155929,
@@ -16,11 +17,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -28,7 +29,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=05010fa4-66c4-4c0d-a1d3-1e486c30b400",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "217d1a46-0cb1-4fb2-9379-9f3d05992c27",
@@ -36,6 +37,7 @@
     "sggCode": "41220",
     "name": "세아초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 세교4로 50",
     "latitude": 37.008513386697,
     "longitude": 127.088334997957,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
+      "year1to2": 67,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=217d1a46-0cb1-4fb2-9379-9f3d05992c27",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1fc6dd86-ccd1-d1d2-e053-0a32095ad1d2",
@@ -67,6 +69,7 @@
     "sggCode": "41220",
     "name": "숲아이유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 안청로1길 84",
     "latitude": 37.0198867425833,
     "longitude": 126.911187716993,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시20분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (2명/8명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 1,
+      "under1": 25,
+      "year1to2": 25,
+      "year2to4": 13,
       "year4to6": 0,
-      "over6": 3
+      "over6": 37
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1fc6dd86-ccd1-d1d2-e053-0a32095ad1d2",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0f9a-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "41220",
     "name": "효덕초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 효덕새싹길 6-5",
     "latitude": 37.0161513677349,
     "longitude": 127.03553817001,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
+      "year1to2": 33,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0f9a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e1c-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "41220",
     "name": "오성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 숙성시장길 15",
     "latitude": 37.0082414025422,
     "longitude": 126.978693202226,
@@ -140,11 +145,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -152,7 +157,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e1c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e1b-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "41220",
     "name": "안중유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 경성1길 27",
     "latitude": 36.9895010277881,
     "longitude": 126.940182365246,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e1b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0dad-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "41220",
     "name": "비전초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 비전1로57번길 63",
     "latitude": 37.0015579244442,
     "longitude": 127.092957687088,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0dad-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0dab-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "41220",
     "name": "군문초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 원평로 21",
     "latitude": 36.9879809635843,
     "longitude": 127.085543977625,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0dab-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0cd2-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "41220",
     "name": "팽성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 동서촌로129번길 16",
     "latitude": 36.9659453829264,
     "longitude": 127.065406636654,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 2,
+      "under1": 29,
+      "year1to2": 29,
+      "year2to4": 29,
       "year4to6": 0,
-      "over6": 1
+      "over6": 13
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0cd2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c48-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "41220",
     "name": "현일초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 현화중앙길 83",
     "latitude": 36.9861123842929,
     "longitude": 126.919872897339,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c48-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0bd9-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "41220",
     "name": "자란초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 만세로 1886",
     "latitude": 37.0034149346581,
     "longitude": 127.099865639271,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0bd9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0a3d-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "41220",
     "name": "평택성동유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 중앙로 89",
     "latitude": 36.995361086519,
     "longitude": 127.093378435183,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (5명/10명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 4,
-      "year2to4": 5,
+      "under1": 10,
+      "year1to2": 40,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0a3d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0953-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "41220",
     "name": "피터팬유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 동령길 33",
     "latitude": 37.0627208240412,
     "longitude": 127.074673482356,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (7명/14명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
-      "year2to4": 3,
-      "year4to6": 5,
-      "over6": 3
+      "year1to2": 21,
+      "year2to4": 21,
+      "year4to6": 36,
+      "over6": 22
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0953-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-091f-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "41220",
     "name": "예일유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 화촌2길 7-11",
     "latitude": 36.992026979179,
     "longitude": 127.072179367816,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시30분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "56% (5명/9명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 25,
+      "year1to2": 25,
+      "year2to4": 25,
+      "year4to6": 13,
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-091f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-085b-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "41220",
     "name": "한솔유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경��도 평택시 만세로 1690",
     "latitude": 37.0161187552358,
     "longitude": 127.113985532159,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (8명/14명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 3,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 36,
+      "year1to2": 21,
+      "year2to4": 21,
+      "year4to6": 7,
+      "over6": 15
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-085b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0762-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "41220",
     "name": "창의유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 옥길1길 156-2",
     "latitude": 37.0269896026018,
     "longitude": 126.910929851444,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/5명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 3,
+      "under1": 33,
+      "year1to2": 17,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0762-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-074d-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "41220",
     "name": "평택소화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 평택2로 61",
     "latitude": 36.9964894603913,
     "longitude": 127.090428645747,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 3,
+      "under1": 43,
+      "year1to2": 43,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-074d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-074c-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "41220",
     "name": "평일초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 평남로 626",
     "latitude": 36.9893756790992,
     "longitude": 127.107071304678,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year1to2": 33,
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-074c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06db-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "41220",
     "name": "평택초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 원평2로 4",
     "latitude": 36.9894546031007,
     "longitude": 127.081373221088,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06db-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-056f-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "41220",
     "name": "엔젤라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 송탄2로 10-5",
     "latitude": 37.0709907784779,
     "longitude": 127.05605180611,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 50,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 3,
-      "over6": 1
+      "year4to6": 38,
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-056f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-050c-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "41220",
     "name": "부용초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 동서촌로 65",
     "latitude": 36.9661685083812,
     "longitude": 127.059662031544,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-050c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-050b-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "41220",
     "name": "덕동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 매봉산1길 5",
     "latitude": 36.9976335784395,
     "longitude": 127.107290902379,
@@ -667,19 +689,12 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
-    "teacherTenure": {
-      "under1": 0,
-      "year1to2": 0,
-      "year2to4": 0,
-      "year4to6": 0,
-      "over6": 0
-    },
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-050b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-050a-b044-e053-0a32095ab044",
@@ -687,6 +702,7 @@
     "sggCode": "41220",
     "name": "기린유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 평택5로114번길 13",
     "latitude": 36.9963280680328,
     "longitude": 127.109955488737,
@@ -698,19 +714,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
+      "year1to2": 33,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-050a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0440-b044-e053-0a32095ab044",
@@ -718,6 +734,7 @@
     "sggCode": "41220",
     "name": "꿈꾸는숲유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 이충로 19",
     "latitude": 37.058797373957,
     "longitude": 127.069553113359,
@@ -729,19 +746,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 1
+      "under1": 14,
+      "year1to2": 14,
+      "year2to4": 29,
+      "year4to6": 29,
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0440-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-03ad-b044-e053-0a32095ab044",
@@ -749,6 +766,7 @@
     "sggCode": "41220",
     "name": "평택송화초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 송화택지로25번길 14",
     "latitude": 36.9629439923267,
     "longitude": 127.056979634703,
@@ -760,19 +778,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-03ad-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0356-b044-e053-0a32095ab044",
@@ -780,6 +798,7 @@
     "sggCode": "41220",
     "name": "동삭초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 동삭로 370",
     "latitude": 37.0184869904515,
     "longitude": 127.097484111251,
@@ -791,19 +810,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0356-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-033c-b044-e053-0a32095ab044",
@@ -811,6 +830,7 @@
     "sggCode": "41220",
     "name": "창신초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 창신뜰길 138",
     "latitude": 37.004604989469,
     "longitude": 127.006735378351,
@@ -822,19 +842,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-033c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-033b-b044-e053-0a32095ab044",
@@ -842,6 +862,7 @@
     "sggCode": "41220",
     "name": "중앙유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 포승장안로 55-48",
     "latitude": 36.9931087674868,
     "longitude": 126.899643644339,
@@ -853,19 +874,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (3명/7명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 43,
+      "year1to2": 29,
+      "year2to4": 14,
+      "year4to6": 14,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-033b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02bd-b044-e053-0a32095ab044",
@@ -873,6 +894,7 @@
     "sggCode": "41220",
     "name": "현덕초등학교광덕분교장병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 현덕로 934",
     "latitude": 36.9444523996896,
     "longitude": 126.944541143112,
@@ -884,11 +906,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -896,7 +918,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02bd-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "37435817-7fe1-461c-b7a5-469b07b1d0a4",
@@ -904,6 +926,7 @@
     "sggCode": "41220",
     "name": "율포숲유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 함박산4길 27",
     "latitude": 37.0401429791883,
     "longitude": 127.039401175568,
@@ -915,11 +938,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "55% (12명/22명)",
     "teacherTenure": {
-      "under1": 13,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -927,7 +950,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=37435817-7fe1-461c-b7a5-469b07b1d0a4",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "3793fbb6-306e-4f06-931a-9adaa5b2945b",
@@ -935,6 +958,7 @@
     "sggCode": "41220",
     "name": "평택이화초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 평남로 906",
     "latitude": 37.0035643997,
     "longitude": 127.1082245497,
@@ -946,19 +970,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=3793fbb6-306e-4f06-931a-9adaa5b2945b",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "f232daf9-f694-4dbd-addd-313e1818c16b",
@@ -966,6 +990,7 @@
     "sggCode": "41220",
     "name": "청북유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 안청로4길 49",
     "latitude": 37.0234655735327,
     "longitude": 126.920099180725,
@@ -977,19 +1002,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "82% (14명/17명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 5,
-      "year2to4": 1,
-      "year4to6": 3,
+      "under1": 10,
+      "year1to2": 50,
+      "year2to4": 10,
+      "year4to6": 30,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=f232daf9-f694-4dbd-addd-313e1818c16b",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "ee77ba38-88ca-4f24-9281-05c9ea1f5482",
@@ -997,6 +1022,7 @@
     "sggCode": "41220",
     "name": "평택연화초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 현덕면 운정화양1로 95",
     "latitude": 36.9736496971954,
     "longitude": 126.907343793199,
@@ -1008,11 +1034,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "시분~시분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1020,7 +1046,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=ee77ba38-88ca-4f24-9281-05c9ea1f5482",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "ed859e19-afc0-47f8-878f-03df07d3de0d",
@@ -1028,6 +1054,7 @@
     "sggCode": "41220",
     "name": "평택새빛초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 원칠원길 20",
     "latitude": 37.02858430628743,
     "longitude": 127.10150333907463,
@@ -1039,11 +1066,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1051,7 +1078,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=ed859e19-afc0-47f8-878f-03df07d3de0d",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "d8362ffd-48bb-49a1-ac90-64c0cb1a96cf",
@@ -1059,6 +1086,7 @@
     "sggCode": "41220",
     "name": "현화유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 안중로8번길 44",
     "latitude": 36.9824997285537,
     "longitude": 126.927594857336,
@@ -1070,19 +1098,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "82% (9명/11명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 29,
+      "year1to2": 29,
+      "year2to4": 29,
+      "year4to6": 14,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=d8362ffd-48bb-49a1-ac90-64c0cb1a96cf",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "d0d0769b-b831-4420-bfb3-e39ee9c8b5ca",
@@ -1090,6 +1118,7 @@
     "sggCode": "41220",
     "name": "평택모산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 지제��삭1로 175",
     "latitude": 37.0199315908836,
     "longitude": 127.089908753862,
@@ -1101,19 +1130,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=d0d0769b-b831-4420-bfb3-e39ee9c8b5ca",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "cb532942-fa3c-4ec8-ab28-43b3cb079180",
@@ -1121,6 +1150,7 @@
     "sggCode": "41220",
     "name": "풀꽃향기유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 청북남로 365",
     "latitude": 37.0214074674,
     "longitude": 126.9064759351,
@@ -1132,19 +1162,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "13% (1명/8명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
-      "year2to4": 5,
+      "year1to2": 38,
+      "year2to4": 63,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=cb532942-fa3c-4ec8-ab28-43b3cb079180",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "c8f99d14-b807-478c-88a6-7a8c181e8834",
@@ -1152,6 +1182,7 @@
     "sggCode": "41220",
     "name": "노루유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 송탄로40번길 71-20",
     "latitude": 37.0514149928972,
     "longitude": 127.057098173563,
@@ -1163,19 +1194,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (9명/12명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 4,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=c8f99d14-b807-478c-88a6-7a8c181e8834",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "c63c0ebd-aefd-422a-bb16-80a2d11f4e83",
@@ -1183,6 +1214,7 @@
     "sggCode": "41220",
     "name": "평택대동유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 소사6길 34",
     "latitude": 36.9910885840128,
     "longitude": 127.131243844047,
@@ -1194,19 +1226,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (12명/20명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 5,
-      "year2to4": 2,
+      "under1": 30,
+      "year1to2": 50,
+      "year2to4": 20,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=c63c0ebd-aefd-422a-bb16-80a2d11f4e83",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "c55ed62f-aa66-428a-9066-83eb343aa2e7",
@@ -1214,6 +1246,7 @@
     "sggCode": "41220",
     "name": "사랑유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 비전8길 2-10",
     "latitude": 37.0023586419,
     "longitude": 127.106353366,
@@ -1225,19 +1258,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "59% (13명/22명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 4,
-      "year2to4": 4,
-      "year4to6": 5,
-      "over6": 4
+      "under1": 23,
+      "year1to2": 18,
+      "year2to4": 18,
+      "year4to6": 23,
+      "over6": 18
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=c55ed62f-aa66-428a-9066-83eb343aa2e7",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "c01f487e-920f-4610-9714-b9a756c80fc2",
@@ -1245,6 +1278,7 @@
     "sggCode": "41220",
     "name": "솔가람유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 옥길1길 295",
     "latitude": 37.0243463077,
     "longitude": 126.9081715276,
@@ -1256,19 +1290,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (2명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 20,
+      "year1to2": 20,
+      "year2to4": 40,
+      "year4to6": 20,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=c01f487e-920f-4610-9714-b9a756c80fc2",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "bd2c5f59-7af1-4f5f-b296-f05e83dd6f2a",
@@ -1276,6 +1310,7 @@
     "sggCode": "41220",
     "name": "함박유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 함박산8길 16",
     "latitude": 37.0381236606797,
     "longitude": 127.033240110334,
@@ -1287,19 +1322,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (20명/25명)",
     "teacherTenure": {
-      "under1": 5,
+      "under1": 31,
       "year1to2": 0,
-      "year2to4": 11,
+      "year2to4": 69,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=bd2c5f59-7af1-4f5f-b296-f05e83dd6f2a",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "bab93b9e-8ccf-4ceb-8126-cb7fe6d992c5",
@@ -1307,6 +1342,7 @@
     "sggCode": "41220",
     "name": "평택영신초��학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 지제동삭2로 123",
     "latitude": 37.0173237898355,
     "longitude": 127.085000718665,
@@ -1318,11 +1354,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1330,7 +1366,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=bab93b9e-8ccf-4ceb-8126-cb7fe6d992c5",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "aafcc378-d3b0-4c87-bb18-63af562aa6c6",
@@ -1338,6 +1374,7 @@
     "sggCode": "41220",
     "name": "율포초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 함박산로 10",
     "latitude": 37.0426733968881,
     "longitude": 127.043483106027,
@@ -1349,19 +1386,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "55% (6명/11명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 5,
-      "year2to4": 2,
+      "under1": 13,
+      "year1to2": 63,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=aafcc378-d3b0-4c87-bb18-63af562aa6c6",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "a1beda01-0703-4ce7-a905-f820bcdf4765",
@@ -1369,6 +1406,7 @@
     "sggCode": "41220",
     "name": "평택청아초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 안청로4길 26",
     "latitude": 37.0232994651,
     "longitude": 126.9157426423,
@@ -1380,11 +1418,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1392,7 +1430,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=a1beda01-0703-4ce7-a905-f820bcdf4765",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "9af25f55-642c-4c97-93d0-0e41b8ae8b4a",
@@ -1400,6 +1438,7 @@
     "sggCode": "41220",
     "name": "가내초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 비전2로 265",
     "latitude": 37.0170121301,
     "longitude": 127.1158533003,
@@ -1411,19 +1450,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=9af25f55-642c-4c97-93d0-0e41b8ae8b4a",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "96a0e941-44dc-42f6-9252-97e6883005d7",
@@ -1431,6 +1470,7 @@
     "sggCode": "41220",
     "name": "평택파랑새유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 청룡길 107",
     "latitude": 37.0227296115,
     "longitude": 127.1254680706,
@@ -1442,19 +1482,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "54% (13명/24명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 16,
       "year1to2": 0,
-      "year2to4": 8,
-      "year4to6": 5,
-      "over6": 8
+      "year2to4": 32,
+      "year4to6": 20,
+      "over6": 32
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=96a0e941-44dc-42f6-9252-97e6883005d7",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "93ff2f21-fe8f-4825-b1aa-d73620c7915e",
@@ -1462,6 +1502,7 @@
     "sggCode": "41220",
     "name": "현촌초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 현촌3길 10",
     "latitude": 37.0005632006,
     "longitude": 127.1319701509,
@@ -1473,19 +1514,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=93ff2f21-fe8f-4825-b1aa-d73620c7915e",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "8e17e7c1-c79d-4ce3-b0ee-77781072906e",
@@ -1493,6 +1534,7 @@
     "sggCode": "41220",
     "name": "민세초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 고덕국제1로 200",
     "latitude": 37.0554520557226,
     "longitude": 127.039965600599,
@@ -1504,19 +1546,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
+      "under1": 75,
+      "year1to2": 25,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=8e17e7c1-c79d-4ce3-b0ee-77781072906e",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "870af03d-17b6-44ff-9e40-73c40b90cd8d",
@@ -1524,6 +1566,7 @@
     "sggCode": "41220",
     "name": "군문유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 군문1길 12-10",
     "latitude": 36.9845628646748,
     "longitude": 127.0827292728,
@@ -1535,19 +1578,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (8명/14명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 4,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 25,
+      "year1to2": 50,
+      "year2to4": 13,
+      "year4to6": 13,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=870af03d-17b6-44ff-9e40-73c40b90cd8d",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "79d19f1a-2fb4-4808-bebf-725b37d2322d",
@@ -1555,6 +1598,7 @@
     "sggCode": "41220",
     "name": "반디유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 고덕여염17길 29",
     "latitude": 37.0470373401883,
     "longitude": 127.050663234849,
@@ -1566,19 +1610,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "23% (5명/22명)",
     "teacherTenure": {
-      "under1": 10,
-      "year1to2": 5,
-      "year2to4": 8,
+      "under1": 43,
+      "year1to2": 22,
+      "year2to4": 35,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=79d19f1a-2fb4-4808-bebf-725b37d2322d",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "77b612b1-eb4c-4daf-88bf-514c0ac26441",
@@ -1586,6 +1630,7 @@
     "sggCode": "41220",
     "name": "평택화양초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 현덕면 화양현화2로 10",
     "latitude": 36.9849112235209,
     "longitude": 126.90544356764,
@@ -1597,11 +1642,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "시분~시분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1609,7 +1654,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=77b612b1-eb4c-4daf-88bf-514c0ac26441",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "6d23387d-7ae9-4b47-8d6c-150400e756b6",
@@ -1617,6 +1662,7 @@
     "sggCode": "41220",
     "name": "평택대동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 소사서로 17",
     "latitude": 36.9893645667251,
     "longitude": 127.131790395925,
@@ -1628,19 +1674,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=6d23387d-7ae9-4b47-8d6c-150400e756b6",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "6a0f06db-621c-43a7-b885-9edebfd0eefe",
@@ -1648,6 +1694,7 @@
     "sggCode": "41220",
     "name": "평택서재초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 상서재로6길 19",
     "latitude": 37.018248606661935,
     "longitude": 127.10396626012351,
@@ -1659,19 +1706,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=6a0f06db-621c-43a7-b885-9edebfd0eefe",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "656f3c99-81bd-4a37-9a4a-d06a316ad449",
@@ -1679,6 +1726,7 @@
     "sggCode": "41220",
     "name": "해창초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 고덕국제5로 165",
     "latitude": 37.0357544035802,
     "longitude": 127.023711257062,
@@ -1690,19 +1738,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "83% (5명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 67,
+      "year1to2": 33,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=656f3c99-81bd-4a37-9a4a-d06a316ad449",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "5a8c12da-94f4-4366-b65c-98af17f74617",
@@ -1710,6 +1758,7 @@
     "sggCode": "41220",
     "name": "지제초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 영신로 5",
     "latitude": 37.0191848514318,
     "longitude": 127.072553770695,
@@ -1721,19 +1770,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 4,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=5a8c12da-94f4-4366-b65c-98af17f74617",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "4b73f8f6-c106-4229-b091-2aa2702908f8",
@@ -1741,6 +1790,7 @@
     "sggCode": "41220",
     "name": "평택고덕유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 고덕국제2로 107",
     "latitude": 37.0524045168808,
     "longitude": 127.046442882799,
@@ -1752,19 +1802,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "62% (16명/26명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 6,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 50,
+      "year1to2": 38,
+      "year2to4": 6,
+      "year4to6": 6,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=4b73f8f6-c106-4229-b091-2aa2702908f8",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "48c64773-0fa5-4d96-aae4-9a60b7519313",
@@ -1772,6 +1822,7 @@
     "sggCode": "41220",
     "name": "현촌유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 현촌4길 3",
     "latitude": 36.9994781753,
     "longitude": 127.1320806197,
@@ -1783,19 +1834,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (8명/12명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 5,
+      "under1": 33,
+      "year1to2": 11,
+      "year2to4": 56,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=48c64773-0fa5-4d96-aae4-9a60b7519313",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "43a3f1c9-8e30-4d26-9939-0e5cf1b31d65",
@@ -1803,6 +1854,7 @@
     "sggCode": "41220",
     "name": "푸른동삭유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 상서재로2길 45",
     "latitude": 37.015374911946,
     "longitude": 127.101645666628,
@@ -1814,19 +1866,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "82% (27명/33명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 5,
-      "year2to4": 5,
-      "year4to6": 5,
+      "under1": 25,
+      "year1to2": 25,
+      "year2to4": 25,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=43a3f1c9-8e30-4d26-9939-0e5cf1b31d65",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02bc-b044-e053-0a32095ab044",
@@ -1834,6 +1886,7 @@
     "sggCode": "41220",
     "name": "합정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 평택4로 11",
     "latitude": 36.9893912913392,
     "longitude": 127.097737264273,
@@ -1845,19 +1898,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02bc-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02bb-b044-e053-0a32095ab044",
@@ -1865,6 +1918,7 @@
     "sggCode": "41220",
     "name": "평택지산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 지산2로 57",
     "latitude": 37.0773066662541,
     "longitude": 127.062007787197,
@@ -1876,19 +1930,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02bb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f757-b044-e053-0a32095ab044",
@@ -1896,6 +1950,7 @@
     "sggCode": "41220",
     "name": "한스유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 정암로 126-39",
     "latitude": 37.0545757028765,
     "longitude": 127.071465769905,
@@ -1907,19 +1962,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "8% (1명/13명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 2,
-      "year2to4": 5,
+      "under1": 50,
+      "year1to2": 14,
+      "year2to4": 36,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f757-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f695-b044-e053-0a32095ab044",
@@ -1927,6 +1982,7 @@
     "sggCode": "41220",
     "name": "송현초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 경기대로 1432",
     "latitude": 37.0724016007534,
     "longitude": 127.066556972544,
@@ -1938,19 +1994,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f695-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f68d-b044-e053-0a32095ab044",
@@ -1958,6 +2014,7 @@
     "sggCode": "41220",
     "name": "장당초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 송탄로 46",
     "latitude": 37.0501152066234,
     "longitude": 127.057649499407,
@@ -1969,11 +2026,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1981,7 +2038,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f68d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f606-b044-e053-0a32095ab044",
@@ -1989,6 +2046,7 @@
     "sggCode": "41220",
     "name": "진위초등학교산대분교장병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 은산3길 46",
     "latitude": 37.0840907727913,
     "longitude": 127.121164664664,
@@ -2000,19 +2058,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f606-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f605-b044-e053-0a32095ab044",
@@ -2020,6 +2078,7 @@
     "sggCode": "41220",
     "name": "지장초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 지장로 15",
     "latitude": 37.0680334960737,
     "longitude": 127.057577747222,
@@ -2031,19 +2090,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f605-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f604-b044-e053-0a32095ab044",
@@ -2051,6 +2110,7 @@
     "sggCode": "41220",
     "name": "죽백초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 죽백1길 41",
     "latitude": 37.0137522917129,
     "longitude": 127.137358975483,
@@ -2062,19 +2122,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f604-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f463-b044-e053-0a32095ab044",
@@ -2082,6 +2142,7 @@
     "sggCode": "41220",
     "name": "평택도곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 여술로44번길 5",
     "latitude": 36.988924543669,
     "longitude": 126.848073466784,
@@ -2093,19 +2154,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 1,
+      "under1": 25,
+      "year1to2": 50,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f463-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3f9-b044-e053-0a32095ab044",
@@ -2113,6 +2174,7 @@
     "sggCode": "41220",
     "name": "안중초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 안중로 89",
     "latitude": 36.9893244051899,
     "longitude": 126.926037418749,
@@ -2124,19 +2186,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 67,
+      "year1to2": 33,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3f9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3f6-b044-e053-0a32095ab044",
@@ -2144,6 +2206,7 @@
     "sggCode": "41220",
     "name": "가사초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 기산2길 16",
     "latitude": 36.938236460318,
     "longitude": 126.91697512554,
@@ -2155,19 +2218,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3f6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f395-b044-e053-0a32095ab044",
@@ -2175,6 +2238,7 @@
     "sggCode": "41220",
     "name": "삼덕초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 청북중앙로 226",
     "latitude": 37.0395527449875,
     "longitude": 126.911835603778,
@@ -2186,19 +2250,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f395-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f394-b044-e053-0a32095ab044",
@@ -2206,6 +2270,7 @@
     "sggCode": "41220",
     "name": "복창초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 서정북로 3",
     "latitude": 37.0712242244668,
     "longitude": 127.050302684896,
@@ -2217,19 +2282,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f394-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f393-b044-e053-0a32095ab044",
@@ -2237,6 +2302,7 @@
     "sggCode": "41220",
     "name": "리라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 지산1로24번길 32",
     "latitude": 37.0766296747986,
     "longitude": 127.059567578317,
@@ -2248,19 +2314,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f393-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f391-b044-e053-0a32095ab044",
@@ -2268,6 +2334,7 @@
     "sggCode": "41220",
     "name": "내기초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 내기새싹길 23",
     "latitude": 36.9797155636725,
     "longitude": 126.872160132597,
@@ -2279,19 +2346,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f391-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f390-b044-e053-0a32095ab044",
@@ -2299,6 +2366,7 @@
     "sggCode": "41220",
     "name": "아이들천국유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 세교2로 38",
     "latitude": 37.0018129104633,
     "longitude": 127.082029051459,
@@ -2310,19 +2378,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시10분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f390-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f2c7-b044-e053-0a32095ab044",
@@ -2330,6 +2398,7 @@
     "sggCode": "41220",
     "name": "행복한아이유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 문화촌로11번길 19",
     "latitude": 36.997529596309,
     "longitude": 127.113511183064,
@@ -2341,19 +2410,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (3명/7명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 29,
+      "year1to2": 14,
+      "year2to4": 14,
       "year4to6": 0,
-      "over6": 3
+      "over6": 43
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f2c7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f2c5-b044-e053-0a32095ab044",
@@ -2361,6 +2430,7 @@
     "sggCode": "41220",
     "name": "꿈터유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 매봉산1길 11",
     "latitude": 36.998874781277,
     "longitude": 127.106179526649,
@@ -2372,19 +2442,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시30분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 29,
+      "year1to2": 14,
+      "year2to4": 14,
       "year4to6": 0,
-      "over6": 3
+      "over6": 43
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f2c5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f1bc-b044-e053-0a32095ab044",
@@ -2392,6 +2462,7 @@
     "sggCode": "41220",
     "name": "진위초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 봉남길 49",
     "latitude": 37.101394689252,
     "longitude": 127.090315401135,
@@ -2403,19 +2474,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f1bc-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f1bb-b044-e053-0a32095ab044",
@@ -2423,6 +2494,7 @@
     "sggCode": "41220",
     "name": "이충초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 이충로 93-5",
     "latitude": 37.0633841274983,
     "longitude": 127.066663061448,
@@ -2434,19 +2506,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 2,
+      "under1": 20,
+      "year1to2": 20,
+      "year2to4": 20,
+      "year4to6": 40,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f1bb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f148-b044-e053-0a32095ab044",
@@ -2454,6 +2526,7 @@
     "sggCode": "41220",
     "name": "현덕초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 현덕로 1254",
     "latitude": 36.9652569996146,
     "longitude": 126.921944395678,
@@ -2465,19 +2538,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f148-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f037-b044-e053-0a32095ab044",
@@ -2485,6 +2558,7 @@
     "sggCode": "41220",
     "name": "가람유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 둥구재길 22",
     "latitude": 37.0585823273707,
     "longitude": 127.061538331201,
@@ -2496,19 +2570,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (6명/14명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 3,
-      "year2to4": 3,
+      "under1": 50,
+      "year1to2": 21,
+      "year2to4": 21,
       "year4to6": 0,
-      "over6": 1
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f037-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efbe-b044-e053-0a32095ab044",
@@ -2516,6 +2590,7 @@
     "sggCode": "41220",
     "name": "오렌지유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 송탄공원로 146",
     "latitude": 37.0772955192449,
     "longitude": 127.065594667419,
@@ -2527,19 +2602,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
-      "over6": 2
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efbe-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efbd-b044-e053-0a32095ab044",
@@ -2547,6 +2622,7 @@
     "sggCode": "41220",
     "name": "예림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 만세로 1627-45",
     "latitude": 37.0200848094,
     "longitude": 127.1212654174,
@@ -2558,19 +2634,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 1
+      "over6": 17
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efbd-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efbc-b044-e053-0a32095ab044",
@@ -2578,6 +2654,7 @@
     "sggCode": "41220",
     "name": "송탄초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 막곡길 67",
     "latitude": 37.0423993178794,
     "longitude": 127.087261898112,
@@ -2589,19 +2666,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efbc-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efbb-b044-e053-0a32095ab044",
@@ -2609,6 +2686,7 @@
     "sggCode": "41220",
     "name": "송신초등��교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 송월로32번길 32",
     "latitude": 37.0751910969824,
     "longitude": 127.05213055511,
@@ -2620,19 +2698,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efbb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efba-b044-e053-0a32095ab044",
@@ -2640,6 +2718,7 @@
     "sggCode": "41220",
     "name": "소사벌초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 동부공원로 59",
     "latitude": 36.9953176096519,
     "longitude": 127.116891819656,
@@ -2651,19 +2730,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 20,
+      "year1to2": 20,
+      "year2to4": 40,
+      "year4to6": 20,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efba-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef61-b044-e053-0a32095ab044",
@@ -2671,6 +2750,7 @@
     "sggCode": "41220",
     "name": "동화나라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 이화로 134-26",
     "latitude": 37.0069402254065,
     "longitude": 127.138570069595,
@@ -2682,19 +2762,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "22% (2명/9명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 4,
+      "under1": 22,
+      "year1to2": 33,
+      "year2to4": 44,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef61-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ed33-b044-e053-0a32095ab044",
@@ -2702,6 +2782,7 @@
     "sggCode": "41220",
     "name": "이화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 평택5로 174",
     "latitude": 36.9963690091163,
     "longitude": 127.104619863749,
@@ -2713,19 +2794,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "30% (3명/10명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 40,
+      "year1to2": 20,
+      "year2to4": 10,
+      "year4to6": 10,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ed33-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "0688038c-f9d7-4ab5-8954-57dc710e1494",
@@ -2733,6 +2814,7 @@
     "sggCode": "41220",
     "name": "새말유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 신촌3로 25",
     "latitude": 37.0252650205109,
     "longitude": 127.108512793091,
@@ -2744,19 +2826,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (16명/20명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 4,
-      "year2to4": 7,
+      "under1": 8,
+      "year1to2": 33,
+      "year2to4": 58,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=0688038c-f9d7-4ab5-8954-57dc710e1494",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f771-b044-e053-0a32095ab044",
@@ -2764,6 +2846,7 @@
     "sggCode": "41220",
     "name": "청옥초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 안청로1길 76",
     "latitude": 37.0192321888893,
     "longitude": 126.91189109892,
@@ -2775,19 +2858,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f771-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f837-b044-e053-0a32095ab044",
@@ -2795,6 +2878,7 @@
     "sggCode": "41220",
     "name": "서정리초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 서두물로 21",
     "latitude": 37.0587931212519,
     "longitude": 127.057374174509,
@@ -2806,19 +2890,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 67,
+      "year1to2": 33,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f837-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-01ba-b044-e053-0a32095ab044",
@@ -2826,6 +2910,7 @@
     "sggCode": "41220",
     "name": "동아유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 지산로37번길 36",
     "latitude": 37.0808232059542,
     "longitude": 127.05959676172,
@@ -2837,19 +2922,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
+      "under1": 25,
+      "year1to2": 25,
       "year2to4": 0,
-      "year4to6": 3,
-      "over6": 1
+      "year4to6": 38,
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-01ba-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0146-b044-e053-0a32095ab044",
@@ -2857,6 +2942,7 @@
     "sggCode": "41220",
     "name": "세교초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 세교공원로 32",
     "latitude": 37.0021883361383,
     "longitude": 127.083176206208,
@@ -2868,19 +2954,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0146-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-013d-b044-e053-0a32095ab044",
@@ -2888,6 +2974,7 @@
     "sggCode": "41220",
     "name": "계성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 계성새싹길 85",
     "latitude": 36.9425034572649,
     "longitude": 127.007244816071,
@@ -2899,19 +2986,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-013d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00e1-b044-e053-0a32095ab044",
@@ -2919,6 +3006,7 @@
     "sggCode": "41220",
     "name": "나사렛유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 원평로83번길 38-13",
     "latitude": 36.9908870563468,
     "longitude": 127.080626501585,
@@ -2930,19 +3018,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00e1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0008-b044-e053-0a32095ab044",
@@ -2950,6 +3038,7 @@
     "sggCode": "41220",
     "name": "평택해군유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 포승읍 2함대길 20",
     "latitude": 36.9947372547724,
     "longitude": 126.834774692998,
@@ -2961,19 +3050,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (2명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
+      "under1": 20,
+      "year1to2": 40,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 2
+      "over6": 40
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0008-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff5e-b044-e053-0a32095ab044",
@@ -2981,6 +3070,7 @@
     "sggCode": "41220",
     "name": "평택안일초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 안중로 13",
     "latitude": 36.9824005032922,
     "longitude": 126.923990394299,
@@ -2992,11 +3082,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -3004,7 +3094,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff5e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff24-b044-e053-0a32095ab044",
@@ -3012,6 +3102,7 @@
     "sggCode": "41220",
     "name": "대일유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 학현4길 26",
     "latitude": 36.9922687388037,
     "longitude": 126.922559032727,
@@ -3023,19 +3114,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시50분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "30% (6명/20명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 6,
-      "year4to6": 5,
-      "over6": 6
+      "under1": 5,
+      "year1to2": 10,
+      "year2to4": 30,
+      "year4to6": 25,
+      "over6": 30
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff24-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-feec-b044-e053-0a32095ab044",
@@ -3043,6 +3134,7 @@
     "sggCode": "41220",
     "name": "드림153유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 여술4길 18-9",
     "latitude": 36.9901473124962,
     "longitude": 126.84487724961,
@@ -3054,19 +3146,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "17% (1명/6명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 3,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-feec-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fecc-b044-e053-0a32095ab044",
@@ -3074,6 +3166,7 @@
     "sggCode": "41220",
     "name": "팽성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 송화2길 2",
     "latitude": 36.9505457983371,
     "longitude": 127.051758549911,
@@ -3085,19 +3178,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fecc-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-feca-b044-e053-0a32095ab044",
@@ -3105,6 +3198,7 @@
     "sggCode": "41220",
     "name": "원정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 평택항로 469",
     "latitude": 36.9940471013656,
     "longitude": 126.841657069409,
@@ -3116,11 +3210,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -3128,7 +3222,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-feca-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe58-b044-e053-0a32095ab044",
@@ -3136,6 +3230,7 @@
     "sggCode": "41220",
     "name": "홍원초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 외원길 26",
     "latitude": 37.0145461430813,
     "longitude": 126.889318180504,
@@ -3147,19 +3242,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe58-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe57-b044-e053-0a32095ab044",
@@ -3167,6 +3262,7 @@
     "sggCode": "41220",
     "name": "평택중앙초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 세교로 11",
     "latitude": 37.0021052159416,
     "longitude": 127.078020675415,
@@ -3178,11 +3274,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -3190,7 +3286,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe57-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd06-b044-e053-0a32095ab044",
@@ -3198,6 +3294,7 @@
     "sggCode": "41220",
     "name": "송일초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 송일로 6",
     "latitude": 37.0627657559144,
     "longitude": 127.05956697813,
@@ -3209,11 +3306,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -3221,7 +3318,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd06-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd05-b044-e053-0a32095ab044",
@@ -3229,6 +3326,7 @@
     "sggCode": "41220",
     "name": "소화데레사유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 탄현로 28",
     "latitude": 37.0552530566959,
     "longitude": 127.054921740685,
@@ -3240,19 +3338,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 13,
+      "year1to2": 38,
+      "year2to4": 13,
+      "year4to6": 13,
+      "over6": 23
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd05-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcfc-b044-e053-0a32095ab044",
@@ -3260,6 +3358,7 @@
     "sggCode": "41220",
     "name": "고덕초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 함박산로 161 (고덕동)",
     "latitude": 37.04089697390719,
     "longitude": 127.02846376778989,
@@ -3271,19 +3370,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "71% (5명/7명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 4,
+      "under1": 25,
+      "year1to2": 25,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcfc-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc84-b044-e053-0a32095ab044",
@@ -3291,6 +3390,7 @@
     "sggCode": "41220",
     "name": "자연과미술유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 정암로 104-33",
     "latitude": 37.054507907633,
     "longitude": 127.066698805496,
@@ -3302,19 +3402,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "30% (3명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 4,
-      "year2to4": 1,
-      "year4to6": 2,
-      "over6": 1
+      "under1": 20,
+      "year1to2": 40,
+      "year2to4": 10,
+      "year4to6": 20,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc84-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc61-b044-e053-0a32095ab044",
@@ -3322,6 +3422,7 @@
     "sggCode": "41220",
     "name": "자연유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 평택5로 272-10",
     "latitude": 37.0003880078065,
     "longitude": 127.09696353098,
@@ -3333,19 +3434,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/7명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 14,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 3,
-      "over6": 2
+      "year2to4": 14,
+      "year4to6": 43,
+      "over6": 29
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc61-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fbae-b044-e053-0a32095ab044",
@@ -3353,6 +3454,7 @@
     "sggCode": "41220",
     "name": "용이초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 현신7길 36",
     "latitude": 36.9995074906666,
     "longitude": 127.146525153901,
@@ -3364,19 +3466,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fbae-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fb9f-b044-e053-0a32095ab044",
@@ -3384,6 +3486,7 @@
     "sggCode": "41220",
     "name": "안중파랑새유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 삼정길 25",
     "latitude": 36.9656746749628,
     "longitude": 126.952438136554,
@@ -3395,19 +3498,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "54% (7명/13명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 7,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 23,
+      "year1to2": 54,
+      "year2to4": 8,
+      "year4to6": 8,
+      "over6": 7
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fb9f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa91-b044-e053-0a32095ab044",
@@ -3415,6 +3518,7 @@
     "sggCode": "41220",
     "name": "청북초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 청북새싹길 25",
     "latitude": 37.0432644144429,
     "longitude": 126.936266055374,
@@ -3426,19 +3530,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa91-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa90-b044-e053-0a32095ab044",
@@ -3446,6 +3550,7 @@
     "sggCode": "41220",
     "name": "종덕초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 고덕국제2로 111",
     "latitude": 37.0573514566941,
     "longitude": 127.016651022226,
@@ -3457,19 +3562,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa90-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa8e-b044-e053-0a32095ab044",
@@ -3477,6 +3582,7 @@
     "sggCode": "41220",
     "name": "유진유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 송탄공원로 145",
     "latitude": 37.0788558448578,
     "longitude": 127.064109810144,
@@ -3488,19 +3594,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~17시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa8e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa1e-b044-e053-0a32095ab044",
@@ -3508,6 +3614,7 @@
     "sggCode": "41220",
     "name": "현화초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 안현로서7길 80",
     "latitude": 36.9823671479703,
     "longitude": 126.918995357899,
@@ -3519,19 +3626,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa1e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f90d-b044-e053-0a32095ab044",
@@ -3539,6 +3646,7 @@
     "sggCode": "41220",
     "name": "반지초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 이충로 7",
     "latitude": 37.0579184087656,
     "longitude": 127.069532771988,
@@ -3550,19 +3658,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f90d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8aa-b044-e053-0a32095ab044",
@@ -3570,6 +3678,7 @@
     "sggCode": "41220",
     "name": "송북초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 지산로 90",
     "latitude": 37.0801582004429,
     "longitude": 127.066761009306,
@@ -3581,19 +3690,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8aa-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8a9-b044-e053-0a32095ab044",
@@ -3601,6 +3710,7 @@
     "sggCode": "41220",
     "name": "성바울로유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 평택시 부용로 7-15",
     "latitude": 36.9618135728004,
     "longitude": 127.056493380639,
@@ -3612,19 +3722,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (1명/4명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8a9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8a8-b044-e053-0a32095ab044",
@@ -3632,6 +3742,7 @@
     "sggCode": "41220",
     "name": "서탄초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 금암2길 121",
     "latitude": 37.107224561474,
     "longitude": 127.03678822257,
@@ -3643,11 +3754,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -3655,7 +3766,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8a8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f89d-b044-e053-0a32095ab044",
@@ -3663,6 +3774,7 @@
     "sggCode": "41220",
     "name": "갈곶초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 엘지로 57",
     "latitude": 37.125627850674,
     "longitude": 127.072030848934,
@@ -3674,19 +3786,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f89d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "ff92c9dc-aab0-4574-ba42-adf81990bc43",
@@ -3694,6 +3806,7 @@
     "sggCode": "41220",
     "name": "용죽초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 평택시 용죽2로 23",
     "latitude": 36.9950643680444,
     "longitude": 127.12401164866459,
@@ -3705,18 +3818,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (4명/7명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 4,
+      "under1": 20,
+      "year1to2": 80,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=ff92c9dc-aab0-4574-ba42-adf81990bc43",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

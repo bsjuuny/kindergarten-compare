@@ -5,6 +5,7 @@
     "sggCode": "41650",
     "name": "일동유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 포천시 일동면 화동로 1019",
     "latitude": 37.9556585323,
     "longitude": 127.3143047,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (4명/7명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 3,
+      "under1": 25,
+      "year1to2": 38,
+      "year2to4": 38,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f2e5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "3a10840f-819b-4260-93e1-3487766c83be",
@@ -36,6 +37,7 @@
     "sggCode": "41650",
     "name": "포담초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 포천시 영중면 양문로 163",
     "latitude": 38.0069457490939,
     "longitude": 127.24577109349,
@@ -47,11 +49,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -59,7 +61,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=3a10840f-819b-4260-93e1-3487766c83be",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0be0-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "41650",
     "name": "왕방초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 포천시 신북면 학동로 52",
     "latitude": 37.9042221684166,
     "longitude": 127.201664381597,
@@ -78,11 +81,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -90,7 +93,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0be0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-05ba-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "41650",
     "name": "이곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 포천시 이곡길 5",
     "latitude": 37.7790704968787,
     "longitude": 127.148923491415,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-05ba-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-04ed-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "41650",
     "name": "자연유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 포천시 호국로523번길 31-1",
     "latitude": 37.8192514071264,
     "longitude": 127.133895199582,
@@ -140,11 +145,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -152,7 +157,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-04ed-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0439-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "41650",
     "name": "서일유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 포천시 정자동1길 106",
     "latitude": 37.8590369835473,
     "longitude": 127.161595107237,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0439-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02be-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "41650",
     "name": "동심유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 포천시 송선로 268-10",
     "latitude": 37.8561806927627,
     "longitude": 127.151383643652,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "17% (1명/6명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 2,
-      "over6": 2
+      "year2to4": 20,
+      "year4to6": 40,
+      "over6": 40
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02be-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe5a-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "41650",
     "name": "도평초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 포천시 도리돌길 21",
     "latitude": 38.056769328352,
     "longitude": 127.380898262926,
@@ -233,11 +241,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -245,7 +253,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe5a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd50-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "41650",
     "name": "운담초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 포천시 화동로 1239",
     "latitude": 37.9719760623578,
     "longitude": 127.329515877843,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd50-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fb9e-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "41650",
     "name": "숲속유정유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 포천시 광릉수목원로779번길 82",
     "latitude": 37.7663945995225,
     "longitude": 127.147205062989,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "39% (9명/23명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 3,
-      "year2to4": 7,
-      "year4to6": 1,
-      "over6": 6
+      "under1": 26,
+      "year1to2": 13,
+      "year2to4": 30,
+      "year4to6": 4,
+      "over6": 27
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fb9e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8fa-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "41650",
     "name": "외북초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 포천시 포천로 2199",
     "latitude": 37.947085242328,
     "longitude": 127.187730832615,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8fa-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8f9-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "41650",
     "name": "영북초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 포천시 영북로148번길 46",
     "latitude": 38.0900271110373,
     "longitude": 127.275804503569,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8f9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8f8-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "41650",
     "name": "아람유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 포천시 신읍4길 5",
     "latitude": 37.8958834294096,
     "longitude": 127.197420127794,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 2,
+      "under1": 20,
+      "year1to2": 20,
+      "year2to4": 40,
       "year4to6": 0,
-      "over6": 1
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8f8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f589-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "41650",
     "name": "청성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 포천시 솔밭길 12-1",
     "latitude": 37.8746683543358,
     "longitude": 127.223366301586,
@@ -419,11 +433,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -431,7 +445,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f589-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f588-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "41650",
     "name": "창수초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 포천시 옥수로58번길 4",
     "latitude": 37.9902015267001,
     "longitude": 127.182122992084,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f588-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f581-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "41650",
     "name": "선단초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 포천시 삼육사로2111번길 29",
     "latitude": 37.8621116729077,
     "longitude": 127.155800815888,
@@ -481,11 +497,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -493,7 +509,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f581-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f44c-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "41650",
     "name": "세화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 포천시 솔모루로3번길 52-36",
     "latitude": 37.8282697328166,
     "longitude": 127.137324313432,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 25,
       "year4to6": 0,
-      "over6": 3
+      "over6": 75
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f44c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "efedd879-e0d1-48d5-8f71-9b43893939c4",
@@ -532,6 +549,7 @@
     "sggCode": "41650",
     "name": "추산유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 포천시 소흘읍 솔모루로3번길 52-4",
     "latitude": 37.825303310989,
     "longitude": 127.136418459308,
@@ -543,18 +561,18 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 43,
+      "year1to2": 14,
+      "year2to4": 29,
+      "year4to6": 14,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=efedd879-e0d1-48d5-8f71-9b43893939c4",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

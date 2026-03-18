@@ -5,6 +5,7 @@
     "sggCode": "41370",
     "name": "지예뜰유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 남부대로 411-78",
     "latitude": 37.1375698177,
     "longitude": 127.0838706913,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "8% (1명/13명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 3,
-      "year2to4": 3,
+      "under1": 46,
+      "year1to2": 23,
+      "year2to4": 23,
       "year4to6": 0,
-      "over6": 1
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-edc7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-05d3-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "41370",
     "name": "수청초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 오산대역로 123",
     "latitude": 37.1708472915399,
     "longitude": 127.055473842983,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-05d3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-07cd-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "41370",
     "name": "별새꽃유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 경기대로 74",
     "latitude": 37.130920116761,
     "longitude": 127.072544256963,
@@ -78,11 +81,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시30분~16시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/6명)",
     "teacherTenure": {
-      "under1": 6,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -90,7 +93,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-07cd-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-07ce-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "41370",
     "name": "양산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 양산로 448",
     "latitude": 37.1972094348345,
     "longitude": 127.032110046949,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 33,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 67,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-07ce-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0882-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "41370",
     "name": "오르다유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 동부대로 468-16",
     "latitude": 37.1439173111848,
     "longitude": 127.07951356442,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "36% (4명/11명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 4,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 1
+      "under1": 25,
+      "year1to2": 33,
+      "year2to4": 17,
+      "year4to6": 17,
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0882-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09c0-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "41370",
     "name": "오산���학교부설유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 청학로 45",
     "latitude": 37.154809899678,
     "longitude": 127.060603198802,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "17% (1명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 2,
+      "under1": 33,
+      "year1to2": 17,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 1
+      "over6": 17
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09c0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0cf6-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "41370",
     "name": "물향기유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 수청로 80-8",
     "latitude": 37.1758300862121,
     "longitude": 127.054858969075,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "8% (1명/12명)",
     "teacherTenure": {
-      "under1": 11,
+      "under1": 92,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0cf6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d7d-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "41370",
     "name": "운천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 운암로 116",
     "latitude": 37.1564760684585,
     "longitude": 127.079334218024,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d7d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d7f-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "41370",
     "name": "대호초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 궐리사로46번길 3",
     "latitude": 37.1588769482013,
     "longitude": 127.0576627092,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d7f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e2a-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "41370",
     "name": "오산이화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 청학로173번길 14",
     "latitude": 37.1643495125288,
     "longitude": 127.062545843586,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 50,
       "year4to6": 0,
-      "over6": 1
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e2a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e2c-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "41370",
     "name": "운산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 운암로 72",
     "latitude": 37.1528183442172,
     "longitude": 127.078124954264,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 1,
+      "year2to4": 67,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e2c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e7f-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "41370",
     "name": "오산원일초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 오산로132번길 27",
     "latitude": 37.139201960021,
     "longitude": 127.07169464068,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e7f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e93-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "41370",
     "name": "필봉초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 수청로 124",
     "latitude": 37.1788278458509,
     "longitude": 127.052379907247,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e93-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e94-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "41370",
     "name": "동화마을유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 운천로165번길 31-20",
     "latitude": 37.1570524570435,
     "longitude": 127.076405694206,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시40분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 17,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
-      "over6": 3
+      "year4to6": 33,
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e94-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0fb6-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "41370",
     "name": "오산원당초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 부원로87번길 37-7",
     "latitude": 37.1422637130652,
     "longitude": 127.090990935268,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0fb6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0fca-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "41370",
     "name": "동탄우리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 외삼미로 135",
     "latitude": 37.1969863596496,
     "longitude": 127.060477865471,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 4,
+      "year2to4": 67,
       "year4to6": 0,
-      "over6": 2
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0fca-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "305079ce-25f3-4799-8f8f-30d07aec9d1b",
@@ -501,6 +517,7 @@
     "sggCode": "41370",
     "name": "오산다온유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 동부대로 667-9",
     "latitude": 37.1513544102,
     "longitude": 127.0909642072,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (11명/11명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 5,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 33,
+      "year1to2": 42,
+      "year2to4": 17,
+      "year4to6": 8,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=305079ce-25f3-4799-8f8f-30d07aec9d1b",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "59e3a795-4cc4-47c6-9c93-8c12b9fdc7fd",
@@ -532,6 +549,7 @@
     "sggCode": "41370",
     "name": "세미초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 내삼미�� 127",
     "latitude": 37.1741661381725,
     "longitude": 127.065068066642,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
+      "year1to2": 33,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=59e3a795-4cc4-47c6-9c93-8c12b9fdc7fd",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "75a9ec14-7a27-4eac-a474-85ad6eae6da9",
@@ -563,6 +581,7 @@
     "sggCode": "41370",
     "name": "마루초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 초평중앙로 52",
     "latitude": 37.1374670576725,
     "longitude": 127.045689322019,
@@ -574,11 +593,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "시분~시분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -586,7 +605,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=75a9ec14-7a27-4eac-a474-85ad6eae6da9",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "8a0707f1-2450-4dac-8146-60c5e8d9d514",
@@ -594,6 +613,7 @@
     "sggCode": "41370",
     "name": "오산숲유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 부산동길 12",
     "latitude": 37.1491434326,
     "longitude": 127.0852099368,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (8명/8명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 3,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 0
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 22,
+      "year4to6": 11,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=8a0707f1-2450-4dac-8146-60c5e8d9d514",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "8b25a432-c9dd-445d-8f33-934702e1eba3",
@@ -625,6 +645,7 @@
     "sggCode": "41370",
     "name": "삼미별하유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 문시로 183-5",
     "latitude": 37.1906022791043,
     "longitude": 127.066353824598,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "63% (10명/16명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 4,
-      "year2to4": 4,
+      "under1": 11,
+      "year1to2": 44,
+      "year2to4": 44,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=8b25a432-c9dd-445d-8f33-934702e1eba3",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "b93fa3da-d8bd-482c-ae1f-a46f953c784e",
@@ -656,6 +677,7 @@
     "sggCode": "41370",
     "name": "세마초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 세마문학로 45",
     "latitude": 37.169680196359,
     "longitude": 127.027581508103,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 2,
+      "under1": 25,
+      "year1to2": 25,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=b93fa3da-d8bd-482c-ae1f-a46f953c784e",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "be9c338e-1966-4374-bad8-aa878cc64d10",
@@ -687,6 +709,7 @@
     "sggCode": "41370",
     "name": "물빛나래유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 죽담로 77",
     "latitude": 37.1629998120913,
     "longitude": 127.04935043201,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "74% (17명/23명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 10,
+      "under1": 33,
+      "year1to2": 67,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=be9c338e-1966-4374-bad8-aa878cc64d10",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "c964c6e1-6b6c-4b32-a0cd-433c14e89daa",
@@ -718,6 +741,7 @@
     "sggCode": "41370",
     "name": "동탄숲유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 경기대로632번길 132",
     "latitude": 37.1853619387885,
     "longitude": 127.057844931811,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "27% (7명/26명)",
     "teacherTenure": {
-      "under1": 15,
-      "year1to2": 3,
-      "year2to4": 4,
-      "year4to6": 3,
-      "over6": 1
+      "under1": 58,
+      "year1to2": 12,
+      "year2to4": 15,
+      "year4to6": 12,
+      "over6": 3
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=c964c6e1-6b6c-4b32-a0cd-433c14e89daa",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02c4-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "41370",
     "name": "노틀담유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 가장로 709",
     "latitude": 37.1539698143897,
     "longitude": 127.056738337354,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (5명/10명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 1,
-      "year2to4": 4,
+      "under1": 50,
+      "year1to2": 10,
+      "year2to4": 40,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02c4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff62-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "41370",
     "name": "삼미초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 북삼미로 183-9",
     "latitude": 37.191355838101,
     "longitude": 127.060268084886,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 67,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff62-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-edc8-b044-e053-0a32095ab044",
@@ -811,6 +837,7 @@
     "sggCode": "41370",
     "name": "매홀초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 청학로147번길 10",
     "latitude": 37.1627252949031,
     "longitude": 127.063557605206,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-edc8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef1f-b044-e053-0a32095ab044",
@@ -842,6 +869,7 @@
     "sggCode": "41370",
     "name": "오산대원초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 경기대로25번길 45",
     "latitude": 37.1305052161564,
     "longitude": 127.07097810357,
@@ -853,11 +881,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -865,7 +893,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef1f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efca-b044-e053-0a32095ab044",
@@ -873,6 +901,7 @@
     "sggCode": "41370",
     "name": "예인유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 운천로 186",
     "latitude": 37.1554069811218,
     "longitude": 127.079076951556,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "30% (3명/10명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 60,
+      "year1to2": 10,
+      "year2to4": 10,
+      "year4to6": 10,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efca-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f243-b044-e053-0a32095ab044",
@@ -904,6 +933,7 @@
     "sggCode": "41370",
     "name": "문시초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 여계산로 52-6",
     "latitude": 37.1740826694145,
     "longitude": 127.045705456029,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f243-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f2ec-b044-e053-0a32095ab044",
@@ -935,6 +965,7 @@
     "sggCode": "41370",
     "name": "뿌리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 양산로348번길 23",
     "latitude": 37.1960048868787,
     "longitude": 127.025694798965,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/4명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 60,
+      "year1to2": 20,
+      "year2to4": 20,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f2ec-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f2ed-b044-e053-0a32095ab044",
@@ -966,6 +997,7 @@
     "sggCode": "41370",
     "name": "노블킨더유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 외삼미로 127",
     "latitude": 37.1966482065293,
     "longitude": 127.060686931177,
@@ -977,19 +1009,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "17% (2명/12명)",
     "teacherTenure": {
-      "under1": 7,
+      "under1": 58,
       "year1to2": 0,
-      "year2to4": 5,
+      "year2to4": 42,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f2ed-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f2ee-b044-e053-0a32095ab044",
@@ -997,6 +1029,7 @@
     "sggCode": "41370",
     "name": "하늘꿈의유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 외삼미로162-52 (외삼미동)",
     "latitude": 37.1966205946609,
     "longitude": 127.064882327553,
@@ -1008,19 +1041,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "21% (4명/19명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 5,
-      "year2to4": 4,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 42,
+      "year1to2": 26,
+      "year2to4": 21,
+      "year4to6": 5,
+      "over6": 6
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f2ee-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f2ef-b044-e053-0a32095ab044",
@@ -1028,6 +1061,7 @@
     "sggCode": "41370",
     "name": "정원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 수청로 5",
     "latitude": 37.1705258446889,
     "longitude": 127.058379136756,
@@ -1039,19 +1073,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시40분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (6명/16명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 1,
-      "year2to4": 2,
+      "under1": 50,
+      "year1to2": 6,
+      "year2to4": 13,
       "year4to6": 0,
-      "over6": 5
+      "over6": 31
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f2ef-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f35f-b044-e053-0a32095ab044",
@@ -1059,6 +1093,7 @@
     "sggCode": "41370",
     "name": "원동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 오산로 92",
     "latitude": 37.1354502181696,
     "longitude": 127.070186043486,
@@ -1070,19 +1105,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 4,
-      "year4to6": 1,
+      "year2to4": 80,
+      "year4to6": 20,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f35f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f360-b044-e053-0a32095ab044",
@@ -1090,6 +1125,7 @@
     "sggCode": "41370",
     "name": "이림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 남부대로441번길 24-6",
     "latitude": 37.1354938387227,
     "longitude": 127.085213617445,
@@ -1101,19 +1137,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (6명/18명)",
     "teacherTenure": {
-      "under1": 5,
+      "under1": 26,
       "year1to2": 0,
-      "year2to4": 6,
-      "year4to6": 3,
-      "over6": 5
+      "year2to4": 32,
+      "year4to6": 16,
+      "over6": 26
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f360-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f402-b044-e053-0a32095ab044",
@@ -1121,6 +1157,7 @@
     "sggCode": "41370",
     "name": "성산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 성호대로 43",
     "latitude": 37.1501070875398,
     "longitude": 127.065946307629,
@@ -1132,19 +1169,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f402-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f403-b044-e053-0a32095ab044",
@@ -1152,6 +1189,7 @@
     "sggCode": "41370",
     "name": "오산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 가수로 16",
     "latitude": 37.1450272785969,
     "longitude": 127.050377784072,
@@ -1163,19 +1201,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f403-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f683-b044-e053-0a32095ab044",
@@ -1183,6 +1221,7 @@
     "sggCode": "41370",
     "name": "숲속��원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 서동로 123-27",
     "latitude": 37.1518460014105,
     "longitude": 127.037826476471,
@@ -1194,19 +1233,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "36% (4명/11명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 36,
       "year1to2": 0,
-      "year2to4": 4,
-      "year4to6": 2,
-      "over6": 1
+      "year2to4": 36,
+      "year4to6": 18,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f683-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f701-b044-e053-0a32095ab044",
@@ -1214,6 +1253,7 @@
     "sggCode": "41370",
     "name": "창의나라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 금암로 26",
     "latitude": 37.1714874437545,
     "longitude": 127.049464885087,
@@ -1225,19 +1265,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (6명/30명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 6,
-      "year2to4": 1,
-      "year4to6": 5,
-      "over6": 10
+      "under1": 27,
+      "year1to2": 20,
+      "year2to4": 3,
+      "year4to6": 17,
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f701-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f84a-b044-e053-0a32095ab044",
@@ -1245,6 +1285,7 @@
     "sggCode": "41370",
     "name": "오산고현초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 남부대로 459",
     "latitude": 37.1338367398275,
     "longitude": 127.085386589063,
@@ -1256,19 +1297,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 50,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f84a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f84b-b044-e053-0a32095ab044",
@@ -1276,6 +1317,7 @@
     "sggCode": "41370",
     "name": "가수초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 가수로 50",
     "latitude": 37.1481036040254,
     "longitude": 127.047956075958,
@@ -1287,19 +1329,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f84b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f869-b044-e053-0a32095ab044",
@@ -1307,6 +1349,7 @@
     "sggCode": "41370",
     "name": "금암초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 수청로 204-20",
     "latitude": 37.178734395119,
     "longitude": 127.043947589079,
@@ -1318,11 +1361,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1330,7 +1373,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f869-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8b3-b044-e053-0a32095ab044",
@@ -1338,6 +1381,7 @@
     "sggCode": "41370",
     "name": "운암초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 원동로 63",
     "latitude": 37.1453916081389,
     "longitude": 127.085772312515,
@@ -1349,19 +1393,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (6명/6명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8b3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa2a-b044-e053-0a32095ab044",
@@ -1369,6 +1413,7 @@
     "sggCode": "41370",
     "name": "광성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 수목원로 577-18",
     "latitude": 37.1841462877549,
     "longitude": 127.039710765929,
@@ -1380,11 +1425,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1392,7 +1437,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa2a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fafb-b044-e053-0a32095ab044",
@@ -1400,6 +1445,7 @@
     "sggCode": "41370",
     "name": "세교유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 수청로 204-6",
     "latitude": 37.1771287359,
     "longitude": 127.0443508424,
@@ -1411,19 +1457,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "64% (9명/14명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 4,
-      "year4to6": 1,
+      "under1": 30,
+      "year1to2": 20,
+      "year2to4": 40,
+      "year4to6": 10,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fafb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fbc2-b044-e053-0a32095ab044",
@@ -1431,6 +1477,7 @@
     "sggCode": "41370",
     "name": "펀키즈유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 오산시 큰말25번길 18",
     "latitude": 37.1879467357361,
     "longitude": 127.03466411849,
@@ -1442,19 +1489,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 3,
+      "under1": 22,
+      "year1to2": 22,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 2
+      "over6": 23
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fbc2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd0b-b044-e053-0a32095ab044",
@@ -1462,6 +1509,7 @@
     "sggCode": "41370",
     "name": "성호초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 성호새싹길 8",
     "latitude": 37.1506358751185,
     "longitude": 127.070554048025,
@@ -1473,19 +1521,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 1,
+      "year1to2": 25,
+      "year2to4": 50,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd0b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd14-b044-e053-0a32095ab044",
@@ -1493,6 +1541,7 @@
     "sggCode": "41370",
     "name": "화성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 내삼미로 18",
     "latitude": 37.16456721779,
     "longitude": 127.068821688124,
@@ -1504,19 +1553,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd14-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "ee935105-f0f9-4703-9b11-3590efdef476",
@@ -1524,6 +1573,7 @@
     "sggCode": "41370",
     "name": "세담초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 오산시 죽담2로 8",
     "latitude": 37.1646522859673,
     "longitude": 127.049073751677,
@@ -1535,18 +1585,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (4명/6명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
+      "under1": 33,
+      "year1to2": 67,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=ee935105-f0f9-4703-9b11-3590efdef476",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

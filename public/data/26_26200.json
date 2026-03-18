@@ -5,6 +5,7 @@
     "sggCode": "26200",
     "name": "영일유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 영도구 꿈나무길 41",
     "latitude": 35.0888124287225,
     "longitude": 129.045434998374,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "86% (12명/14명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 3,
+      "under1": 38,
+      "year1to2": 25,
+      "year2to4": 38,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef43-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f377-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "26200",
     "name": "봉학초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 영도구 태종로 242",
     "latitude": 35.096027882997,
     "longitude": 129.054827793821,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f377-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f584-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "26200",
     "name": "태종대초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 영도구 태종로802번길 38",
     "latitude": 35.065881248103,
     "longitude": 129.078841777244,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f584-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f827-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "26200",
     "name": "복자유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 영도구 태종로 340",
     "latitude": 35.0956688218147,
     "longitude": 129.062767718358,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 20,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 3
+      "year4to6": 20,
+      "over6": 60
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f827-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00c8-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "26200",
     "name": "선암사유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 영도구 본산로 37",
     "latitude": 35.0665723395514,
     "longitude": 129.077559983351,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 3,
-      "over6": 1
+      "year4to6": 75,
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00c8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00c9-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "26200",
     "name": "자비유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 영도구 일산봉로 49",
     "latitude": 35.0863807643853,
     "longitude": 129.064555016324,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~21시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00c9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-053d-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "26200",
     "name": "조아라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 영도구 와치로 235",
     "latitude": 35.075873116653,
     "longitude": 129.067432928373,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
-      "over6": 2
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-053d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b5a-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "26200",
     "name": "꿈나무유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 영도구 남항새싹길 81",
     "latitude": 35.0813844838347,
     "longitude": 129.043130841111,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (1명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 75,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b5a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d9b-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "26200",
     "name": "영도중앙유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 영도구 하나길 760",
     "latitude": 35.0928047524894,
     "longitude": 129.050592614609,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 1
+      "over6": 34
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d9b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "7faf3588-ed5f-4184-b070-c109f4f420e4",
@@ -284,6 +293,7 @@
     "sggCode": "26200",
     "name": "한마음유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 영도구 함지로79번길 23-26",
     "latitude": 35.0740280834,
     "longitude": 129.0629906811,
@@ -295,18 +305,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (6명/12명)",
     "teacherTenure": {
-      "under1": 5,
+      "under1": 42,
       "year1to2": 0,
-      "year2to4": 6,
+      "year2to4": 50,
       "year4to6": 0,
-      "over6": 1
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=7faf3588-ed5f-4184-b070-c109f4f420e4",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

@@ -5,6 +5,7 @@
     "sggCode": "41210",
     "name": "가림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 가림로 40",
     "latitude": 37.4641801220579,
     "longitude": 126.866452267865,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시30분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef33-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0303-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "41210",
     "name": "광명동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 연서일로 25",
     "latitude": 37.4828579134723,
     "longitude": 126.862911211195,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year1to2": 33,
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0303-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0304-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "41210",
     "name": "광명초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 광이로 21",
     "latitude": 37.4808532541791,
     "longitude": 126.857410219945,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0304-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0305-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "41210",
     "name": "광은유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 범안로 1075",
     "latitude": 37.4638523206656,
     "longitude": 126.881479563108,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 3
+      "year4to6": 25,
+      "over6": 75
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0305-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0322-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "41210",
     "name": "녹야유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 광이로 9-2",
     "latitude": 37.4795502186493,
     "longitude": 126.857635481029,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (3명/7명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 57,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 3
+      "over6": 43
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0322-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0323-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "41210",
     "name": "도덕초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 가마산로 28 (철산동. 도덕초등학교)",
     "latitude": 37.4842837074956,
     "longitude": 126.870317931973,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (6명/8명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0323-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0324-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "41210",
     "name": "삼흥유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 철산로29번길 12",
     "latitude": 37.4777775640015,
     "longitude": 126.869068053167,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 60,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 2
+      "over6": 40
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0324-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0325-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "41210",
     "name": "연서초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 안현로 80-2",
     "latitude": 37.4659348707686,
     "longitude": 126.882420095915,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0325-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0326-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "41210",
     "name": "하안남초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 금당로 71",
     "latitude": 37.4621720394327,
     "longitude": 126.885251150808,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 2,
+      "year2to4": 25,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0326-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-055a-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "41210",
     "name": "한마음유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 하안로 361",
     "latitude": 37.466759545223,
     "longitude": 126.875717440068,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 3
+      "year2to4": 20,
+      "year4to6": 20,
+      "over6": 60
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-055a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0716-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "41210",
     "name": "가림초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 금당로 11-7",
     "latitude": 37.4584641178986,
     "longitude": 126.878410321901,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0716-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0732-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "41210",
     "name": "온신초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 범안로 657",
     "latitude": 37.4429210043394,
     "longitude": 126.846484439635,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0732-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0734-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "41210",
     "name": "예원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 범안로 1023",
     "latitude": 37.4613555044146,
     "longitude": 126.876837261672,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "year1to2": 25,
+      "year2to4": 25,
+      "year4to6": 25,
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0734-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b8d-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "41210",
     "name": "광명광성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 철산로 59",
     "latitude": 37.4788607001916,
     "longitude": 126.87307686694,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (4명/6명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 2,
+      "year2to4": 33,
+      "year4to6": 67,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b8d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e05-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "41210",
     "name": "하일초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 철망산로 68",
     "latitude": 37.469085142642,
     "longitude": 126.876418235053,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e05-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e53-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "41210",
     "name": "세교유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 광명로 205-9",
     "latitude": 37.4195181747248,
     "longitude": 126.84781301324,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "year1to2": 25,
+      "year2to4": 25,
+      "year4to6": 25,
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e53-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0ea0-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "41210",
     "name": "트인아이유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 기아로62번길 16",
     "latitude": 37.4351073423621,
     "longitude": 126.886207996207,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 33,
+      "year1to2": 17,
+      "year2to4": 17,
+      "year4to6": 17,
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0ea0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0fd6-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "41210",
     "name": "광명북초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 시청로138번길 8",
     "latitude": 37.4870061888289,
     "longitude": 126.867990861419,
@@ -543,11 +561,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -555,7 +573,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0fd6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "776d3a99-7546-4af8-950a-5e22b7c7755c",
@@ -563,6 +581,7 @@
     "sggCode": "41210",
     "name": "주원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 목감로 96",
     "latitude": 37.47646399306527,
     "longitude": 126.84791508685997,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (1명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 60,
+      "year4to6": 20,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=776d3a99-7546-4af8-950a-5e22b7c7755c",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "918956a9-ed20-4796-9117-82d323be65ab",
@@ -594,6 +613,7 @@
     "sggCode": "41210",
     "name": "빛가온유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 새빛공원로 54",
     "latitude": 37.417598232544954,
     "longitude": 126.88941121304626,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (9명/15명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 4,
-      "year2to4": 3,
+      "under1": 27,
+      "year1to2": 36,
+      "year2to4": 27,
       "year4to6": 0,
-      "over6": 1
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=918956a9-ed20-4796-9117-82d323be65ab",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0216-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "41210",
     "name": "해누리유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 소하일로 10",
     "latitude": 37.4459644602,
     "longitude": 126.8886834347,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (16명/20명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 3,
-      "year2to4": 2,
-      "year4to6": 3,
+      "under1": 50,
+      "year1to2": 19,
+      "year2to4": 13,
+      "year4to6": 19,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0216-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff67-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "41210",
     "name": "안현초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 도덕공원로 5",
     "latitude": 37.4710135267628,
     "longitude": 126.867502080204,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff67-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efa4-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "41210",
     "name": "하안북초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 가림로 18",
     "latitude": 37.4647091492002,
     "longitude": 126.869134807585,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (4명/6명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 20,
+      "year1to2": 20,
       "year2to4": 0,
-      "year4to6": 3,
+      "year4to6": 60,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efa4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efd6-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "41210",
     "name": "경기유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 광명로 877",
     "latitude": 37.477912238132,
     "longitude": 126.853134788835,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 25,
       "year4to6": 0,
-      "over6": 3
+      "over6": 75
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efd6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efde-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "41210",
     "name": "소하초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 소하일로 45",
     "latitude": 37.4492755573431,
     "longitude": 126.887367643998,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (1명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 67,
       "year4to6": 0,
-      "over6": 1
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efde-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f22a-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "41210",
     "name": "밝은빛유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 오리로 402",
     "latitude": 37.4436672539,
     "longitude": 126.8804446265,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "88% (7명/8명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 75,
+      "year1to2": 13,
+      "year2to4": 13,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f22a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f2f1-b044-e053-0a32095ab044",
@@ -811,6 +837,7 @@
     "sggCode": "41210",
     "name": "은총유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 가림일로 80",
     "latitude": 37.4691284757292,
     "longitude": 126.865929889573,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시10분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "22% (2명/9명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 1,
-      "year2to4": 2,
+      "under1": 56,
+      "year1to2": 11,
+      "year2to4": 22,
       "year4to6": 0,
-      "over6": 1
+      "over6": 11
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f2f1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5b9-b044-e053-0a32095ab044",
@@ -842,6 +869,7 @@
     "sggCode": "41210",
     "name": "광명서초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 너부대로 5",
     "latitude": 37.478471656419,
     "longitude": 126.847013265159,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "71% (5명/7명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 3,
+      "under1": 20,
+      "year1to2": 20,
+      "year2to4": 60,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5b9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5ba-b044-e053-0a32095ab044",
@@ -873,6 +901,7 @@
     "sggCode": "41210",
     "name": "광문초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 덕단이로 29",
     "latitude": 37.4668869223,
     "longitude": 126.8516671056,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5ba-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5bb-b044-e053-0a32095ab044",
@@ -904,6 +933,7 @@
     "sggCode": "41210",
     "name": "광일초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 목감로 34-6",
     "latitude": 37.4716236488501,
     "longitude": 126.846938606289,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5bb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5e2-b044-e053-0a32095ab044",
@@ -935,6 +965,7 @@
     "sggCode": "41210",
     "name": "파랑새유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 하안로288번길 12-1",
     "latitude": 37.4622509149105,
     "longitude": 126.882227750549,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/3명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 67,
+      "year1to2": 33,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5e2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f772-b044-e053-0a32095ab044",
@@ -966,6 +997,7 @@
     "sggCode": "41210",
     "name": "충현초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 성채안로 16",
     "latitude": 37.4331374868111,
     "longitude": 126.886482587453,
@@ -977,19 +1009,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 1,
+      "year2to4": 67,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f772-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f890-b044-e053-0a32095ab044",
@@ -997,6 +1029,7 @@
     "sggCode": "41210",
     "name": "혜성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 안현로 59",
     "latitude": 37.4662912857334,
     "longitude": 126.877852935306,
@@ -1008,19 +1041,12 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~14시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
-    "teacherTenure": {
-      "under1": 0,
-      "year1to2": 0,
-      "year2to4": 0,
-      "year4to6": 0,
-      "over6": 0
-    },
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f890-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8da-b044-e053-0a32095ab044",
@@ -1028,6 +1054,7 @@
     "sggCode": "41210",
     "name": "산들유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 밤일안로42번길 37",
     "latitude": 37.4564325355782,
     "longitude": 126.860019083859,
@@ -1039,19 +1066,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 17,
+      "year1to2": 33,
+      "year2to4": 17,
+      "year4to6": 17,
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8da-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa55-b044-e053-0a32095ab044",
@@ -1059,6 +1086,7 @@
     "sggCode": "41210",
     "name": "광명광덕초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 오리로841번길 9",
     "latitude": 37.4733149964725,
     "longitude": 126.865541786982,
@@ -1070,19 +1098,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa55-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa76-b044-e053-0a32095ab044",
@@ -1090,6 +1118,7 @@
     "sggCode": "41210",
     "name": "안서초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 가학로 247-55",
     "latitude": 37.4027845879222,
     "longitude": 126.870645122973,
@@ -1101,19 +1130,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa76-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa77-b044-e053-0a32095ab044",
@@ -1121,6 +1150,7 @@
     "sggCode": "41210",
     "name": "예지유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 시청로 139",
     "latitude": 37.4904149545924,
     "longitude": 126.86813034844,
@@ -1132,19 +1162,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 4,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 13,
+      "year1to2": 13,
+      "year2to4": 50,
+      "year4to6": 13,
+      "over6": 11
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa77-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa78-b044-e053-0a32095ab044",
@@ -1152,6 +1182,7 @@
     "sggCode": "41210",
     "name": "철산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 하안로 392",
     "latitude": 37.4697947833495,
     "longitude": 126.874593778693,
@@ -1163,19 +1194,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 1,
+      "year2to4": 67,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa78-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcea-b044-e053-0a32095ab044",
@@ -1183,6 +1214,7 @@
     "sggCode": "41210",
     "name": "하안초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 안현로 16",
     "latitude": 37.4630620487791,
     "longitude": 126.873989830216,
@@ -1194,19 +1226,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "71% (5명/7명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 2,
+      "year1to2": 17,
+      "year2to4": 50,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcea-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe93-b044-e053-0a32095ab044",
@@ -1214,6 +1246,7 @@
     "sggCode": "41210",
     "name": "광명남초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 광명로 866-9",
     "latitude": 37.475128357286,
     "longitude": 126.85370299953,
@@ -1225,19 +1258,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe93-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-feb8-b044-e053-0a32095ab044",
@@ -1245,6 +1278,7 @@
     "sggCode": "41210",
     "name": "예솔유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 광명시 오리로619번길 10",
     "latitude": 37.4566921576608,
     "longitude": 126.878096452025,
@@ -1256,19 +1290,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (2명/7명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 14,
+      "year1to2": 14,
+      "year2to4": 29,
+      "year4to6": 14,
+      "over6": 29
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-feb8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "9c295d16-b37f-425c-a556-e85859b7ad83",
@@ -1276,6 +1310,7 @@
     "sggCode": "41210",
     "name": "구름산유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 광명시 한내로13번길 17",
     "latitude": 37.4555740929,
     "longitude": 126.8818234926,
@@ -1287,18 +1322,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "85% (17명/20명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 7,
-      "year2to4": 3,
-      "year4to6": 2,
+      "under1": 20,
+      "year1to2": 47,
+      "year2to4": 20,
+      "year4to6": 13,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=9c295d16-b37f-425c-a556-e85859b7ad83",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

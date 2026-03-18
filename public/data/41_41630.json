@@ -5,6 +5,7 @@
     "sggCode": "41630",
     "name": "옥정호수초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 옥정동로 188",
     "latitude": 37.8234465287607,
     "longitude": 127.099754746695,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
+      "under1": 25,
+      "year1to2": 75,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1951afb2-c7a0-422e-b8cb-80051f52f013",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-050d-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "41630",
     "name": "칠봉초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 회정로 156",
     "latitude": 37.8377858407851,
     "longitude": 127.069863707176,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 3,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-050d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0595-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "41630",
     "name": "사랑유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 양주시 고암길 270",
     "latitude": 37.834959459895,
     "longitude": 127.070885864957,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시40분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "8% (1명/13명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 3,
-      "year2to4": 4,
-      "year4to6": 1,
+      "under1": 38,
+      "year1to2": 23,
+      "year2to4": 31,
+      "year4to6": 8,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0595-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-07b6-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "41630",
     "name": "가납초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 부흥로 793",
     "latitude": 37.8193889267518,
     "longitude": 126.982418054123,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-07b6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-086f-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "41630",
     "name": "중앙유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 양주시 평화로1454번길 34",
     "latitude": 37.8193349425415,
     "longitude": 127.049324743835,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/6명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 2,
+      "under1": 43,
+      "year1to2": 29,
+      "year2to4": 29,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-086f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09d7-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "41630",
     "name": "송추초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 호국로 499",
     "latitude": 37.7162053259428,
     "longitude": 126.970443206423,
@@ -171,11 +177,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -183,7 +189,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09d7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09d8-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "41630",
     "name": "양주덕현초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 부흥로 1989",
     "latitude": 37.7996368165758,
     "longitude": 127.080834230427,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09d8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c39-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "41630",
     "name": "고암초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 고암길 320",
     "latitude": 37.8351793852609,
     "longitude": 127.06817497712,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c39-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c3a-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "41630",
     "name": "남면초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 개나리18길 100",
     "latitude": 37.8947191418284,
     "longitude": 126.974737909226,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 2
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c3a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c3b-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "41630",
     "name": "덕도초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 광적로224번길 122",
     "latitude": 37.8396497455471,
     "longitude": 126.976783663273,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c3b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e39-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "41630",
     "name": "봉암초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 삼육사로 473",
     "latitude": 37.9106983241719,
     "longitude": 127.00620038772,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e39-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e3f-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "41630",
     "name": "덕계초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 평화로1489번길 29",
     "latitude": 37.823025045249,
     "longitude": 127.047479983273,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year1to2": 33,
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e3f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "3caf348d-755f-4c51-b7b5-c8afd14d1f43",
@@ -377,6 +389,7 @@
     "sggCode": "41630",
     "name": "푸른샘유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 회천중앙로 196",
     "latitude": 37.8155352695594,
     "longitude": 127.051372815472,
@@ -388,11 +401,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "42% (10명/24명)",
     "teacherTenure": {
-      "under1": 15,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -400,7 +413,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=3caf348d-755f-4c51-b7b5-c8afd14d1f43",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "4504cf8a-1105-4204-8f25-dc61a8a5c524",
@@ -408,6 +421,7 @@
     "sggCode": "41630",
     "name": "솔빛유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 양주시 어하고개로 27-75",
     "latitude": 37.8024537937,
     "longitude": 127.0793209252,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (5명/17명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 7,
-      "over6": 2
+      "under1": 24,
+      "year1to2": 6,
+      "year2to4": 18,
+      "year4to6": 41,
+      "over6": 11
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=4504cf8a-1105-4204-8f25-dc61a8a5c524",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "4adbe0dc-4253-4c55-9934-1d5af2a87b73",
@@ -439,6 +453,7 @@
     "sggCode": "41630",
     "name": "율정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 옥정동로 245-41",
     "latitude": 37.8280656267201,
     "longitude": 127.096061721439,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "83% (5명/6명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 20,
+      "year1to2": 40,
+      "year2to4": 20,
+      "year4to6": 20,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=4adbe0dc-4253-4c55-9934-1d5af2a87b73",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "733a8206-cb6f-4207-87b9-4d0ba1dea661",
@@ -470,6 +485,7 @@
     "sggCode": "41630",
     "name": "회암초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 옥정서로5길 27-3",
     "latitude": 37.8351637274059,
     "longitude": 127.086779876325,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00��",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
+      "under1": 25,
+      "year1to2": 75,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=733a8206-cb6f-4207-87b9-4d0ba1dea661",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "74f094ef-1ce9-480a-b715-265cf9c0324c",
@@ -501,6 +517,7 @@
     "sggCode": "41630",
     "name": "옥정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 옥정로5길 42-9",
     "latitude": 37.823392789,
     "longitude": 127.0884162001,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
+      "year1to2": 33,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=74f094ef-1ce9-480a-b715-265cf9c0324c",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "a9d97359-44c4-4b61-8d9f-5c8abcf841fc",
@@ -532,6 +549,7 @@
     "sggCode": "41630",
     "name": "율빛초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 옥정동���4길 67",
     "latitude": 37.81418066680007,
     "longitude": 127.10265618300873,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 3,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=a9d97359-44c4-4b61-8d9f-5c8abcf841fc",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "bece0b06-d271-463b-aac1-40c9f677535d",
@@ -563,6 +581,7 @@
     "sggCode": "41630",
     "name": "옥빛초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 옥정로4길 38",
     "latitude": 37.8145831209347,
     "longitude": 127.093233457324,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=bece0b06-d271-463b-aac1-40c9f677535d",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "cb4c397f-6f18-4e05-853b-10f2a6b1cf6b",
@@ -594,6 +613,7 @@
     "sggCode": "41630",
     "name": "양주유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 옥정동로 240",
     "latitude": 37.8281592599,
     "longitude": 127.0992082553,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "63% (20명/32명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 6,
-      "year2to4": 3,
-      "year4to6": 3,
+      "under1": 37,
+      "year1to2": 32,
+      "year2to4": 16,
+      "year4to6": 16,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=cb4c397f-6f18-4e05-853b-10f2a6b1cf6b",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0456-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "41630",
     "name": "지엘유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 양주시 청담로243번길 203-15",
     "latitude": 37.8192112510776,
     "longitude": 127.066315128675,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (3명/12명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 3,
-      "year2to4": 1,
+      "under1": 42,
+      "year1to2": 25,
+      "year2to4": 8,
       "year4to6": 0,
-      "over6": 3
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0456-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-036a-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "41630",
     "name": "노블키즈유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 양주시 삼일로 4-16",
     "latitude": 37.8197689203352,
     "longitude": 126.986661267171,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 67,
       "year4to6": 0,
-      "over6": 1
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-036a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ddd99a6-e376-4eea-a6d5-efd3a66595aa",
@@ -687,6 +709,7 @@
     "sggCode": "41630",
     "name": "옥정우리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 양주시 옥정동로 10",
     "latitude": 37.8133456605619,
     "longitude": 127.089746792464,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "11% (1명/9명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 2,
-      "over6": 0
+      "under1": 44,
+      "year1to2": 22,
+      "year2to4": 11,
+      "year4to6": 22,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ddd99a6-e376-4eea-a6d5-efd3a66595aa",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-edca-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "41630",
     "name": "송랑유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 고읍남로39번길 95",
     "latitude": 37.7895606668032,
     "longitude": 127.080484333792,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "88% (14명/16명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 4,
+      "under1": 33,
+      "year1to2": 22,
+      "year2to4": 44,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-edca-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f022-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "41630",
     "name": "도둔초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 덕계로3길 51 (덕계동. 도둔초등학교)",
     "latitude": 37.81355147493241,
     "longitude": 127.05737080169969,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 50,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f022-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f415-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "41630",
     "name": "양주덕산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 평화로 1418-6",
     "latitude": 37.8181913720572,
     "longitude": 127.047729003021,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year1to2": 33,
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f415-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f61a-b044-e053-0a32095ab044",
@@ -811,6 +837,7 @@
     "sggCode": "41630",
     "name": "우정유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 양주시 청담로13번길 38-4",
     "latitude": 37.803584913236,
     "longitude": 127.07116197204,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (3명/7명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
+      "under1": 14,
+      "year1to2": 43,
       "year2to4": 0,
-      "year4to6": 2,
-      "over6": 1
+      "year4to6": 29,
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f61a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f678-b044-e053-0a32095ab044",
@@ -842,6 +869,7 @@
     "sggCode": "41630",
     "name": "덕정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 덕정1길 28",
     "latitude": 37.8465016919706,
     "longitude": 127.063793350993,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f678-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f839-b044-e053-0a32095ab044",
@@ -873,6 +901,7 @@
     "sggCode": "41630",
     "name": "천보초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 옥정동로9가길 31-15",
     "latitude": 37.8198427775506,
     "longitude": 127.099968104378,
@@ -884,11 +913,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -896,7 +925,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f839-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8c3-b044-e053-0a32095ab044",
@@ -904,6 +933,7 @@
     "sggCode": "41630",
     "name": "상패초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 은현로312번길 121-208",
     "latitude": 37.8981904475668,
     "longitude": 127.026008747021,
@@ -915,11 +945,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -927,7 +957,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8c3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8c5-b044-e053-0a32095ab044",
@@ -935,6 +965,7 @@
     "sggCode": "41630",
     "name": "은봉초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 꿈나무로 321",
     "latitude": 37.7813533783584,
     "longitude": 126.983192380568,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8c5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc87-b044-e053-0a32095ab044",
@@ -966,6 +997,7 @@
     "sggCode": "41630",
     "name": "회정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 평화로 1567",
     "latitude": 37.8302110696854,
     "longitude": 127.05216552818,
@@ -977,11 +1009,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -989,7 +1021,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc87-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc88-b044-e053-0a32095ab044",
@@ -997,6 +1029,7 @@
     "sggCode": "41630",
     "name": "회천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 고암길 73",
     "latitude": 37.8326555624153,
     "longitude": 127.069609394019,
@@ -1008,19 +1041,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc88-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd28-b044-e053-0a32095ab044",
@@ -1028,6 +1061,7 @@
     "sggCode": "41630",
     "name": "광숭초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 삼숭로58번길 100",
     "latitude": 37.8015444599843,
     "longitude": 127.10739058489,
@@ -1039,19 +1073,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 1
+      "year4to6": 50,
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd28-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd2d-b044-e053-0a32095ab044",
@@ -1059,6 +1093,7 @@
     "sggCode": "41630",
     "name": "유니유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 양주시 부흥로1907번길 115",
     "latitude": 37.7975441430993,
     "longitude": 127.073600609672,
@@ -1070,19 +1105,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (2명/10명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 6,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 10,
+      "year1to2": 10,
+      "year2to4": 60,
+      "year4to6": 10,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd2d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd79-b044-e053-0a32095ab044",
@@ -1090,6 +1125,7 @@
     "sggCode": "41630",
     "name": "홉그루유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 양주시 송랑로 39-52",
     "latitude": 37.7902314531722,
     "longitude": 127.085893193294,
@@ -1101,19 +1137,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "15% (2명/13명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 54,
+      "year1to2": 15,
+      "year2to4": 8,
+      "year4to6": 8,
+      "over6": 15
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd79-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe8a-b044-e053-0a32095ab044",
@@ -1121,6 +1157,7 @@
     "sggCode": "41630",
     "name": "예일유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 양주시 고읍로 17",
     "latitude": 37.8010445919701,
     "longitude": 127.079042884892,
@@ -1132,19 +1169,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (5명/17명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 2,
-      "year2to4": 7,
+      "under1": 29,
+      "year1to2": 12,
+      "year2to4": 41,
       "year4to6": 0,
-      "over6": 3
+      "over6": 18
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe8a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff0f-b044-e053-0a32095ab044",
@@ -1152,6 +1189,7 @@
     "sggCode": "41630",
     "name": "아름솔유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 양주시 북한산로1011번길 137",
     "latitude": 37.7079694655962,
     "longitude": 126.966343227907,
@@ -1163,19 +1201,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시30분~17시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 3,
+      "under1": 33,
+      "year1to2": 17,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff0f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff10-b044-e053-0a32095ab044",
@@ -1183,6 +1221,7 @@
     "sggCode": "41630",
     "name": "아이림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 양주시 부흥로 2067-8",
     "latitude": 37.8050668328383,
     "longitude": 127.084281681445,
@@ -1194,19 +1233,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "30% (3명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 20,
+      "year1to2": 30,
+      "year2to4": 20,
+      "year4to6": 10,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff10-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff15-b044-e053-0a32095ab044",
@@ -1214,6 +1253,7 @@
     "sggCode": "41630",
     "name": "신지초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 양주산성로574번길 20",
     "latitude": 37.7884742272999,
     "longitude": 126.990752120918,
@@ -1225,11 +1265,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1237,7 +1277,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff15-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff5d-b044-e053-0a32095ab044",
@@ -1245,6 +1285,7 @@
     "sggCode": "41630",
     "name": "삼숭초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 삼숭로38번길 112",
     "latitude": 37.796710661824,
     "longitude": 127.108189910878,
@@ -1256,19 +1297,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff5d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "ef5bb1ea-751c-4c8c-93b3-8b55412ca787",
@@ -1276,6 +1317,7 @@
     "sggCode": "41630",
     "name": "연푸른초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 양주시 옥정서로1길 27",
     "latitude": 37.8147882611438,
     "longitude": 127.087245612351,
@@ -1287,18 +1329,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=ef5bb1ea-751c-4c8c-93b3-8b55412ca787",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

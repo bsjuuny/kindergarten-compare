@@ -5,6 +5,7 @@
     "sggCode": "28237",
     "name": "인천청천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 산청로127번길 10",
     "latitude": 37.5204704630851,
     "longitude": 126.700389940407,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 5,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=040515d5-8e01-4867-965d-9b15e32e7284",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-030f-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "28237",
     "name": "인천금마초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 일신로 88",
     "latitude": 37.4784851582008,
     "longitude": 126.749292535749,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-030f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0320-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "28237",
     "name": "인천부평북초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 주부토로 292",
     "latitude": 37.5206256148065,
     "longitude": 126.729665896426,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0320-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0392-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "28237",
     "name": "꿈나라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 안남로 272",
     "latitude": 37.5078269758105,
     "longitude": 126.709810563663,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (4명/10명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 4
+      "year1to2": 20,
+      "year2to4": 30,
+      "year4to6": 10,
+      "over6": 40
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0392-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-04fd-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "28237",
     "name": "이노필유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 수변로 64",
     "latitude": 37.4921390626546,
     "longitude": 126.740872650199,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-04fd-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0579-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "28237",
     "name": "동심유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 원적로416번길 38",
     "latitude": 37.5022595177314,
     "longitude": 126.712260702627,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "45% (5명/11명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 3,
-      "year4to6": 2,
-      "over6": 0
+      "under1": 36,
+      "year1to2": 18,
+      "year2to4": 27,
+      "year4to6": 18,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0579-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-068f-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "28237",
     "name": "청담유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 동수천로 70",
     "latitude": 37.4915971786185,
     "longitude": 126.736370319187,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/7명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 5,
+      "under1": 14,
+      "year1to2": 14,
+      "year2to4": 71,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-068f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0731-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "28237",
     "name": "파란꿈숲유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 갈월동로 45",
     "latitude": 37.5115860769295,
     "longitude": 126.726773812413,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 1
+      "year4to6": 33,
+      "over6": 34
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0731-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-079d-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "28237",
     "name": "인천진산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 굴포로 194-10",
     "latitude": 37.5129437654726,
     "longitude": 126.741690181639,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-079d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-093a-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "28237",
     "name": "프렌즈유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 주부토로 201",
     "latitude": 37.512578,
     "longitude": 126.723287,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "71% (5명/7명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
-      "year2to4": 2,
+      "under1": 14,
+      "year1to2": 43,
+      "year2to4": 29,
       "year4to6": 0,
-      "over6": 1
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-093a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-093b-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "28237",
     "name": "열림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평��� 일신로14번길 23",
     "latitude": 37.4821771633661,
     "longitude": 126.744014615973,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 4,
+      "year2to4": 50,
       "year4to6": 0,
-      "over6": 2
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-093b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-095d-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "28237",
     "name": "무지개유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 안남로41번길 3",
     "latitude": 37.4870936858638,
     "longitude": 126.714185899319,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "64% (9명/14명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 3,
-      "year4to6": 2,
-      "over6": 4
+      "under1": 14,
+      "year1to2": 21,
+      "year2to4": 21,
+      "year4to6": 14,
+      "over6": 30
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-095d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09c7-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "28237",
     "name": "산곡유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 마장로 121",
     "latitude": 37.4894659778585,
     "longitude": 126.705687288976,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "62% (8명/13명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 5,
-      "year2to4": 2,
+      "under1": 36,
+      "year1to2": 36,
+      "year2to4": 14,
       "year4to6": 0,
-      "over6": 2
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09c7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09d6-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "28237",
     "name": "인천부광초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 충선로 104",
     "latitude": 37.4990759186709,
     "longitude": 126.736690799827,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09d6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09df-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "28237",
     "name": "꿈나무유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 동수로120번길 11",
     "latitude": 37.4846800577773,
     "longitude": 126.73244797909,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 1
+      "year4to6": 33,
+      "over6": 34
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09df-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0a2f-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "28237",
     "name": "The큰빛유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 장제로195번길 42",
     "latitude": 37.5033009523479,
     "longitude": 126.728432554346,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "22% (5명/23명)",
     "teacherTenure": {
-      "under1": 14,
+      "under1": 70,
       "year1to2": 0,
-      "year2to4": 5,
+      "year2to4": 25,
       "year4to6": 0,
-      "over6": 1
+      "over6": 5
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0a2f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b9c-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "28237",
     "name": "숲속유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 산청로17번길 77-1",
     "latitude": 37.510226101427,
     "longitude": 126.69681155872,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "27% (3명/11명)",
     "teacherTenure": {
-      "under1": 9,
-      "year1to2": 2,
+      "under1": 82,
+      "year1to2": 18,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b9c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0ba7-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "28237",
     "name": "인천부평남초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 경인로911번길 28",
     "latitude": 37.4885945246726,
     "longitude": 126.720322270733,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0ba7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0ba8-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "28237",
     "name": "인천부평동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 부평대로88번길 19",
     "latitude": 37.499944303514,
     "longitude": 126.723886038013,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0ba8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d9d-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "28237",
     "name": "인천갈월초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 주부토로 165",
     "latitude": 37.510183252572,
     "longitude": 126.725209875949,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d9d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d9e-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "28237",
     "name": "열우물유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 아트센터로 118",
     "latitude": 37.4753472345479,
     "longitude": 126.704340388371,
@@ -636,11 +657,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -648,7 +669,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d9e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0da5-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "28237",
     "name": "연세유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 세월천로 16",
     "latitude": 37.5148370535896,
     "longitude": 126.709480620847,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (2명/10명)",
     "teacherTenure": {
-      "under1": 7,
+      "under1": 70,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 30,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0da5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e38-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "28237",
     "name": "인천부마초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 안남로253번길 41",
     "latitude": 37.5063486681128,
     "longitude": 126.705897303526,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 40,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 60,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e38-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e43-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "28237",
     "name": "햇살유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 안남로 260",
     "latitude": 37.505851562849,
     "longitude": 126.709725373407,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "88% (7명/8명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 4,
-      "over6": 1
+      "under1": 13,
+      "year1to2": 13,
+      "year2to4": 13,
+      "year4to6": 50,
+      "over6": 11
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e43-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e44-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "28237",
     "name": "인천산곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 길주로354번길 39",
     "latitude": 37.5076531402969,
     "longitude": 126.701919273326,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e44-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e79-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "28237",
     "name": "은현유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 길주남로125번길 12",
     "latitude": 37.5045509519095,
     "longitude": 126.735894676156,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
+      "under1": 40,
+      "year1to2": 60,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e79-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "566e2933-a1bf-47c9-8482-545802ad109f",
@@ -811,6 +837,7 @@
     "sggCode": "28237",
     "name": "드림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 충선로 158",
     "latitude": 37.5032480287,
     "longitude": 126.7366211998,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "56% (14명/25명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 4,
-      "year2to4": 6,
-      "year4to6": 2,
-      "over6": 5
+      "under1": 32,
+      "year1to2": 16,
+      "year2to4": 24,
+      "year4to6": 8,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=566e2933-a1bf-47c9-8482-545802ad109f",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "8e1f3f1d-9b15-4242-b884-202964b2c6e0",
@@ -842,6 +869,7 @@
     "sggCode": "28237",
     "name": "이든유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 부개로 58",
     "latitude": 37.50079445,
     "longitude": 126.7402170493,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "36% (4명/11명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 5,
-      "year4to6": 2,
-      "over6": 0
+      "under1": 18,
+      "year1to2": 18,
+      "year2to4": 45,
+      "year4to6": 18,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=8e1f3f1d-9b15-4242-b884-202964b2c6e0",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "b337b87d-7373-4f9f-97b9-2ed53c5a8374",
@@ -873,6 +901,7 @@
     "sggCode": "28237",
     "name": "인천마곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 마곡로27번길 16",
     "latitude": 37.512063571428,
     "longitude": 126.69783655599,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=b337b87d-7373-4f9f-97b9-2ed53c5a8374",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-030e-b044-e053-0a32095ab044",
@@ -904,6 +933,7 @@
     "sggCode": "28237",
     "name": "삼산유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 충선로311번길 25-14",
     "latitude": 37.5162819492976,
     "longitude": 126.733530384269,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 6,
+      "under1": 22,
+      "year1to2": 11,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-030e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-020c-b044-e053-0a32095ab044",
@@ -935,6 +965,7 @@
     "sggCode": "28237",
     "name": "인천부원초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 원적로472번길 29",
     "latitude": 37.5025372986,
     "longitude": 126.7194821923,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-020c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-016b-b044-e053-0a32095ab044",
@@ -966,6 +997,7 @@
     "sggCode": "28237",
     "name": "인천굴포초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 충선로234번길 19",
     "latitude": 37.5110265521625,
     "longitude": 126.736923380116,
@@ -977,19 +1009,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 3,
+      "year1to2": 25,
+      "year2to4": 75,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-016b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ed1f-b044-e053-0a32095ab044",
@@ -997,6 +1029,7 @@
     "sggCode": "28237",
     "name": "인천용마초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 세월천로30번길 58",
     "latitude": 37.5157859907613,
     "longitude": 126.707144656322,
@@ -1008,19 +1041,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ed1f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ed20-b044-e053-0a32095ab044",
@@ -1028,6 +1061,7 @@
     "sggCode": "28237",
     "name": "한빛유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 부흥로123번길 36",
     "latitude": 37.4994609957275,
     "longitude": 126.705655614996,
@@ -1039,19 +1073,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
+      "under1": 40,
+      "year1to2": 60,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ed20-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efe3-b044-e053-0a32095ab044",
@@ -1059,6 +1093,7 @@
     "sggCode": "28237",
     "name": "근산유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 영성중로 53",
     "latitude": 37.5212157243169,
     "longitude": 126.744977407631,
@@ -1070,19 +1105,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "89% (8명/9명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 5,
+      "under1": 30,
+      "year1to2": 50,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 1
+      "year4to6": 10,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efe3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efe4-b044-e053-0a32095ab044",
@@ -1090,6 +1125,7 @@
     "sggCode": "28237",
     "name": "이화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 원적로 361",
     "latitude": 37.5043501029494,
     "longitude": 126.707330669597,
@@ -1101,19 +1137,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (3명/9명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 33,
+      "year1to2": 22,
+      "year2to4": 22,
+      "year4to6": 11,
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efe4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efe7-b044-e053-0a32095ab044",
@@ -1121,6 +1157,7 @@
     "sggCode": "28237",
     "name": "인천한길초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 영성중로 32",
     "latitude": 37.519294438024,
     "longitude": 126.745882935084,
@@ -1132,19 +1169,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efe7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-eff1-b044-e053-0a32095ab044",
@@ -1152,6 +1189,7 @@
     "sggCode": "28237",
     "name": "인천후정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 영성서로 56",
     "latitude": 37.5231564278374,
     "longitude": 126.743586375779,
@@ -1163,19 +1201,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 2,
+      "under1": 40,
+      "year1to2": 20,
+      "year2to4": 40,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-eff1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f37b-b044-e053-0a32095ab044",
@@ -1183,6 +1221,7 @@
     "sggCode": "28237",
     "name": "인천미산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 원적로 391",
     "latitude": 37.5045406168449,
     "longitude": 126.709801419176,
@@ -1194,19 +1233,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f37b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f37c-b044-e053-0a32095ab044",
@@ -1214,6 +1253,7 @@
     "sggCode": "28237",
     "name": "새빛솔금유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 주부토로 146",
     "latitude": 37.5082816872008,
     "longitude": 126.726075966633,
@@ -1225,19 +1265,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (8명/8명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 1
+      "under1": 13,
+      "year1to2": 25,
+      "year2to4": 25,
+      "year4to6": 25,
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f37c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f467-b044-e053-0a32095ab044",
@@ -1245,6 +1285,7 @@
     "sggCode": "28237",
     "name": "정민유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 부흥로111번길 51",
     "latitude": 37.5004233234232,
     "longitude": 126.704035449302,
@@ -1256,19 +1297,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (6명/10명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 4,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 10,
+      "year1to2": 20,
+      "year2to4": 40,
+      "year4to6": 10,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f467-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5df-b044-e053-0a32095ab044",
@@ -1276,6 +1317,7 @@
     "sggCode": "28237",
     "name": "인천부평서초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 부평문화로53번길 19",
     "latitude": 37.4945724161149,
     "longitude": 126.721303695852,
@@ -1287,19 +1329,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5df-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8c0-b044-e053-0a32095ab044",
@@ -1307,6 +1349,7 @@
     "sggCode": "28237",
     "name": "인천동암초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 동암남로35번길 4",
     "latitude": 37.4718970016185,
     "longitude": 126.707175141824,
@@ -1318,11 +1361,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시50분~18시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1330,7 +1373,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8c0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8c1-b044-e053-0a32095ab044",
@@ -1338,6 +1381,7 @@
     "sggCode": "28237",
     "name": "인���부개초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 마분로 9",
     "latitude": 37.4856615885114,
     "longitude": 126.738291411088,
@@ -1349,19 +1393,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8c1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f90b-b044-e053-0a32095ab044",
@@ -1369,6 +1413,7 @@
     "sggCode": "28237",
     "name": "해마루유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 일신로 120",
     "latitude": 37.4768144406698,
     "longitude": 126.750488967719,
@@ -1380,19 +1425,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (4명/7명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 29,
       "year1to2": 0,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 43,
+      "year4to6": 14,
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f90b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f90c-b044-e053-0a32095ab044",
@@ -1400,6 +1445,7 @@
     "sggCode": "28237",
     "name": "인천상정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 상정로 50",
     "latitude": 37.4796838281998,
     "longitude": 126.699035872301,
@@ -1411,19 +1457,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시50분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f90c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa69-b044-e053-0a32095ab044",
@@ -1431,6 +1477,7 @@
     "sggCode": "28237",
     "name": "경희동화나라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 부흥로327번길 13",
     "latitude": 37.4989532216262,
     "longitude": 126.728211436548,
@@ -1442,19 +1489,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/5명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 1,
+      "under1": 80,
+      "year1to2": 20,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa69-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa75-b044-e053-0a32095ab044",
@@ -1462,6 +1509,7 @@
     "sggCode": "28237",
     "name": "청송유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 부평문화로 37",
     "latitude": 37.4919477639071,
     "longitude": 126.718311321376,
@@ -1473,19 +1521,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa75-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc6f-b044-e053-0a32095ab044",
@@ -1493,6 +1541,7 @@
     "sggCode": "28237",
     "name": "인천백운초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 아트센터로 130",
     "latitude": 37.4800476787125,
     "longitude": 126.704863749152,
@@ -1504,19 +1553,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc6f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc7c-b044-e053-0a32095ab044",
@@ -1524,6 +1573,7 @@
     "sggCode": "28237",
     "name": "성심유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 부흥로 323",
     "latitude": 37.498619950503,
     "longitude": 126.728108185074,
@@ -1535,19 +1585,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 1,
+      "year2to4": 67,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc7c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc7f-b044-e053-0a32095ab044",
@@ -1555,6 +1605,7 @@
     "sggCode": "28237",
     "name": "엄지유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 부일로 111",
     "latitude": 37.4888506665409,
     "longitude": 126.74223288781,
@@ -1566,19 +1617,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 67,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc7f-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd20-b044-e053-0a32095ab044",
@@ -1586,6 +1637,7 @@
     "sggCode": "28237",
     "name": "현대유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 갈월동로 66",
     "latitude": 37.5129601903693,
     "longitude": 126.729327501721,
@@ -1597,19 +1649,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시40분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (3명/9명)",
     "teacherTenure": {
-      "under1": 5,
+      "under1": 56,
       "year1to2": 0,
-      "year2to4": 4,
+      "year2to4": 44,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd20-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-feb6-b044-e053-0a32095ab044",
@@ -1617,6 +1669,7 @@
     "sggCode": "28237",
     "name": "청원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 화랑로47번길 61",
     "latitude": 37.4899082622115,
     "longitude": 126.701901676541,
@@ -1628,19 +1681,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시20분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (4명/8명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 3,
+      "under1": 13,
+      "year1to2": 13,
+      "year2to4": 38,
       "year4to6": 0,
-      "over6": 3
+      "over6": 36
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-feb6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ff31-b044-e053-0a32095ab044",
@@ -1648,6 +1701,7 @@
     "sggCode": "28237",
     "name": "인천영선초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 충선로 293",
     "latitude": 37.5153729527803,
     "longitude": 126.734434967243,
@@ -1659,19 +1713,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시50분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ff31-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00d2-b044-e053-0a32095ab044",
@@ -1679,6 +1733,7 @@
     "sggCode": "28237",
     "name": "성아유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 마장로 48",
     "latitude": 37.4831281246446,
     "longitude": 126.708972954037,
@@ -1690,19 +1745,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00d2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00d4-b044-e053-0a32095ab044",
@@ -1710,6 +1765,7 @@
     "sggCode": "28237",
     "name": "아란유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 안남로 91",
     "latitude": 37.4918118330754,
     "longitude": 126.709263159127,
@@ -1721,19 +1777,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "36% (4명/11명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 1,
-      "year2to4": 2,
+      "under1": 55,
+      "year1to2": 9,
+      "year2to4": 18,
       "year4to6": 0,
-      "over6": 2
+      "over6": 18
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00d4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00ef-b044-e053-0a32095ab044",
@@ -1741,6 +1797,7 @@
     "sggCode": "28237",
     "name": "예원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 충선로 262",
     "latitude": 37.5126442077264,
     "longitude": 126.735768381499,
@@ -1752,19 +1809,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "28% (5명/18명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 6,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 44,
+      "year1to2": 33,
+      "year2to4": 6,
+      "year4to6": 6,
+      "over6": 11
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00ef-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-015a-b044-e053-0a32095ab044",
@@ -1772,6 +1829,7 @@
     "sggCode": "28237",
     "name": "인천부개서초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 부일로 39",
     "latitude": 37.4899012644672,
     "longitude": 126.735181418119,
@@ -1783,19 +1841,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-015a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-015b-b044-e053-0a32095ab044",
@@ -1803,6 +1861,7 @@
     "sggCode": "28237",
     "name": "인천부일초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 부평구 부흥북로 175",
     "latitude": 37.501202558016,
     "longitude": 126.741504953502,
@@ -1814,19 +1873,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
+      "under1": 75,
+      "year1to2": 25,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-015b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0162-b044-e053-0a32095ab044",
@@ -1834,6 +1893,7 @@
     "sggCode": "28237",
     "name": "홍익유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 길주로494번길 12",
     "latitude": 37.5073776409096,
     "longitude": 126.715555282011,
@@ -1845,19 +1905,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 2,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0162-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "dc6e7a31-4a2e-48f1-85be-d6eb10fa0f4b",
@@ -1865,6 +1925,7 @@
     "sggCode": "28237",
     "name": "이바유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 부평구 마장로168번길 17",
     "latitude": 37.4936772655,
     "longitude": 126.7052186455,
@@ -1876,18 +1937,18 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
+      "under1": 29,
+      "year1to2": 29,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 2
+      "year4to6": 14,
+      "over6": 28
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=dc6e7a31-4a2e-48f1-85be-d6eb10fa0f4b",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

@@ -5,6 +5,7 @@
     "sggCode": "11620",
     "name": "한별유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 남부순환로144길 65",
     "latitude": 37.478418282989,
     "longitude": 126.913477294213,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "63% (5명/8명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 4
+      "year1to2": 11,
+      "year2to4": 22,
+      "year4to6": 22,
+      "over6": 45
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ed2b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "dadf4a8d-771c-43e0-8f65-87c28eb31f4a",
@@ -36,6 +37,7 @@
     "sggCode": "11620",
     "name": "서울남부초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 남부순환로163길 14",
     "latitude": 37.485121057,
     "longitude": 126.9221826433,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
-      "year2to4": 1,
+      "year1to2": 75,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=dadf4a8d-771c-43e0-8f65-87c28eb31f4a",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "d203618d-94ef-4a46-bf53-6a7b4946017d",
@@ -67,6 +69,7 @@
     "sggCode": "11620",
     "name": "서울당곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 보라매로2길 23",
     "latitude": 37.4901681154487,
     "longitude": 126.930369788237,
@@ -78,11 +81,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -90,7 +93,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=d203618d-94ef-4a46-bf53-6a7b4946017d",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "888935f2-ff3d-497c-8cc4-96351b70533c",
@@ -98,6 +101,7 @@
     "sggCode": "11620",
     "name": "서울신봉초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 양녕로6나길 1",
     "latitude": 37.48539,
     "longitude": 126.949013,
@@ -109,11 +113,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시20분~20시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -121,7 +125,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=888935f2-ff3d-497c-8cc4-96351b70533c",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "83817fd0-0833-41c3-9e8f-e368a1545128",
@@ -129,6 +133,7 @@
     "sggCode": "11620",
     "name": "서울남현유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 남현4길 51",
     "latitude": 37.4738362824827,
     "longitude": 126.973350114095,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "83% (5명/6명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 67,
+      "year1to2": 17,
+      "year2to4": 17,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=83817fd0-0833-41c3-9e8f-e368a1545128",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "4358d8db-7469-48f9-857c-02dbc2fca508",
@@ -160,6 +165,7 @@
     "sggCode": "11620",
     "name": "서울구암유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 은천로 93",
     "latitude": 37.489282,
     "longitude": 126.944739,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "83% (5명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
+      "under1": 33,
+      "year1to2": 50,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 17,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=4358d8db-7469-48f9-857c-02dbc2fca508",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "373b3d04-4a0f-4da0-bf9c-df6359eb0fdb",
@@ -191,6 +197,7 @@
     "sggCode": "11620",
     "name": "서울청림유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 청림5길 22",
     "latitude": 37.4890917715771,
     "longitude": 126.960111629303,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 20,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 3,
+      "year2to4": 20,
+      "year4to6": 60,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=373b3d04-4a0f-4da0-bf9c-df6359eb0fdb",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0f6e-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "11620",
     "name": "서울삼성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 대학7길 52",
     "latitude": 37.4677847465871,
     "longitude": 126.941144599365,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "88% (7명/8명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 4,
-      "year4to6": 1,
-      "over6": 2
+      "year2to4": 57,
+      "year4to6": 14,
+      "over6": 29
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0f6e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0eef-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "11620",
     "name": "영그린유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 참숯5길 12",
     "latitude": 37.4770624747922,
     "longitude": 126.940389911632,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 25,
+      "year4to6": 25,
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0eef-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e1e-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "11620",
     "name": "소슬유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 구암길 46",
     "latitude": 37.4897714653369,
     "longitude": 126.948406355406,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 2
+      "year2to4": 25,
+      "year4to6": 25,
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e1e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d6b-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "11620",
     "name": "서울원당초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 봉천로 505",
     "latitude": 37.4812809764605,
     "longitude": 126.956249742122,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시10분~19시10분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 60,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 20,
+      "year4to6": 20,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d6b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d6a-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "11620",
     "name": "새싹유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 남현2길 90",
     "latitude": 37.4745681251793,
     "longitude": 126.972863325517,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (1명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 20,
+      "year1to2": 20,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 3
+      "over6": 60
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d6a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d69-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "11620",
     "name": "새소슬유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 성현로 80",
     "latitude": 37.4899512331393,
     "longitude": 126.951783765603,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "30% (3명/10명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 4,
-      "year2to4": 4,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 9,
+      "year1to2": 36,
+      "year2to4": 36,
+      "year4to6": 9,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d69-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d68-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "11620",
     "name": "배꽃유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 봉천로29길 47",
     "latitude": 37.4856084278381,
     "longitude": 126.941951474771,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "63% (5명/8명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 4,
-      "over6": 2
+      "year2to4": 25,
+      "year4to6": 50,
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d68-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-08fa-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "11620",
     "name": "서울난곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 난곡로35길 102",
     "latitude": 37.4690614295687,
     "longitude": 126.917881629811,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-08fa-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-08f8-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "11620",
     "name": "명성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 광신길 154",
     "latitude": 37.4655087516694,
     "longitude": 126.927016524512,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (2명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
+      "under1": 20,
+      "year1to2": 40,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 2
+      "over6": 40
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-08f8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0571-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "11620",
     "name": "애동유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 법원단지길 56",
     "latitude": 37.4738179906224,
     "longitude": 126.920283383492,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 50,
+      "year1to2": 17,
+      "year2to4": 17,
+      "year4to6": 17,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0571-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-04cb-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "11620",
     "name": "서울신우유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 호암로 498",
     "latitude": 37.4631906379849,
     "longitude": 126.932283857476,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (6명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 17,
+      "year4to6": 17,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-04cb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-031c-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "11620",
     "name": "서울봉천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 행운1라길 17",
     "latitude": 37.4836649700963,
     "longitude": 126.958189927925,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-031c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-029c-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "11620",
     "name": "꿈나라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 난곡로 42",
     "latitude": 37.4605876699049,
     "longitude": 126.920617341558,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시20분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/11명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 1,
-      "year2to4": 2,
+      "under1": 73,
+      "year1to2": 9,
+      "year2to4": 18,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-029c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcf4-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "11620",
     "name": "나랑유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 봉천로33길 57",
     "latitude": 37.4857305793227,
     "longitude": 126.943962488478,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "63% (5명/8명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 4,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 2
+      "year1to2": 50,
+      "year2to4": 13,
+      "year4to6": 13,
+      "over6": 24
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcf4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc3b-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "11620",
     "name": "서울유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 관악로37길 20",
     "latitude": 37.4879723066823,
     "longitude": 126.955781246861,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 2
+      "over6": 100
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc3b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa84-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "11620",
     "name": "은아유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 남부순환로246길 25",
     "latitude": 37.4752373038076,
     "longitude": 126.964327548243,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "18% (4명/22명)",
     "teacherTenure": {
-      "under1": 9,
-      "year1to2": 3,
-      "year2to4": 7,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 39,
+      "year1to2": 13,
+      "year2to4": 30,
+      "year4to6": 9,
+      "over6": 9
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa84-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8ab-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "11620",
     "name": "서울청룡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 관악로5길 61",
     "latitude": 37.4754891148016,
     "longitude": 126.950851762778,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8ab-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5f2-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "11620",
     "name": "하늘유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 양산길 18",
     "latitude": 37.4740572988801,
     "longitude": 126.932256069696,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시30분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5f2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f1af-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "11620",
     "name": "현대유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 관악로40길 55",
     "latitude": 37.4922512108654,
     "longitude": 126.959349626045,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (9명/12명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 5
+      "under1": 17,
+      "year1to2": 25,
+      "year2to4": 8,
+      "year4to6": 8,
+      "over6": 42
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f1af-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f124-b044-e053-0a32095ab044",
@@ -811,6 +837,7 @@
     "sggCode": "11620",
     "name": "서울신성초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 신림로 114",
     "latitude": 37.4714280847298,
     "longitude": 126.937733245157,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (6명/8명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 5,
-      "year4to6": 1,
+      "year2to4": 83,
+      "year4to6": 17,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f124-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efc0-b044-e053-0a32095ab044",
@@ -842,6 +869,7 @@
     "sggCode": "11620",
     "name": "서울은천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 은천로 69",
     "latitude": 37.4869678439956,
     "longitude": 126.942369045903,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 17,
+      "year2to4": 17,
       "year4to6": 0,
-      "over6": 4
+      "over6": 66
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efc0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef08-b044-e053-0a32095ab044",
@@ -873,6 +901,7 @@
     "sggCode": "11620",
     "name": "서울관악초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 청룡4길 49",
     "latitude": 37.4810922802636,
     "longitude": 126.942642429872,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef08-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef06-b044-e053-0a32095ab044",
@@ -904,6 +933,7 @@
     "sggCode": "11620",
     "name": "동원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "서울특별시 관악구 행운1길 96",
     "latitude": 37.4828620619017,
     "longitude": 126.956663795249,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/6명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 3,
+      "year4to6": 75,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef06-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "ea0748a1-62aa-47ee-abcf-784398d6646d",
@@ -935,6 +965,7 @@
     "sggCode": "11620",
     "name": "서울신림초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "서울특별시 관악구 문성로28길 31",
     "latitude": 37.4771194926,
     "longitude": 126.9268759446,
@@ -946,18 +977,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=ea0748a1-62aa-47ee-abcf-784398d6646d",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

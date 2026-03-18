@@ -5,6 +5,7 @@
     "sggCode": "41670",
     "name": "오산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 양화로 168",
     "latitude": 37.2388802514462,
     "longitude": 127.559380845346,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef5e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0de9-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "41670",
     "name": "가남초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 태평4길 2",
     "latitude": 37.2053800179035,
     "longitude": 127.548048041368,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0de9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09cf-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "41670",
     "name": "송삼초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 송삼로 165",
     "latitude": 37.1765093269319,
     "longitude": 127.63398896553,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09cf-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0988-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "41670",
     "name": "여주대학교부속유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 여주시 세종로 338",
     "latitude": 37.2685853846928,
     "longitude": 127.632480429685,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 2,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0988-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0987-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "41670",
     "name": "능현유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 여주시 명성로 92",
     "latitude": 37.2587439078537,
     "longitude": 127.656804106012,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 2
+      "over6": 67
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0987-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-094a-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "41670",
     "name": "점봉초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 세종로 488-4",
     "latitude": 37.2569036826563,
     "longitude": 127.645148874498,
@@ -171,11 +177,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -183,7 +189,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-094a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0949-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "41670",
     "name": "오학초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 도예로 117",
     "latitude": 37.31243906373,
     "longitude": 127.647898595624,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 2,
+      "year2to4": 25,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0949-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0948-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "41670",
     "name": "여���초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 여양로 91",
     "latitude": 37.2935301671101,
     "longitude": 127.643019128078,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "63% (5명/8명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 1
+      "year1to2": 17,
+      "year2to4": 50,
+      "year4to6": 17,
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0948-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0947-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "41670",
     "name": "여주초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 청심로 139",
     "latitude": 37.2987017268292,
     "longitude": 127.635927236224,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0947-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-076c-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "41670",
     "name": "중앙유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 여주시 마구실길 56-14",
     "latitude": 37.202523900158,
     "longitude": 127.539494236584,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-076c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0546-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "41670",
     "name": "송촌초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 여양1로 237",
     "latitude": 37.4114857692631,
     "longitude": 127.568586330453,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 100,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0546-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0545-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "41670",
     "name": "소화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 여주시 우암로 5",
     "latitude": 37.2979146611894,
     "longitude": 127.634477064511,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (6명/10명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 10,
       "year1to2": 0,
-      "year2to4": 4,
-      "year4to6": 2,
-      "over6": 3
+      "year2to4": 40,
+      "year4to6": 20,
+      "over6": 30
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0545-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0544-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "41670",
     "name": "상품초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 금품1로 15",
     "latitude": 37.4045516741527,
     "longitude": 127.445727500007,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0544-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0508-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "41670",
     "name": "흥천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 효자로 155",
     "latitude": 37.332833711749,
     "longitude": 127.540916956066,
@@ -419,11 +433,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -431,7 +445,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0508-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0307-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "41670",
     "name": "깊은샘유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 여주시 삼밭골길 34",
     "latitude": 37.2858239733533,
     "longitude": 127.612215517167,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0307-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00df-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "41670",
     "name": "재능유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 여주시 세종로237번길 35",
     "latitude": 37.2773635717813,
     "longitude": 127.642279019682,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
+      "under1": 13,
+      "year1to2": 25,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 4
+      "year4to6": 13,
+      "over6": 49
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00df-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00de-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "41670",
     "name": "이포초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 이여로 1237",
     "latitude": 37.3890998547349,
     "longitude": 127.529834852249,
@@ -512,19 +529,12 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
-    "teacherTenure": {
-      "under1": 0,
-      "year1to2": 0,
-      "year2to4": 0,
-      "year4to6": 0,
-      "over6": 0
-    },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00de-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcce-b044-e053-0a32095ab044",
@@ -532,6 +542,7 @@
     "sggCode": "41670",
     "name": "능서초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 세종대왕면 마장로 64",
     "latitude": 37.2985158775722,
     "longitude": 127.572736485514,
@@ -543,19 +554,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcce-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fccd-b044-e053-0a32095ab044",
@@ -563,6 +574,7 @@
     "sggCode": "41670",
     "name": "능북초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 백석1길 8-16",
     "latitude": 37.3334316456813,
     "longitude": 127.591794360441,
@@ -574,11 +586,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -586,7 +598,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fccd-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc93-b044-e053-0a32095ab044",
@@ -594,6 +606,7 @@
     "sggCode": "41670",
     "name": "임당유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 여주시 대명산1길 26",
     "latitude": 37.2062114718863,
     "longitude": 127.537024760508,
@@ -605,19 +618,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (2명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 20,
+      "year1to2": 20,
       "year2to4": 0,
-      "year4to6": 3,
+      "year4to6": 60,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc93-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f835-b044-e053-0a32095ab044",
@@ -625,6 +638,7 @@
     "sggCode": "41670",
     "name": "천남초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 참샘2길 1",
     "latitude": 37.3458506956064,
     "longitude": 127.631318798356,
@@ -636,19 +650,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f835-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f834-b044-e053-0a32095ab044",
@@ -656,6 +670,7 @@
     "sggCode": "41670",
     "name": "점동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 청안로 106",
     "latitude": 37.2045901915941,
     "longitude": 127.662746959588,
@@ -667,19 +682,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 50,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f834-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f803-b044-e053-0a32095ab044",
@@ -687,6 +702,7 @@
     "sggCode": "41670",
     "name": "해님유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "경기도 여주시 월평로 11",
     "latitude": 37.2763828910794,
     "longitude": 127.611071252385,
@@ -698,19 +714,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시50분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 33,
+      "year1to2": 33,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 34
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f803-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f592-b044-e053-0a32095ab044",
@@ -718,6 +734,7 @@
     "sggCode": "41670",
     "name": "세종초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 세종로 204-19",
     "latitude": 37.2797972942761,
     "longitude": 127.633825529338,
@@ -729,19 +746,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f592-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3d0-b044-e053-0a32095ab044",
@@ -749,6 +766,7 @@
     "sggCode": "41670",
     "name": "문장초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 문바실길 20",
     "latitude": 37.3610788916098,
     "longitude": 127.512334906836,
@@ -760,11 +778,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -772,7 +790,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3d0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3cf-b044-e053-0a32095ab044",
@@ -780,6 +798,7 @@
     "sggCode": "41670",
     "name": "매류초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 양화로 592",
     "latitude": 37.2739553610573,
     "longitude": 127.558196956947,
@@ -791,11 +810,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -803,7 +822,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3cf-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3ce-b044-e053-0a32095ab044",
@@ -811,6 +830,7 @@
     "sggCode": "41670",
     "name": "금당초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 가남로 649",
     "latitude": 37.1974367476035,
     "longitude": 127.606231868511,
@@ -822,19 +842,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시50분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3ce-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f38e-b044-e053-0a32095ab044",
@@ -842,6 +862,7 @@
     "sggCode": "41670",
     "name": "연라초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 여주남로 116",
     "latitude": 37.2774553886056,
     "longitude": 127.611251053623,
@@ -853,19 +874,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f38e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef92-b044-e053-0a32095ab044",
@@ -873,6 +894,7 @@
     "sggCode": "41670",
     "name": "북내초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 여양2로 304",
     "latitude": 37.3303897283115,
     "longitude": 127.6801756693,
@@ -884,19 +906,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef92-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef91-b044-e053-0a32095ab044",
@@ -904,6 +926,7 @@
     "sggCode": "41670",
     "name": "북내초등학교도전분교장병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 원양1로 716",
     "latitude": 37.3372110603493,
     "longitude": 127.751111743537,
@@ -915,19 +938,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~16시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef91-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef90-b044-e053-0a32095ab044",
@@ -935,6 +958,7 @@
     "sggCode": "41670",
     "name": "대신초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 여양로 1440",
     "latitude": 37.3752053592984,
     "longitude": 127.587352205352,
@@ -946,19 +970,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef90-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0dea-b044-e053-0a32095ab044",
@@ -966,6 +990,7 @@
     "sggCode": "41670",
     "name": "강천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "경기도 여주시 간매3길 31",
     "latitude": 37.2691810388446,
     "longitude": 127.719831629182,
@@ -977,18 +1002,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0dea-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

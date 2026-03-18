@@ -5,6 +5,7 @@
     "sggCode": "27260",
     "name": "신세계유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 신천동로62길 17",
     "latitude": 35.8525126979756,
     "longitude": 128.609975716734,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "27% (3명/11명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 45,
+      "year1to2": 18,
+      "year2to4": 18,
+      "year4to6": 9,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ed3c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-04e7-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "27260",
     "name": "라온유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 청수로45길 32",
     "latitude": 35.84201731289,
     "longitude": 128.632995680402,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (4명/7명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 57,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 2,
-      "over6": 1
+      "year4to6": 29,
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-04e7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0549-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "27260",
     "name": "리리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 신천동로34길 19",
     "latitude": 35.8404020468691,
     "longitude": 128.608993130354,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (5명/10명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 3,
-      "year2to4": 3,
-      "year4to6": 1,
+      "under1": 30,
+      "year1to2": 30,
+      "year2to4": 30,
+      "year4to6": 10,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0549-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-056c-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "27260",
     "name": "수성무지개유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 천을로 16",
     "latitude": 35.8444533174354,
     "longitude": 128.692710204322,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (3명/9명)",
     "teacherTenure": {
-      "under1": 6,
+      "under1": 67,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 1,
+      "year2to4": 22,
+      "year4to6": 11,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-056c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-070a-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "27260",
     "name": "시지아이숲유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 달구벌대로625길 25",
     "latitude": 35.8442928609306,
     "longitude": 128.699410219164,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (4명/10명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 2,
-      "year2to4": 3,
+      "under1": 55,
+      "year1to2": 18,
+      "year2to4": 27,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-070a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0750-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "27260",
     "name": "수정유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 달구벌대로650길 21",
     "latitude": 35.8364726888102,
     "longitude": 128.710208160465,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (3명/12명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 2
+      "under1": 42,
+      "year1to2": 8,
+      "year2to4": 25,
+      "year4to6": 8,
+      "over6": 17
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0750-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0909-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "27260",
     "name": "대구복명초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대구광역시 수성구 범안로20길 8",
     "latitude": 35.8176258730867,
     "longitude": 128.647212787027,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0909-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-098c-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "27260",
     "name": "마리아유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 범어천로 90",
     "latitude": 35.8567689201464,
     "longitude": 128.622981397681,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "44% (7명/16명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 6,
-      "year2to4": 2,
-      "year4to6": 4,
+      "under1": 25,
+      "year1to2": 38,
+      "year2to4": 13,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-098c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09b1-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "27260",
     "name": "비안네유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 달구벌대로650길 81",
     "latitude": 35.8312301247202,
     "longitude": 128.708776764923,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09b1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b79-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "27260",
     "name": "범어유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 국채보상로186길 121",
     "latitude": 35.8630139275217,
     "longitude": 128.634315632773,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (2명/10명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 2,
-      "year2to4": 2,
+      "under1": 60,
+      "year1to2": 20,
+      "year2to4": 20,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b79-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b83-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "27260",
     "name": "스톤릿지유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 ���성구 신매로 51",
     "latitude": 35.8352809655728,
     "longitude": 128.707326939775,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시40분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "44% (4명/9명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 1,
+      "under1": 56,
+      "year1to2": 11,
       "year2to4": 0,
-      "year4to6": 3,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b83-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0bc5-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "27260",
     "name": "한국예술유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 용학로34길 8",
     "latitude": 35.8220581503504,
     "longitude": 128.627087341253,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (9명/18명)",
     "teacherTenure": {
-      "under1": 7,
+      "under1": 39,
       "year1to2": 0,
-      "year2to4": 5,
-      "year4to6": 4,
-      "over6": 2
+      "year2to4": 28,
+      "year4to6": 22,
+      "over6": 11
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0bc5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d7c-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "27260",
     "name": "���구동원초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대구광역시 수성구 국채보상로 1000",
     "latitude": 35.8653048697404,
     "longitude": 128.640021348355,
@@ -388,11 +401,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~16시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -400,7 +413,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d7c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0def-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "27260",
     "name": "색동유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 충의로8길 33",
     "latitude": 35.8671672315384,
     "longitude": 128.646489904396,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "44% (7명/16명)",
     "teacherTenure": {
-      "under1": 10,
-      "year1to2": 3,
-      "year2to4": 4,
+      "under1": 59,
+      "year1to2": 18,
+      "year2to4": 24,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0def-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e12-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "27260",
     "name": "하늘유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 노변공원로3길 10",
     "latitude": 35.8403226239794,
     "longitude": 128.699930631266,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (5명/15명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 5,
-      "year2to4": 3,
-      "year4to6": 1,
+      "under1": 40,
+      "year1to2": 33,
+      "year2to4": 20,
+      "year4to6": 7,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e12-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "47325042-a2a4-4c97-9269-81a71d89dc96",
@@ -470,6 +485,7 @@
     "sggCode": "27260",
     "name": "수성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 신천동로96길 45",
     "latitude": 35.864778144976,
     "longitude": 128.616138766358,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "21% (4명/19명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 6,
-      "year2to4": 4,
+      "under1": 42,
+      "year1to2": 32,
+      "year2to4": 21,
       "year4to6": 0,
-      "over6": 1
+      "over6": 5
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=47325042-a2a4-4c97-9269-81a71d89dc96",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "5e20bd24-3f05-4742-8b2a-76b4e5c68556",
@@ -501,6 +517,7 @@
     "sggCode": "27260",
     "name": "자연누리유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대구광역시 수성구 노변로 100",
     "latitude": 35.840082548934,
     "longitude": 128.700946606504,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~17시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "94% (15명/16명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 6,
-      "year2to4": 5,
-      "year4to6": 2,
+      "under1": 7,
+      "year1to2": 43,
+      "year2to4": 36,
+      "year4to6": 14,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=5e20bd24-3f05-4742-8b2a-76b4e5c68556",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "9ebeeeee-7d46-43bb-ae4c-476cfe4d396c",
@@ -532,6 +549,7 @@
     "sggCode": "27260",
     "name": "대구두산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대구광역시 수성구 동대구로6길 31",
     "latitude": 35.8325972943382,
     "longitude": 128.626088851145,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~16시30분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year1to2": 50,
+      "year2to4": 25,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=9ebeeeee-7d46-43bb-ae4c-476cfe4d396c",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "b8687da7-496c-4889-8871-9ea447d5daa0",
@@ -563,6 +581,7 @@
     "sggCode": "27260",
     "name": "하늘빛유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 지범로40길 11",
     "latitude": 35.8184909364,
     "longitude": 128.642609143,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 25,
+      "year1to2": 25,
+      "year2to4": 25,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=b8687da7-496c-4889-8871-9ea447d5daa0",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "cd4ea21d-a3a8-455e-8506-127f8134c959",
@@ -594,6 +613,7 @@
     "sggCode": "27260",
     "name": "사랑숲유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 용학로 272",
     "latitude": 35.8204994656,
     "longitude": 128.6393842982,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 33,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=cd4ea21d-a3a8-455e-8506-127f8134c959",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "faf248f7-04d1-47b6-9dac-7c1cf6876d0f",
@@ -625,6 +645,7 @@
     "sggCode": "27260",
     "name": "만촌아이숲유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 달구벌대로522길 166",
     "latitude": 35.8513365106004,
     "longitude": 128.644152359729,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "19% (3명/16명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 3,
-      "year2to4": 4,
-      "year4to6": 1,
+      "under1": 50,
+      "year1to2": 19,
+      "year2to4": 25,
+      "year4to6": 6,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=faf248f7-04d1-47b6-9dac-7c1cf6876d0f",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-03fc-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "27260",
     "name": "이바유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 파동로30길 61",
     "latitude": 35.82153276847759,
     "longitude": 128.61551920110531,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "44% (8명/18명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 2,
-      "year2to4": 5,
-      "year4to6": 5,
-      "over6": 1
+      "under1": 28,
+      "year1to2": 11,
+      "year2to4": 28,
+      "year4to6": 28,
+      "over6": 5
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-03fc-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02f7-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "27260",
     "name": "개나리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 무학로37안길 20-5",
     "latitude": 35.8331864909519,
     "longitude": 128.628205718681,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "45% (5명/11명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 5,
+      "under1": 36,
+      "year1to2": 18,
+      "year2to4": 45,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02f7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-02ea-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "27260",
     "name": "보노유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 국채보상로 955-2",
     "latitude": 35.8679180671667,
     "longitude": 128.635305963356,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "63% (12명/19명)",
     "teacherTenure": {
-      "under1": 9,
-      "year1to2": 1,
-      "year2to4": 7,
+      "under1": 47,
+      "year1to2": 5,
+      "year2to4": 37,
       "year4to6": 0,
-      "over6": 2
+      "over6": 11
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-02ea-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f283-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "27260",
     "name": "프랜즈유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 ��채보상로200길 9",
     "latitude": 35.8653675815263,
     "longitude": 128.640443130316,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "43% (9명/21명)",
     "teacherTenure": {
-      "under1": 10,
-      "year1to2": 2,
-      "year2to4": 5,
-      "year4to6": 1,
-      "over6": 3
+      "under1": 48,
+      "year1to2": 10,
+      "year2to4": 24,
+      "year4to6": 5,
+      "over6": 13
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f283-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f284-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "27260",
     "name": "동영유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 파동로51길 80",
     "latitude": 35.8069579558841,
     "longitude": 128.615847681657,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "27% (6명/22명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 4,
-      "year2to4": 5,
-      "year4to6": 3,
-      "over6": 3
+      "under1": 35,
+      "year1to2": 17,
+      "year2to4": 22,
+      "year4to6": 13,
+      "over6": 13
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f284-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f35d-b044-e053-0a32095ab044",
@@ -811,6 +837,7 @@
     "sggCode": "27260",
     "name": "대구동천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대구광역시 수성구 상록로16길 20",
     "latitude": 35.8655376355579,
     "longitude": 128.625760005014,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f35d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f35e-b044-e053-0a32095ab044",
@@ -842,6 +869,7 @@
     "sggCode": "27260",
     "name": "대구범어초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대구광역시 수성구 달구벌대로489길 55",
     "latitude": 35.8606781202332,
     "longitude": 128.63277279298,
@@ -853,11 +881,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시20분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -865,7 +893,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f35e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f36b-b044-e053-0a32095ab044",
@@ -873,6 +901,7 @@
     "sggCode": "27260",
     "name": "아일랜드유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 국채보상로 990-10",
     "latitude": 35.865397454869,
     "longitude": 128.638339138769,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "46% (6명/13명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 6,
-      "year2to4": 3,
+      "under1": 23,
+      "year1to2": 46,
+      "year2to4": 23,
       "year4to6": 0,
-      "over6": 1
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f36b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f87e-b044-e053-0a32095ab044",
@@ -904,6 +933,7 @@
     "sggCode": "27260",
     "name": "삼덕유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 지범로48길 27",
     "latitude": 35.8144144654808,
     "longitude": 128.644094992884,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시00��",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (1명/4명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
+      "under1": 75,
+      "year1to2": 25,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f87e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa9a-b044-e053-0a32095ab044",
@@ -935,6 +965,7 @@
     "sggCode": "27260",
     "name": "천사유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 신매로 91",
     "latitude": 35.8374844965591,
     "longitude": 128.706955097883,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa9a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa9b-b044-e053-0a32095ab044",
@@ -966,6 +997,7 @@
     "sggCode": "27260",
     "name": "코오롱아인슈타인유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 수성로 412",
     "latitude": 35.8616557682985,
     "longitude": 128.615002950571,
@@ -977,11 +1009,11 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (1명/5명)",
     "teacherTenure": {
-      "under1": 5,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -989,7 +1021,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa9b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcd2-b044-e053-0a32095ab044",
@@ -997,6 +1029,7 @@
     "sggCode": "27260",
     "name": "아이온유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 지범로31안길 5",
     "latitude": 35.8244918602918,
     "longitude": 128.640616338083,
@@ -1008,19 +1041,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcd2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcf5-b044-e053-0a32095ab044",
@@ -1028,6 +1061,7 @@
     "sggCode": "27260",
     "name": "대구중앙초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대구광역시 수성구 만촌로 125",
     "latitude": 35.8694585260256,
     "longitude": 128.640477385611,
@@ -1039,19 +1073,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
+      "year1to2": 33,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcf5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe1a-b044-e053-0a32095ab044",
@@ -1059,6 +1093,7 @@
     "sggCode": "27260",
     "name": "고운유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 노변공원로 75-7",
     "latitude": 35.83595987861,
     "longitude": 128.698315991271,
@@ -1070,19 +1105,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 2,
+      "under1": 20,
+      "year1to2": 20,
+      "year2to4": 40,
       "year4to6": 0,
-      "over6": 1
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe1a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe84-b044-e053-0a32095ab044",
@@ -1090,6 +1125,7 @@
     "sggCode": "27260",
     "name": "금강숲유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 동대구로50길 108",
     "latitude": 35.8493790073411,
     "longitude": 128.628734053567,
@@ -1101,19 +1137,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (4명/12명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
-      "year2to4": 3,
-      "year4to6": 3,
-      "over6": 2
+      "under1": 8,
+      "year1to2": 25,
+      "year2to4": 25,
+      "year4to6": 25,
+      "over6": 17
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe84-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe86-b044-e053-0a32095ab044",
@@ -1121,6 +1157,7 @@
     "sggCode": "27260",
     "name": "대구동도초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대구광역시 수성구 동대구로57길 8",
     "latitude": 35.8570946157498,
     "longitude": 128.624017051354,
@@ -1132,19 +1169,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시10분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
-      "year2to4": 1,
+      "year1to2": 75,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe86-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fed4-b044-e053-0a32095ab044",
@@ -1152,6 +1189,7 @@
     "sggCode": "27260",
     "name": "예나유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 욱수천로 133",
     "latitude": 35.8397186314952,
     "longitude": 128.716780116514,
@@ -1163,19 +1201,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 0
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fed4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ffb1-b044-e053-0a32095ab044",
@@ -1183,6 +1221,7 @@
     "sggCode": "27260",
     "name": "해맑은몬테소리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 들안로32길 19",
     "latitude": 35.8445376961092,
     "longitude": 128.618022068596,
@@ -1194,19 +1233,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (7명/7명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 29,
       "year1to2": 0,
-      "year2to4": 4,
+      "year2to4": 57,
       "year4to6": 0,
-      "over6": 1
+      "over6": 14
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ffb1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0081-b044-e053-0a32095ab044",
@@ -1214,6 +1253,7 @@
     "sggCode": "27260",
     "name": "자연아이유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 동원로12길 12",
     "latitude": 35.863668201757,
     "longitude": 128.640247108993,
@@ -1225,19 +1265,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "42% (5명/12명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 5,
+      "under1": 42,
+      "year1to2": 42,
       "year2to4": 0,
-      "year4to6": 2,
+      "year4to6": 17,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0081-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00b7-b044-e053-0a32095ab044",
@@ -1245,6 +1285,7 @@
     "sggCode": "27260",
     "name": "대구동문초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대구광역시 수성구 효행로2길 111",
     "latitude": 35.874837668258,
     "longitude": 128.652425919032,
@@ -1256,19 +1297,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 50,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00b7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0119-b044-e053-0a32095ab044",
@@ -1276,6 +1317,7 @@
     "sggCode": "27260",
     "name": "동신유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 교학로4길 39",
     "latitude": 35.8550337697428,
     "longitude": 128.650293106047,
@@ -1287,19 +1329,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/4명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0119-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-011a-b044-e053-0a32095ab044",
@@ -1307,6 +1349,7 @@
     "sggCode": "27260",
     "name": "무열대유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 만촌동 599-1",
     "latitude": 35.863331360586,
     "longitude": 128.651831502459,
@@ -1318,19 +1361,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "56% (5명/9명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 3
+      "under1": 22,
+      "year1to2": 22,
+      "year2to4": 11,
+      "year4to6": 11,
+      "over6": 34
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-011a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-011b-b044-e053-0a32095ab044",
@@ -1338,6 +1381,7 @@
     "sggCode": "27260",
     "name": "무지개유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "대구광역시 수성구 용학로 197",
     "latitude": 35.8219628437823,
     "longitude": 128.630515438059,
@@ -1349,19 +1393,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (4명/7명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 43,
+      "year1to2": 14,
+      "year2to4": 14,
+      "year4to6": 14,
+      "over6": 15
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-011b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "fe5b7268-8657-4654-8ea1-002c91dc9e23",
@@ -1369,6 +1413,7 @@
     "sggCode": "27260",
     "name": "대구황금유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "대구광역시 수성구 청호로 286",
     "latitude": 35.8430524473462,
     "longitude": 128.639654075643,
@@ -1380,18 +1425,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "84% (16명/19명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 5,
-      "year2to4": 5,
-      "year4to6": 1,
-      "over6": 0
+      "under1": 31,
+      "year1to2": 31,
+      "year2to4": 31,
+      "year4to6": 6,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=fe5b7268-8657-4654-8ea1-002c91dc9e23",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

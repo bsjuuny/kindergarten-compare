@@ -5,6 +5,7 @@
     "sggCode": "26350",
     "name": "해뜨는유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 청사포로 27",
     "latitude": 35.1670237280943,
     "longitude": 129.18471393712,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (1명/5명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 1,
+      "under1": 80,
+      "year1to2": 20,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef8b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcba-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "26350",
     "name": "인천유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 재반로12번길 16",
     "latitude": 35.1796346630891,
     "longitude": 129.127728057044,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (3명/8명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 4,
+      "under1": 11,
+      "year1to2": 44,
       "year2to4": 0,
-      "year4to6": 3,
-      "over6": 1
+      "year4to6": 33,
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcba-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcc9-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "26350",
     "name": "풀꽃유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 선수촌로 122",
     "latitude": 35.200273278656134,
     "longitude": 129.120907374886,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (5명/10명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 4,
+      "under1": 30,
+      "year1to2": 40,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 3
+      "over6": 30
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcc9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fec6-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "26350",
     "name": "대림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 대천로103번길 47",
     "latitude": 35.1783505394775,
     "longitude": 129.173386887284,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "10% (1명/10명)",
     "teacherTenure": {
-      "under1": 9,
-      "year1to2": 1,
+      "under1": 90,
+      "year1to2": 10,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fec6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0089-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "26350",
     "name": "재송유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 재반로50번길 22",
     "latitude": 35.1837934088218,
     "longitude": 129.127549627956,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (4명/8명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
-      "year2to4": 1,
-      "year4to6": 3,
+      "under1": 13,
+      "year1to2": 38,
+      "year2to4": 13,
+      "year4to6": 38,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0089-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0096-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "26350",
     "name": "아이윌유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 송정중앙로15번길 107",
     "latitude": 35.1876351241001,
     "longitude": 129.205112709155,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "45% (5명/11명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
-      "year4to6": 2,
-      "over6": 6
+      "year2to4": 27,
+      "year4to6": 18,
+      "over6": 55
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0096-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-010d-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "26350",
     "name": "센텀해운대유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 선수촌로 95",
     "latitude": 35.20025662728115,
     "longitude": 129.1169683680041,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "30% (3명/10명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 3,
-      "year2to4": 4,
+      "under1": 30,
+      "year1to2": 30,
+      "year2to4": 40,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-010d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-04cd-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "26350",
     "name": "운봉초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 신반송로 11-20",
     "latitude": 35.2292827348137,
     "longitude": 129.159183320154,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (6명/6명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-04cd-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-08f3-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "26350",
     "name": "중일유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 좌동순환로468번길 29",
     "latitude": 35.1628204796073,
     "longitude": 129.172417139873,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "64% (7명/11명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 3,
+      "under1": 36,
+      "year1to2": 27,
       "year2to4": 0,
-      "year4to6": 3,
-      "over6": 1
+      "year4to6": 27,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-08f3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-097d-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "26350",
     "name": "은혜유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 선수촌로21번길 35",
     "latitude": 35.1957960101639,
     "longitude": 129.116333319451,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "27% (4명/15명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 5,
-      "year2to4": 4,
+      "under1": 20,
+      "year1to2": 33,
+      "year2to4": 27,
       "year4to6": 0,
-      "over6": 3
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-097d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0bb5-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "26350",
     "name": "동부산대학교부속유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 운봉길 60",
     "latitude": 35.2329341551597,
     "longitude": 129.147237476836,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 2
+      "over6": 67
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0bb5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0bb6-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "26350",
     "name": "마리나유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 해운대해변로 139",
     "latitude": 35.1596368249224,
     "longitude": 129.147566237556,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "56% (5명/9명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 4,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 2
+      "year1to2": 44,
+      "year2to4": 22,
+      "year4to6": 11,
+      "over6": 23
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0bb6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d63-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "26350",
     "name": "해성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 중동2로 20-3",
     "latitude": 35.1638701263515,
     "longitude": 129.164565173132,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "42% (5명/12명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 1,
+      "under1": 55,
+      "year1to2": 9,
       "year2to4": 0,
-      "year4to6": 4,
+      "year4to6": 36,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d63-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "75fe8b52-ac01-4245-9261-c05121e84a5f",
@@ -408,6 +421,7 @@
     "sggCode": "26350",
     "name": "반산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 재반로 171",
     "latitude": 35.1938907819845,
     "longitude": 129.129260127931,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=75fe8b52-ac01-4245-9261-c05121e84a5f",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "85fc9e22-57f9-4ade-ae04-73277732e874",
@@ -439,6 +453,7 @@
     "sggCode": "26350",
     "name": "강동유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 해운대로349번길 10",
     "latitude": 35.1723205773,
     "longitude": 129.1367468266,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "86% (12명/14명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
-      "year2to4": 4,
-      "year4to6": 3,
-      "over6": 0
+      "under1": 9,
+      "year1to2": 27,
+      "year2to4": 36,
+      "year4to6": 27,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=85fc9e22-57f9-4ade-ae04-73277732e874",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "9125bfd7-945e-473f-aabd-6115d62e4faa",
@@ -470,6 +485,7 @@
     "sggCode": "26350",
     "name": "양운초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 대천로67번길 36",
     "latitude": 35.1744985354088,
     "longitude": 129.166356182212,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=9125bfd7-945e-473f-aabd-6115d62e4faa",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa86-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "26350",
     "name": "동성제일유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 해운대로349번길 24",
     "latitude": 35.1739380914562,
     "longitude": 129.136380198157,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "64% (7명/11명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 40,
+      "year1to2": 10,
+      "year2to4": 10,
+      "year4to6": 20,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa86-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa23-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "26350",
     "name": "고은유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 대천로 225",
     "latitude": 35.1677763499087,
     "longitude": 129.180705455279,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (1명/4명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa23-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f0e3-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "26350",
     "name": "해운대자연유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 대천로103번길 61",
     "latitude": 35.1806671446303,
     "longitude": 129.173865905375,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (3명/15명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 5,
+      "under1": 40,
+      "year1to2": 33,
       "year2to4": 0,
-      "year4to6": 4,
+      "year4to6": 27,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f0e3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f211-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "26350",
     "name": "센텀유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 센텀중앙로 142",
     "latitude": 35.1795023887413,
     "longitude": 129.12327581873,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "29% (5명/17명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 2,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 3
+      "under1": 47,
+      "year1to2": 12,
+      "year2to4": 18,
+      "year4to6": 6,
+      "over6": 17
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f211-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f34a-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "26350",
     "name": "파랑새유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 신반송로 21",
     "latitude": 35.2288226575663,
     "longitude": 129.158479520193,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 40,
       "year4to6": 0,
-      "over6": 3
+      "over6": 60
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f34a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f34b-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "26350",
     "name": "해강유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 해운대해변로 87",
     "latitude": 35.1617682236844,
     "longitude": 129.143183665359,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "36% (4명/11명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 3,
-      "year2to4": 2,
+      "under1": 45,
+      "year1to2": 27,
+      "year2to4": 18,
       "year4to6": 0,
-      "over6": 1
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f34b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3c0-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "26350",
     "name": "여명유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 재반로118번길 92",
     "latitude": 35.1910857300119,
     "longitude": 129.130681300055,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 50,
       "year4to6": 0,
-      "over6": 1
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3c0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3c9-b044-e053-0a32095ab044",
@@ -718,6 +741,7 @@
     "sggCode": "26350",
     "name": "반여초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 재반로 301",
     "latitude": 35.2027289472566,
     "longitude": 129.129470247688,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
-      "year2to4": 1,
+      "year1to2": 75,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3c9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5ed-b044-e053-0a32095ab044",
@@ -749,6 +773,7 @@
     "sggCode": "26350",
     "name": "더푸른유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 좌동순환로433번길 30-3",
     "latitude": 35.1641105411093,
     "longitude": 129.181532224803,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (12명/18명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 6,
-      "year2to4": 4,
-      "year4to6": 2,
-      "over6": 1
+      "under1": 28,
+      "year1to2": 33,
+      "year2to4": 22,
+      "year4to6": 11,
+      "over6": 6
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5ed-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5f5-b044-e053-0a32095ab044",
@@ -780,6 +805,7 @@
     "sggCode": "26350",
     "name": "대동유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 대천로103번길 29",
     "latitude": 35.1760213375938,
     "longitude": 129.172371743393,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (2명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 4,
-      "year2to4": 1,
-      "year4to6": 3,
+      "under1": 20,
+      "year1to2": 40,
+      "year2to4": 10,
+      "year4to6": 30,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5f5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5f6-b044-e053-0a32095ab044",
@@ -811,6 +837,7 @@
     "sggCode": "26350",
     "name": "대우사랑유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 좌동순환로 275",
     "latitude": 35.1719037624274,
     "longitude": 129.184091144475,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (5명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 20,
+      "year1to2": 10,
+      "year2to4": 30,
+      "year4to6": 20,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5f6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5f7-b044-e053-0a32095ab044",
@@ -842,6 +869,7 @@
     "sggCode": "26350",
     "name": "버드내유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 우동2로 40-5",
     "latitude": 35.1679922081125,
     "longitude": 129.158410831613,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
+      "year1to2": 50,
+      "year2to4": 25,
       "year4to6": 0,
-      "over6": 1
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5f7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f7f2-b044-e053-0a32095ab044",
@@ -873,6 +901,7 @@
     "sggCode": "26350",
     "name": "푸른유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 세실로 19",
     "latitude": 35.1672898700581,
     "longitude": 129.180548317713,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (5명/10명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 40,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 2,
-      "over6": 3
+      "year2to4": 10,
+      "year4to6": 20,
+      "over6": 30
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f7f2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f7fe-b044-e053-0a32095ab044",
@@ -904,6 +933,7 @@
     "sggCode": "26350",
     "name": "센텀항도유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 해운대로61번길 107-22",
     "latitude": 35.1951892522393,
     "longitude": 129.130318494655,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "63% (5명/8명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 13,
+      "year4to6": 13,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f7fe-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f86c-b044-e053-0a32095ab044",
@@ -935,6 +965,7 @@
     "sggCode": "26350",
     "name": "왕자와공주유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 좌동순환로299번길 11",
     "latitude": 35.170662480115034,
     "longitude": 129.18296979655173,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "44% (4명/9명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 3,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 33,
+      "year1to2": 11,
+      "year2to4": 33,
+      "year4to6": 11,
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f86c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f9bf-b044-e053-0a32095ab044",
@@ -966,6 +997,7 @@
     "sggCode": "26350",
     "name": "쁘띠포레유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 양운로 182",
     "latitude": 35.1787082298152,
     "longitude": 129.169942875198,
@@ -977,19 +1009,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "38% (5명/13명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 2,
-      "year2to4": 3,
+      "under1": 54,
+      "year1to2": 15,
+      "year2to4": 23,
       "year4to6": 0,
-      "over6": 1
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f9bf-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f9c2-b044-e053-0a32095ab044",
@@ -997,6 +1029,7 @@
     "sggCode": "26350",
     "name": "송수초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 해운대로76번길 35",
     "latitude": 35.1898839285016,
     "longitude": 129.119259493416,
@@ -1008,19 +1041,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "71% (5명/7명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year1to2": 50,
+      "year2to4": 25,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f9c2-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "e3c8e957-87e4-42a6-940f-7791321bfb93",
@@ -1028,6 +1061,7 @@
     "sggCode": "26350",
     "name": "좌동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 해운대구 세실로 127",
     "latitude": 35.1760155328995,
     "longitude": 129.175142114786,
@@ -1039,18 +1073,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "83% (5명/6명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
+      "year1to2": 33,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=e3c8e957-87e4-42a6-940f-7791321bfb93",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

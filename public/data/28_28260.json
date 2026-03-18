@@ -5,6 +5,7 @@
     "sggCode": "28260",
     "name": "인천검단꿈유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 이음1로 350",
     "latitude": 37.591955314671,
     "longitude": 126.718945117075,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (10명/15명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 18,
+      "under1": 10,
+      "year1to2": 90,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=09171666-87e3-4dbf-9a7a-a325bbb98806",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c86-b044-e053-0a32095ab044",
@@ -36,6 +37,7 @@
     "sggCode": "28260",
     "name": "경서유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 경서로56번길 7-2",
     "latitude": 37.5573899845573,
     "longitude": 126.654785495867,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (6명/12명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 4,
-      "year4to6": 2,
-      "over6": 1
+      "under1": 25,
+      "year1to2": 17,
+      "year2to4": 33,
+      "year4to6": 17,
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c86-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0c18-b044-e053-0a32095ab044",
@@ -67,6 +69,7 @@
     "sggCode": "28260",
     "name": "인천능내초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 검단로540번길 23",
     "latitude": 37.6028949248239,
     "longitude": 126.665868690246,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0c18-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0ba9-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "28260",
     "name": "인천석남초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 서달로130번길 4",
     "latitude": 37.5103904475646,
     "longitude": 126.680324193283,
@@ -109,11 +113,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -121,7 +125,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0ba9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b9b-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "28260",
     "name": "꿈드림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 장고개로280번길 7-1",
     "latitude": 37.4882261045595,
     "longitude": 126.683661475435,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 75,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b9b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b92-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "28260",
     "name": "인천완정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 완정로 99",
     "latitude": 37.5984981869205,
     "longitude": 126.664330376533,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b92-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0a31-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "28260",
     "name": "프라임청라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 청라한울로59번길 5",
     "latitude": 37.5393445015862,
     "longitude": 126.642923079434,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "56% (10명/18명)",
     "teacherTenure": {
-      "under1": 8,
-      "year1to2": 4,
-      "year2to4": 5,
-      "year4to6": 1,
+      "under1": 44,
+      "year1to2": 22,
+      "year2to4": 28,
+      "year4to6": 6,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0a31-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0a2d-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "28260",
     "name": "인천경명초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 크리스탈로 130",
     "latitude": 37.5369999682125,
     "longitude": 126.637330838767,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (4명/7명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 2
+      "year2to4": 25,
+      "year4to6": 25,
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0a2d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09de-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "28260",
     "name": "한울유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 서곶로 818",
     "latitude": 37.5889302275643,
     "longitude": 126.67568550241,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "27% (3명/11명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 4
+      "under1": 9,
+      "year1to2": 18,
+      "year2to4": 18,
+      "year4to6": 18,
+      "over6": 37
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09de-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09d4-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "28260",
     "name": "인천검단초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 마전로115번길 24",
     "latitude": 37.610782784242,
     "longitude": 126.669625637541,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (4명/6명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
+      "year1to2": 67,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09d4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09d3-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "28260",
     "name": "예일유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 장고개로337번길 12",
     "latitude": 37.4930850303761,
     "longitude": 126.685849866388,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "27% (3명/11명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 3,
-      "year2to4": 3,
+      "under1": 27,
+      "year1to2": 27,
+      "year2to4": 27,
       "year4to6": 0,
-      "over6": 2
+      "over6": 19
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09d3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-09c8-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "28260",
     "name": "산울림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 봉수대로 1548-15",
     "latitude": 37.6118466205044,
     "longitude": 126.644553794755,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-09c8-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0806-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "28260",
     "name": "다은유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 청중로478번길 9",
     "latitude": 37.5291874936285,
     "longitude": 126.664831304063,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "27% (6명/22명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 4,
-      "year2to4": 7,
-      "year4to6": 1,
+      "under1": 37,
+      "year1to2": 21,
+      "year2to4": 37,
+      "year4to6": 5,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0806-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-07a7-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "28260",
     "name": "희망찬유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 단봉로139번길 3-2",
     "latitude": 37.596842995231,
     "longitude": 126.636608549267,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (6명/12명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 3,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 46,
+      "year1to2": 23,
+      "year2to4": 15,
+      "year4to6": 8,
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-07a7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0639-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "28260",
     "name": "인천가정초���학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 장고개로 336-1",
     "latitude": 37.4916642600643,
     "longitude": 126.688433097439,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0639-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0638-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "28260",
     "name": "인천신현북초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 원창로 147",
     "latitude": 37.5187555333193,
     "longitude": 126.666252441436,
@@ -481,11 +497,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -493,7 +509,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0638-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0583-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "28260",
     "name": "인천당하초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 청마로 144",
     "latitude": 37.5902298782334,
     "longitude": 126.678002342655,
@@ -512,11 +529,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -524,7 +541,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0583-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0582-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "28260",
     "name": "인천금곡초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 완정로228번길 19",
     "latitude": 37.6056408728472,
     "longitude": 126.650900538639,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00��",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0582-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0383-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "28260",
     "name": "리라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 원당대로839번안길 6",
     "latitude": 37.5951315418415,
     "longitude": 126.694376246183,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (5명/10명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 4,
-      "year2to4": 1,
-      "year4to6": 1,
+      "under1": 40,
+      "year1to2": 40,
+      "year2to4": 10,
+      "year4to6": 10,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0383-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0382-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "28260",
     "name": "인천은지초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 승학로572번��� 22",
     "latitude": 37.5647003620918,
     "longitude": 126.684990340621,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
+      "year1to2": 33,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0382-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-020d-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "28260",
     "name": "인천봉수초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 봉오대로267번길 11-4",
     "latitude": 37.5260089942471,
     "longitude": 126.678138199166,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "83% (5명/6명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
+      "year1to2": 67,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-020d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0d9c-b044-e053-0a32095ab044",
@@ -656,6 +677,7 @@
     "sggCode": "28260",
     "name": "큰사랑유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 완정로64번길 7",
     "latitude": 37.5983240763012,
     "longitude": 126.667624594707,
@@ -667,19 +689,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (6명/12명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 4,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 3
+      "under1": 17,
+      "year1to2": 33,
+      "year2to4": 17,
+      "year4to6": 8,
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0d9c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e31-b044-e053-0a32095ab044",
@@ -687,6 +709,7 @@
     "sggCode": "28260",
     "name": "뿌리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 강남로 1",
     "latitude": 37.5100487856193,
     "longitude": 126.671660191716,
@@ -698,19 +721,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 2,
+      "year2to4": 33,
+      "year4to6": 67,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e31-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "eb1688e9-2124-479c-8481-2b172a2e4ae2",
@@ -718,6 +741,7 @@
     "sggCode": "28260",
     "name": "인천해든초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 서로3로 60",
     "latitude": 37.5854180672191,
     "longitude": 126.707693715656,
@@ -729,19 +753,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 67,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=eb1688e9-2124-479c-8481-2b172a2e4ae2",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "cd9df4ab-6bb2-4a43-ba77-cc26bca57371",
@@ -749,6 +773,7 @@
     "sggCode": "28260",
     "name": "인천아라초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 서로2로 42",
     "latitude": 37.5850829089864,
     "longitude": 126.703543102191,
@@ -760,19 +785,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (2명/8명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 5,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=cd9df4ab-6bb2-4a43-ba77-cc26bca57371",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "bda5136a-12ec-46e5-b477-5117f76624b1",
@@ -780,6 +805,7 @@
     "sggCode": "28260",
     "name": "인천아람초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 이음1로 289",
     "latitude": 37.5872392406793,
     "longitude": 126.71641118605,
@@ -791,19 +817,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 4,
+      "year1to2": 20,
+      "year2to4": 80,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=bda5136a-12ec-46e5-b477-5117f76624b1",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "b4404be1-1beb-4154-8ada-4f8c37cb749e",
@@ -811,6 +837,7 @@
     "sggCode": "28260",
     "name": "인천아라꿈유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 서로2로 28",
     "latitude": 37.5842914771335,
     "longitude": 126.702861393417,
@@ -822,19 +849,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "90% (19명/21명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 20,
+      "under1": 8,
+      "year1to2": 8,
+      "year2to4": 83,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=b4404be1-1beb-4154-8ada-4f8c37cb749e",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "9396c34f-9bf3-4b6b-9895-0c3017f4d274",
@@ -842,6 +869,7 @@
     "sggCode": "28260",
     "name": "인천이음초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 이음1로 447",
     "latitude": 37.5987879150409,
     "longitude": 126.712121817112,
@@ -853,19 +881,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (4명/6명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 6,
+      "year1to2": 14,
+      "year2to4": 86,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=9396c34f-9bf3-4b6b-9895-0c3017f4d274",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "907f4f36-1fcf-4f9a-a318-5325a96cb334",
@@ -873,6 +901,7 @@
     "sggCode": "28260",
     "name": "인천서곶초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 대평로56번길 9",
     "latitude": 37.5478427104067,
     "longitude": 126.6694054563,
@@ -884,19 +913,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=907f4f36-1fcf-4f9a-a318-5325a96cb334",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "8e8864ec-6fc2-44d9-b9c3-b011bd3165c7",
@@ -904,6 +933,7 @@
     "sggCode": "28260",
     "name": "인천경연초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 차오름로 64",
     "latitude": 37.5384965110243,
     "longitude": 126.62623626893,
@@ -915,19 +945,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "71% (5명/7명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
+      "under1": 67,
+      "year1to2": 33,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=8e8864ec-6fc2-44d9-b9c3-b011bd3165c7",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "887f8c27-2101-4844-a3ef-5ed134ba529b",
@@ -935,6 +965,7 @@
     "sggCode": "28260",
     "name": "세라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 경서로 80",
     "latitude": 37.5595593615,
     "longitude": 126.6538249616,
@@ -946,19 +977,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "18% (3명/17명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 6,
-      "year4to6": 2,
-      "over6": 3
+      "under1": 24,
+      "year1to2": 12,
+      "year2to4": 35,
+      "year4to6": 12,
+      "over6": 17
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=887f8c27-2101-4844-a3ef-5ed134ba529b",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "74b73279-0cd0-40ed-938d-0d1ea5adfb42",
@@ -966,6 +997,7 @@
     "sggCode": "28260",
     "name": "인천서로꿈유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 당곡로24번안길 22",
     "latitude": 37.6022921519,
     "longitude": 126.7146549438,
@@ -977,19 +1009,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "93% (14명/15명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 4,
-      "year2to4": 13,
+      "under1": 11,
+      "year1to2": 21,
+      "year2to4": 68,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=74b73279-0cd0-40ed-938d-0d1ea5adfb42",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "71e00d09-e9bf-4ca6-b122-d57f9371d298",
@@ -997,6 +1029,7 @@
     "sggCode": "28260",
     "name": "인천한별초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 서로3로 201",
     "latitude": 37.5976163473663,
     "longitude": 126.706628117032,
@@ -1008,19 +1041,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 60,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 20,
+      "year4to6": 20,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=71e00d09-e9bf-4ca6-b122-d57f9371d298",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "69a3e795-426a-4f10-8403-430ac5e69873",
@@ -1028,6 +1061,7 @@
     "sggCode": "28260",
     "name": "인천백석초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 청마로 55",
     "latitude": 37.5898040025485,
     "longitude": 126.671749669512,
@@ -1039,19 +1073,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 1
+      "over6": 34
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=69a3e795-426a-4f10-8403-430ac5e69873",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "63a230bc-cc5f-437a-8fa2-5e2ddb97db1a",
@@ -1059,6 +1093,7 @@
     "sggCode": "28260",
     "name": "인천검단나래유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 고산후로310번길 16",
     "latitude": 37.61075391848,
     "longitude": 126.699116185362,
@@ -1070,11 +1105,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "34% (10명/29명)",
     "teacherTenure": {
-      "under1": 20,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1082,7 +1117,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=63a230bc-cc5f-437a-8fa2-5e2ddb97db1a",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "53264948-e537-4c39-a5b7-780729b8c3dd",
@@ -1090,6 +1125,7 @@
     "sggCode": "28260",
     "name": "일영유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 고산로45번길 4",
     "latitude": 37.5970950980688,
     "longitude": 126.700275254431,
@@ -1101,19 +1137,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "46% (6명/13명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 3,
-      "year2to4": 1,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 38,
+      "year1to2": 23,
+      "year2to4": 8,
+      "year4to6": 15,
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=53264948-e537-4c39-a5b7-780729b8c3dd",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "41fa5f04-6407-4870-9daa-e112198cd2fa",
@@ -1121,6 +1157,7 @@
     "sggCode": "28260",
     "name": "인천푸른빛유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 청라한내로 145",
     "latitude": 37.5381981193176,
     "longitude": 126.627982479842,
@@ -1132,19 +1169,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (9명/12명)",
     "teacherTenure": {
-      "under1": 6,
-      "year1to2": 2,
-      "year2to4": 4,
+      "under1": 50,
+      "year1to2": 17,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=41fa5f04-6407-4870-9daa-e112198cd2fa",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "3526a83f-21be-4efc-8de5-d9bb6c307609",
@@ -1152,6 +1189,7 @@
     "sggCode": "28260",
     "name": "인천서현유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 새오개로111번안길 7",
     "latitude": 37.521452563,
     "longitude": 126.6644082736,
@@ -1163,19 +1201,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "90% (9명/10명)",
     "teacherTenure": {
-      "under1": 4,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 8,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=3526a83f-21be-4efc-8de5-d9bb6c307609",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "301ce14b-30aa-4d2d-be5c-7f417f2791c8",
@@ -1183,6 +1221,7 @@
     "sggCode": "28260",
     "name": "예빛유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 경서로32번길 18",
     "latitude": 37.5555311161956,
     "longitude": 126.656252821572,
@@ -1194,19 +1233,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "58% (7명/12명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 3,
-      "year4to6": 4,
-      "over6": 2
+      "under1": 8,
+      "year1to2": 17,
+      "year2to4": 25,
+      "year4to6": 33,
+      "over6": 17
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=301ce14b-30aa-4d2d-be5c-7f417f2791c8",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "27694cdf-c96d-4ed5-8304-d8502a7a958c",
@@ -1214,6 +1253,7 @@
     "sggCode": "28260",
     "name": "인천가원초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 청중로478번길 6",
     "latitude": 37.5292183483,
     "longitude": 126.6641200662,
@@ -1225,19 +1265,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 4,
-      "year4to6": 1,
+      "year1to2": 17,
+      "year2to4": 67,
+      "year4to6": 17,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=27694cdf-c96d-4ed5-8304-d8502a7a958c",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0f51-b044-e053-0a32095ab044",
@@ -1245,6 +1285,7 @@
     "sggCode": "28260",
     "name": "인천청라초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 청라에메랄드로 139",
     "latitude": 37.537748322,
     "longitude": 126.6556962379,
@@ -1256,19 +1297,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 75,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0f51-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0ef9-b044-e053-0a32095ab044",
@@ -1276,6 +1317,7 @@
     "sggCode": "28260",
     "name": "엔젤유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 청라커낼로 163",
     "latitude": 37.527566817644,
     "longitude": 126.637310410192,
@@ -1287,19 +1329,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "70% (7명/10명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 3,
-      "year4to6": 1,
+      "under1": 40,
+      "year1to2": 20,
+      "year2to4": 30,
+      "year4to6": 10,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0ef9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0e7b-b044-e053-0a32095ab044",
@@ -1307,6 +1349,7 @@
     "sggCode": "28260",
     "name": "산새소리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 서달로 198",
     "latitude": 37.5165811202873,
     "longitude": 126.680362510227,
@@ -1318,19 +1361,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "63% (12명/19명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 3,
-      "year2to4": 8,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 21,
+      "year1to2": 16,
+      "year2to4": 42,
+      "year4to6": 11,
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0e7b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-020b-b044-e053-0a32095ab044",
@@ -1338,6 +1381,7 @@
     "sggCode": "28260",
     "name": "드림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 청라커낼로223번길 13",
     "latitude": 37.5283149540298,
     "longitude": 126.643059938406,
@@ -1349,19 +1393,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (10명/20명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 3,
-      "year2to4": 6,
-      "year4to6": 4,
-      "over6": 4
+      "under1": 19,
+      "year1to2": 14,
+      "year2to4": 29,
+      "year4to6": 19,
+      "over6": 19
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-020b-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-016a-b044-e053-0a32095ab044",
@@ -1369,6 +1413,7 @@
     "sggCode": "28260",
     "name": "인천간재울초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 승학로 433",
     "latitude": 37.5600288291919,
     "longitude": 126.672305165234,
@@ -1380,11 +1425,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -1392,7 +1437,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-016a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f659-b044-e053-0a32095ab044",
@@ -1400,6 +1445,7 @@
     "sggCode": "28260",
     "name": "인천원당초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 원당대로820번길 16",
     "latitude": 37.5925854295907,
     "longitude": 126.691234231971,
@@ -1411,19 +1457,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f659-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5e0-b044-e053-0a32095ab044",
@@ -1431,6 +1477,7 @@
     "sggCode": "28260",
     "name": "인천불로초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 검단로744번1길 50",
     "latitude": 37.613939784309,
     "longitude": 126.689409602504,
@@ -1442,19 +1489,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5e0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f4d0-b044-e053-0a32095ab044",
@@ -1462,6 +1509,7 @@
     "sggCode": "28260",
     "name": "경인무지개유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 건지로318번안길 7",
     "latitude": 37.4964876744208,
     "longitude": 126.67818039038,
@@ -1473,19 +1521,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~13시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 1
+      "year4to6": 50,
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f4d0-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f468-b044-e053-0a32095ab044",
@@ -1493,6 +1541,7 @@
     "sggCode": "28260",
     "name": "인천청일초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 크리스탈로 46",
     "latitude": 37.529258639829,
     "longitude": 126.637363419398,
@@ -1504,19 +1553,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f468-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f461-b044-e053-0a32095ab044",
@@ -1524,6 +1573,7 @@
     "sggCode": "28260",
     "name": "아이사랑유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 도요지로201번길 12",
     "latitude": 37.557893854093,
     "longitude": 126.672731390557,
@@ -1535,19 +1585,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "31% (5명/16명)",
     "teacherTenure": {
-      "under1": 5,
-      "year1to2": 6,
-      "year2to4": 2,
+      "under1": 31,
+      "year1to2": 38,
+      "year2to4": 13,
       "year4to6": 0,
-      "over6": 3
+      "over6": 18
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f461-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f428-b044-e053-0a32095ab044",
@@ -1555,6 +1605,7 @@
     "sggCode": "28260",
     "name": "인천경서초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 경서로31번길 31",
     "latitude": 37.5566407472822,
     "longitude": 126.650984878195,
@@ -1566,19 +1617,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 2,
+      "year2to4": 25,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f428-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f407-b044-e053-0a32095ab044",
@@ -1586,6 +1637,7 @@
     "sggCode": "28260",
     "name": "명문유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 고산로 16",
     "latitude": 37.5943401162335,
     "longitude": 126.701929552028,
@@ -1597,19 +1649,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "17% (1명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 17,
       "year4to6": 0,
-      "over6": 1
+      "over6": 17
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f407-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f3a1-b044-e053-0a32095ab044",
@@ -1617,6 +1669,7 @@
     "sggCode": "28260",
     "name": "바다유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 염곡로311번길 7",
     "latitude": 37.5123592895423,
     "longitude": 126.667610008475,
@@ -1628,19 +1681,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "83% (5명/6명)",
     "teacherTenure": {
-      "under1": 3,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 17,
       "year4to6": 0,
-      "over6": 2
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f3a1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f27a-b044-e053-0a32095ab044",
@@ -1648,6 +1701,7 @@
     "sggCode": "28260",
     "name": "인천검암유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 승학로599번길 45",
     "latitude": 37.5678551826923,
     "longitude": 126.678510888571,
@@ -1659,19 +1713,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 4,
+      "under1": 25,
+      "year1to2": 25,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f27a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f279-b044-e053-0a32095ab044",
@@ -1679,6 +1733,7 @@
     "sggCode": "28260",
     "name": "꼬마정원유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 봉화로15번길 11-7",
     "latitude": 37.5942191128931,
     "longitude": 126.635606600975,
@@ -1690,19 +1745,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "36% (4명/11명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 58,
+      "year1to2": 17,
+      "year2to4": 17,
+      "year4to6": 8,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f279-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f18c-b044-e053-0a32095ab044",
@@ -1710,6 +1765,7 @@
     "sggCode": "28260",
     "name": "무지개유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 검단로487번길 52-1",
     "latitude": 37.6066532939818,
     "longitude": 126.660761045403,
@@ -1721,19 +1777,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "58% (7명/12명)",
     "teacherTenure": {
-      "under1": 7,
-      "year1to2": 2,
-      "year2to4": 3,
+      "under1": 58,
+      "year1to2": 17,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f18c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f0f9-b044-e053-0a32095ab044",
@@ -1741,6 +1797,7 @@
     "sggCode": "28260",
     "name": "인천청람초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 청라커낼로 336",
     "latitude": 37.5386966404449,
     "longitude": 126.645313145497,
@@ -1752,19 +1809,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 75,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f0f9-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f028-b044-e053-0a32095ab044",
@@ -1772,6 +1829,7 @@
     "sggCode": "28260",
     "name": "인천해원초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 청라사파이어로140번길 6",
     "latitude": 37.5266016176142,
     "longitude": 126.626339971099,
@@ -1783,19 +1841,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "56% (5명/9명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 3,
+      "year1to2": 40,
+      "year2to4": 60,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f028-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f027-b044-e053-0a32095ab044",
@@ -1803,6 +1861,7 @@
     "sggCode": "28260",
     "name": "사랑샘유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 원당대로820번2길 5",
     "latitude": 37.5914580877291,
     "longitude": 126.691661228007,
@@ -1814,19 +1873,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "52% (14명/27명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 4,
-      "year2to4": 10,
-      "year4to6": 7,
-      "over6": 3
+      "under1": 14,
+      "year1to2": 14,
+      "year2to4": 36,
+      "year4to6": 25,
+      "over6": 11
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f027-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-eff4-b044-e053-0a32095ab044",
@@ -1834,6 +1893,7 @@
     "sggCode": "28260",
     "name": "해나라유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 고산후로161번안길 35",
     "latitude": 37.6011964318371,
     "longitude": 126.697794363597,
@@ -1845,19 +1905,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "32% (6명/19명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 5,
-      "year2to4": 4,
-      "year4to6": 2,
-      "over6": 4
+      "under1": 21,
+      "year1to2": 26,
+      "year2to4": 21,
+      "year4to6": 11,
+      "over6": 21
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-eff4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efe6-b044-e053-0a32095ab044",
@@ -1865,6 +1925,7 @@
     "sggCode": "28260",
     "name": "인천가현초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 염곡로 417",
     "latitude": 37.5223774868134,
     "longitude": 126.668350964851,
@@ -1876,19 +1937,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efe6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-efdb-b044-e053-0a32095ab044",
@@ -1896,6 +1957,7 @@
     "sggCode": "28260",
     "name": "은하유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 완정로10번길 20",
     "latitude": 37.5958335445309,
     "longitude": 126.674015660695,
@@ -1907,19 +1969,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "20% (2명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 6,
-      "year2to4": 2,
+      "under1": 20,
+      "year1to2": 60,
+      "year2to4": 20,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-efdb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ed21-b044-e053-0a32095ab044",
@@ -1927,6 +1989,7 @@
     "sggCode": "28260",
     "name": "한샘유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 율도로15번길 26-9",
     "latitude": 37.5163641992032,
     "longitude": 126.664965075732,
@@ -1938,19 +2001,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "44% (4명/9명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 2,
+      "under1": 44,
+      "year1to2": 22,
+      "year2to4": 22,
       "year4to6": 0,
-      "over6": 1
+      "over6": 12
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ed21-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ea47a14-024e-4b8b-8d8d-060437609c8d",
@@ -1958,6 +2021,7 @@
     "sggCode": "28260",
     "name": "인천가석초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 서달로 174",
     "latitude": 37.5147572808,
     "longitude": 126.6796754933,
@@ -1969,19 +2033,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ea47a14-024e-4b8b-8d8d-060437609c8d",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "190c0d94-abe3-440d-9f3a-eaa409c15c2e",
@@ -1989,6 +2053,7 @@
     "sggCode": "28260",
     "name": "인천도담초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 청라커낼로 217",
     "latitude": 37.5278638325409,
     "longitude": 126.643991652115,
@@ -2000,19 +2065,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 33,
+      "year1to2": 33,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 0
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=190c0d94-abe3-440d-9f3a-eaa409c15c2e",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f829-b044-e053-0a32095ab044",
@@ -2020,6 +2085,7 @@
     "sggCode": "28260",
     "name": "인천마전초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 완정로34번길 23",
     "latitude": 37.5976879292282,
     "longitude": 126.67046786173,
@@ -2031,19 +2097,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f829-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8b4-b044-e053-0a32095ab044",
@@ -2051,6 +2117,7 @@
     "sggCode": "28260",
     "name": "새한신유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 여우재로 129",
     "latitude": 37.4895407223732,
     "longitude": 126.686079164657,
@@ -2062,19 +2129,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "64% (7명/11명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 6,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 1
+      "under1": 18,
+      "year1to2": 55,
+      "year2to4": 9,
+      "year4to6": 9,
+      "over6": 9
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8b4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0159-b044-e053-0a32095ab044",
@@ -2082,6 +2149,7 @@
     "sggCode": "28260",
     "name": "예지유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 검단로 836",
     "latitude": 37.6169150834011,
     "longitude": 126.691778090633,
@@ -2093,19 +2161,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시50분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (6명/8명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 7,
-      "year4to6": 1,
+      "year2to4": 88,
+      "year4to6": 13,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0159-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00f3-b044-e053-0a32095ab044",
@@ -2113,6 +2181,7 @@
     "sggCode": "28260",
     "name": "청라새싹유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 용두산로26번길 14-5",
     "latitude": 37.546466776769,
     "longitude": 126.670424531804,
@@ -2124,19 +2193,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "71% (15명/21명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 10,
-      "year4to6": 5,
-      "over6": 2
+      "under1": 10,
+      "year1to2": 10,
+      "year2to4": 48,
+      "year4to6": 24,
+      "over6": 8
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00f3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00d6-b044-e053-0a32095ab044",
@@ -2144,6 +2213,7 @@
     "sggCode": "28260",
     "name": "연희유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 탁옥로85번길 6",
     "latitude": 37.5443205863363,
     "longitude": 126.679308269889,
@@ -2155,19 +2225,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 4,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 67,
+      "year4to6": 17,
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00d6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00d5-b044-e053-0a32095ab044",
@@ -2175,6 +2245,7 @@
     "sggCode": "28260",
     "name": "에녹유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 원창로 180",
     "latitude": 37.5175453365528,
     "longitude": 126.669109007834,
@@ -2186,19 +2257,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "year1to2": 33,
+      "year2to4": 33,
+      "year4to6": 33,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00d5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-feb5-b044-e053-0a32095ab044",
@@ -2206,6 +2277,7 @@
     "sggCode": "28260",
     "name": "재은유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 완정로34번길 20",
     "latitude": 37.5974138383066,
     "longitude": 126.671905064798,
@@ -2217,19 +2289,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "44% (4명/9명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 4,
-      "year2to4": 1,
-      "year4to6": 1,
-      "over6": 0
+      "under1": 33,
+      "year1to2": 44,
+      "year2to4": 11,
+      "year4to6": 11,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-feb5-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe26-b044-e053-0a32095ab044",
@@ -2237,6 +2309,7 @@
     "sggCode": "28260",
     "name": "인천공촌초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 심곡로188번길 21",
     "latitude": 37.5489062599019,
     "longitude": 126.683943351351,
@@ -2248,19 +2321,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe26-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fe24-b044-e053-0a32095ab044",
@@ -2268,6 +2341,7 @@
     "sggCode": "28260",
     "name": "인천초은초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 청라에메랄드로 33",
     "latitude": 37.5284232826641,
     "longitude": 126.655848101208,
@@ -2279,19 +2353,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fe24-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd67-b044-e053-0a32095ab044",
@@ -2299,6 +2373,7 @@
     "sggCode": "28260",
     "name": "인천건지초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 건지로318번길 39",
     "latitude": 37.4953097649554,
     "longitude": 126.677942274876,
@@ -2310,19 +2385,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 1,
-      "year2to4": 2,
+      "under1": 50,
+      "year1to2": 17,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd67-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd2c-b044-e053-0a32095ab044",
@@ -2330,6 +2405,7 @@
     "sggCode": "28260",
     "name": "인천봉화초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 건지로250번길 43",
     "latitude": 37.4956731099897,
     "longitude": 126.670350414229,
@@ -2341,19 +2417,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd2c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd2a-b044-e053-0a32095ab044",
@@ -2361,6 +2437,7 @@
     "sggCode": "28260",
     "name": "인천발산초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 고산후로78번길 6",
     "latitude": 37.5901703860538,
     "longitude": 126.698710592008,
@@ -2372,19 +2449,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd2a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fd29-b044-e053-0a32095ab044",
@@ -2392,6 +2469,7 @@
     "sggCode": "28260",
     "name": "인천신석초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 새오개로 9",
     "latitude": 37.5112108358653,
     "longitude": 126.664398026299,
@@ -2403,19 +2481,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fd29-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc7d-b044-e053-0a32095ab044",
@@ -2423,6 +2501,7 @@
     "sggCode": "28260",
     "name": "아림유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 장고개로 375-11",
     "latitude": 37.495562579065,
     "longitude": 126.690799008707,
@@ -2434,19 +2513,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (8명/16명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 4,
-      "over6": 5
+      "under1": 19,
+      "year1to2": 13,
+      "year2to4": 13,
+      "year4to6": 25,
+      "over6": 30
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc7d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc73-b044-e053-0a32095ab044",
@@ -2454,6 +2533,7 @@
     "sggCode": "28260",
     "name": "인천양지초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 승학로197번길 11",
     "latitude": 37.5400249287293,
     "longitude": 126.671194195053,
@@ -2465,19 +2545,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시40분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc73-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc72-b044-e053-0a32095ab044",
@@ -2485,6 +2565,7 @@
     "sggCode": "28260",
     "name": "인천목향초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 고산후로 377",
     "latitude": 37.6164240787806,
     "longitude": 126.694446146975,
@@ -2496,19 +2577,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc72-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-faed-b044-e053-0a32095ab044",
@@ -2516,6 +2597,7 @@
     "sggCode": "28260",
     "name": "예인유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "인천광역시 서구 원당대로819번길 3",
     "latitude": 37.5943876863184,
     "longitude": 126.692096796268,
@@ -2527,19 +2609,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "36% (5명/14명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 4,
-      "over6": 5
+      "under1": 7,
+      "year1to2": 14,
+      "year2to4": 14,
+      "year4to6": 29,
+      "over6": 36
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-faed-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-faea-b044-e053-0a32095ab044",
@@ -2547,6 +2629,7 @@
     "sggCode": "28260",
     "name": "인천왕길초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 봉수대로1440번길 20",
     "latitude": 37.6019781254724,
     "longitude": 126.651058969636,
@@ -2558,19 +2641,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
+      "under1": 50,
+      "year1to2": 50,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-faea-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa74-b044-e053-0a32095ab044",
@@ -2578,6 +2661,7 @@
     "sggCode": "28260",
     "name": "인천창신초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 고산후로161번길 6",
     "latitude": 37.5989225261414,
     "longitude": 126.698213792613,
@@ -2589,19 +2673,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa74-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f915-b044-e053-0a32095ab044",
@@ -2609,6 +2693,7 @@
     "sggCode": "28260",
     "name": "청라유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 솔빛로 68",
     "latitude": 37.5249136840208,
     "longitude": 126.628576418733,
@@ -2620,19 +2705,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (6명/9명)",
     "teacherTenure": {
-      "under1": 3,
-      "year1to2": 4,
-      "year2to4": 5,
+      "under1": 25,
+      "year1to2": 33,
+      "year2to4": 42,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f915-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8d6-b044-e053-0a32095ab044",
@@ -2640,6 +2725,7 @@
     "sggCode": "28260",
     "name": "인천가림초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 장고개로293번길 29",
     "latitude": 37.4905830702816,
     "longitude": 126.681049728096,
@@ -2651,19 +2737,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (1명/2명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 2,
+      "under1": 25,
+      "year1to2": 25,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8d6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f8bf-b044-e053-0a32095ab044",
@@ -2671,6 +2757,7 @@
     "sggCode": "28260",
     "name": "인천단봉초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 단봉로 122",
     "latitude": 37.5983192412863,
     "longitude": 126.638441470036,
@@ -2682,19 +2769,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (2명/5명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f8bf-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "faa7426d-89f6-476f-ba34-4ea32c5f8350",
@@ -2702,6 +2789,7 @@
     "sggCode": "28260",
     "name": "인천한들초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "인천광역시 서구 한중로 25",
     "latitude": 37.5795849502601,
     "longitude": 126.672802385687,
@@ -2713,18 +2801,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~19시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (3명/6명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 6,
+      "year1to2": 14,
+      "year2to4": 86,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=faa7426d-89f6-476f-ba34-4ea32c5f8350",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

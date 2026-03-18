@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "sidoCode": "41",
+    "sggCode": "41670",
+    "name": "어린이집 1",
+    "type": "민간",
+    "source": "어린이집",
+    "address": "주소 미상",
+    "latitude": 0,
+    "longitude": 0,
+    "phone": "전화번호 미제공",
+    "capacity": 0,
+    "currentPupils": 0,
+    "childrenPerTeacher": 0,
+    "safetyStatus": "점검 정보 없음",
+    "mealStatus": "급식 정보 없음",
+    "operatingHours": "07:30~19:30",
+    "hasSchoolBus": false,
+    "expenseLevel": "정보없음",
+    "ageRange": "만 0세 ~ 만 5세",
+    "teacherTenure": {
+      "under1": 0,
+      "year1to2": 0,
+      "year2to4": 0,
+      "year4to6": 0,
+      "over6": 0
+    },
+    "waitlistTotal": 0,
+    "cctvCount": 0,
+    "specialPrograms": "정보 없음",
+    "tags": [
+      "소규모시설",
+      "특성화교육"
+    ],
+    "stabilityScore": 2
+  }
+]

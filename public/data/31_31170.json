@@ -5,6 +5,7 @@
     "sggCode": "31170",
     "name": "화정초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "울산광역시 동구 대송9길 55",
     "latitude": 35.5017301995225,
     "longitude": 129.420399964591,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1771247a-7fd7-40b6-a736-8f6fb0bb3d06",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "8e917403-401a-4dda-91af-ade0460edea7",
@@ -36,6 +37,7 @@
     "sggCode": "31170",
     "name": "동부초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "울산광역시 동구 남목13길 23",
     "latitude": 35.5449045011,
     "longitude": 129.4272874415,
@@ -47,19 +49,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (2명/2명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=8e917403-401a-4dda-91af-ade0460edea7",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "8cc598ea-55d3-489c-af62-bda435fa4de6",
@@ -67,6 +69,7 @@
     "sggCode": "31170",
     "name": "녹수초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "울산광역시 동구 봉수로 545",
     "latitude": 35.5308512251106,
     "longitude": 129.428658471806,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=8cc598ea-55d3-489c-af62-bda435fa4de6",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "3203066a-9175-4506-a991-79d9b2ac85cb",
@@ -98,6 +101,7 @@
     "sggCode": "31170",
     "name": "서부초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "울산광역시 동구 봉수로 457",
     "latitude": 35.5259167047678,
     "longitude": 129.422804992037,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 3,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=3203066a-9175-4506-a991-79d9b2ac85cb",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0df1-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "31170",
     "name": "주전초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "울산광역시 동구 동해안로 575",
     "latitude": 35.5580328458508,
     "longitude": 129.456863134334,
@@ -140,11 +145,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -152,7 +157,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0df1-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b7c-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "31170",
     "name": "꽃바위유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "울산광역시 동구 문현2길 41",
     "latitude": 35.4875167221548,
     "longitude": 129.411173133519,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (4명/6명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 3,
-      "year2to4": 2,
-      "year4to6": 1,
+      "under1": 25,
+      "year1to2": 38,
+      "year2to4": 25,
+      "year4to6": 13,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b7c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-098d-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "31170",
     "name": "현대동부유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "울산광역시 동구 안산로 50-1",
     "latitude": 35.54283275519,
     "longitude": 129.433008651176,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "40% (4명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 5,
-      "year2to4": 2,
+      "under1": 20,
+      "year1to2": 50,
+      "year2to4": 20,
       "year4to6": 0,
-      "over6": 1
+      "over6": 10
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-098d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-08d6-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "31170",
     "name": "우주유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "울산광역시 동구 남목7길 32",
     "latitude": 35.5415860990474,
     "longitude": 129.422233451309,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (4명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
-      "year4to6": 2,
+      "year1to2": 25,
+      "year2to4": 25,
+      "year4to6": 50,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-08d6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-070c-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "31170",
     "name": "그림마을유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "울산광역시 동구 남목18길 28",
     "latitude": 35.5433453756556,
     "longitude": 129.427793801617,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (1명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 25,
       "year2to4": 0,
-      "year4to6": 1,
-      "over6": 2
+      "year4to6": 25,
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-070c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-054a-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "31170",
     "name": "하나유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "울산광역시 동구 방어진순환도로 521",
     "latitude": 35.4893674009914,
     "longitude": 129.42382695504,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (6명/18명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 3,
-      "year4to6": 4,
-      "over6": 9
+      "under1": 5,
+      "year1to2": 11,
+      "year2to4": 16,
+      "year4to6": 21,
+      "over6": 47
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-054a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0542-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "31170",
     "name": "선미유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "울산광역시 동구 월봉8길 30",
     "latitude": 35.492996388241,
     "longitude": 129.420178829567,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시30분~18시30분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "22% (2명/9명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 2,
-      "year2to4": 4,
+      "under1": 11,
+      "year1to2": 22,
+      "year2to4": 44,
       "year4to6": 0,
-      "over6": 2
+      "over6": 23
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0542-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0541-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "31170",
     "name": "서라벌유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "울산광역시 동구 바드래길 92-1",
     "latitude": 35.5163161168423,
     "longitude": 129.426925510396,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (3명/9명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 13,
       "year1to2": 0,
-      "year2to4": 4,
-      "year4to6": 1,
-      "over6": 2
+      "year2to4": 50,
+      "year4to6": 13,
+      "over6": 24
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0541-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0315-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "31170",
     "name": "대성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "울산광역시 동구 ���송2길 10",
     "latitude": 35.499723863006,
     "longitude": 129.418688064138,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "06시40분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
+      "under1": 33,
+      "year1to2": 33,
       "year2to4": 0,
       "year4to6": 0,
-      "over6": 1
+      "over6": 34
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0315-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fcd4-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "31170",
     "name": "환희지유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "울산광역시 동구 진성6길 105",
     "latitude": 35.5069214544153,
     "longitude": 129.422244629701,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~16시40분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "25% (2명/8명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 2,
-      "year4to6": 3,
-      "over6": 2
+      "year1to2": 13,
+      "year2to4": 25,
+      "year4to6": 38,
+      "over6": 24
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fcd4-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f94d-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "31170",
     "name": "상상미술유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "울산광역시 동구 월봉10나길 4",
     "latitude": 35.493605201356,
     "longitude": 129.419876951988,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시30분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "67% (2명/3명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 67,
       "year4to6": 0,
-      "over6": 1
+      "over6": 33
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f94d-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f878-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "31170",
     "name": "명덕초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "울산광역시 동구 진성14길 15",
     "latitude": 35.5059437730328,
     "longitude": 129.424590589242,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f878-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f7d3-b044-e053-0a32095ab044",
@@ -501,6 +517,7 @@
     "sggCode": "31170",
     "name": "전하초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "울산광역시 동구 바드래길 55",
     "latitude": 35.5154501142471,
     "longitude": 129.427806756803,
@@ -512,19 +529,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (1명/1명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f7d3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f5c6-b044-e053-0a32095ab044",
@@ -532,6 +549,7 @@
     "sggCode": "31170",
     "name": "남목초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "울산광역시 동구 옥류로 33",
     "latitude": 35.5422768812287,
     "longitude": 129.42515633173,
@@ -543,19 +561,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시30분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f5c6-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f4a3-b044-e053-0a32095ab044",
@@ -563,6 +581,7 @@
     "sggCode": "31170",
     "name": "공룡자연유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "울산광역시 동구 남목13길 27",
     "latitude": 35.5446913578193,
     "longitude": 129.429030531519,
@@ -574,19 +593,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시50분~19시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
-    "teacherRatio": "정보 없음",
+    "expenseLevel": "-",
+    "ageRange": "-",
+    "teacherRatio": "-",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 4,
+      "year1to2": 33,
+      "year2to4": 67,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f4a3-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f099-b044-e053-0a32095ab044",
@@ -594,6 +613,7 @@
     "sggCode": "31170",
     "name": "빛나몬테소리유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "울산광역시 동구 남목19길 3",
     "latitude": 35.5439930078907,
     "longitude": 129.428560461324,
@@ -605,19 +625,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시40분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "33% (2명/6명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 17,
       "year1to2": 0,
-      "year2to4": 4,
-      "year4to6": 1,
+      "year2to4": 67,
+      "year4to6": 17,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f099-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef8c-b044-e053-0a32095ab044",
@@ -625,6 +645,7 @@
     "sggCode": "31170",
     "name": "백조유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "울산광역시 동구 진성12길 124",
     "latitude": 35.5110010123272,
     "longitude": 129.427537184454,
@@ -636,19 +657,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (2명/4명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 1,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
-      "over6": 2
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef8c-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "f35ab1de-8a58-4257-aa4a-4ced3df7d079",
@@ -656,6 +677,7 @@
     "sggCode": "31170",
     "name": "상진초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "울산광역시 동구 봉수로 50",
     "latitude": 35.4915431934954,
     "longitude": 129.418759156344,
@@ -667,18 +689,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "08시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (6명/6명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 5,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=f35ab1de-8a58-4257-aa4a-4ced3df7d079",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]

@@ -5,6 +5,7 @@
     "sggCode": "26470",
     "name": "거제초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 연제구 해맞이로 39",
     "latitude": 35.1780953510181,
     "longitude": 129.067056394624,
@@ -16,19 +17,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 2,
-      "year2to4": 1,
+      "year1to2": 67,
+      "year2to4": 33,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef69-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "bde435fb-9412-4cee-91cd-e8f09450a988",
@@ -36,6 +37,7 @@
     "sggCode": "26470",
     "name": "글로잉유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 연제구 연동로14번길 33",
     "latitude": 35.1883651643962,
     "longitude": 129.091277855486,
@@ -47,11 +49,11 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~17시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "30% (3명/10명)",
     "teacherTenure": {
-      "under1": 9,
+      "under1": 100,
       "year1to2": 0,
       "year2to4": 0,
       "year4to6": 0,
@@ -59,7 +61,7 @@
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=bde435fb-9412-4cee-91cd-e8f09450a988",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "8408836d-0ce0-4edd-8fe7-f8949cb2434f",
@@ -67,6 +69,7 @@
     "sggCode": "26470",
     "name": "연동초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 연제구 고분로56번길 40",
     "latitude": 35.1839324592911,
     "longitude": 129.088467911858,
@@ -78,19 +81,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (6명/6명)",
     "teacherTenure": {
-      "under1": 2,
+      "under1": 50,
       "year1to2": 0,
-      "year2to4": 1,
-      "year4to6": 1,
+      "year2to4": 25,
+      "year4to6": 25,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=8408836d-0ce0-4edd-8fe7-f8949cb2434f",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b61-b044-e053-0a32095ab044",
@@ -98,6 +101,7 @@
     "sggCode": "26470",
     "name": "동성연천유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 연제구 고분로 200",
     "latitude": 35.1824417521302,
     "longitude": 129.103708946014,
@@ -109,19 +113,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "41% (7명/17명)",
     "teacherTenure": {
-      "under1": 9,
-      "year1to2": 1,
-      "year2to4": 4,
+      "under1": 53,
+      "year1to2": 6,
+      "year2to4": 24,
       "year4to6": 0,
-      "over6": 3
+      "over6": 17
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b61-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b41-b044-e053-0a32095ab044",
@@ -129,6 +133,7 @@
     "sggCode": "26470",
     "name": "이화유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 연제구 과정로93번길 32",
     "latitude": 35.1805874447661,
     "longitude": 129.106204830565,
@@ -140,19 +145,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "50% (6명/12명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
-      "year2to4": 5,
+      "under1": 8,
+      "year1to2": 25,
+      "year2to4": 42,
       "year4to6": 0,
-      "over6": 3
+      "over6": 25
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b41-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0b40-b044-e053-0a32095ab044",
@@ -160,6 +165,7 @@
     "sggCode": "26470",
     "name": "연산유��원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 연제구 월드컵대로 41",
     "latitude": 35.1778838422253,
     "longitude": 129.085108585415,
@@ -171,19 +177,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~20시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (9명/12명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 3,
-      "year2to4": 4,
+      "under1": 13,
+      "year1to2": 38,
+      "year2to4": 50,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0b40-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-095a-b044-e053-0a32095ab044",
@@ -191,6 +197,7 @@
     "sggCode": "26470",
     "name": "고은유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 연제구 여고로 126",
     "latitude": 35.1986027147316,
     "longitude": 129.076468053498,
@@ -202,19 +209,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "42% (5명/12명)",
     "teacherTenure": {
-      "under1": 4,
-      "year1to2": 2,
-      "year2to4": 2,
-      "year4to6": 2,
-      "over6": 2
+      "under1": 33,
+      "year1to2": 17,
+      "year2to4": 17,
+      "year4to6": 17,
+      "over6": 16
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-095a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0959-b044-e053-0a32095ab044",
@@ -222,6 +229,7 @@
     "sggCode": "26470",
     "name": "거성유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 연제구 거제대로136번길 6",
     "latitude": 35.1802399518074,
     "longitude": 129.070073537486,
@@ -233,19 +241,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "0% (0명/3명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 1,
-      "year2to4": 1,
+      "under1": 50,
+      "year1to2": 25,
+      "year2to4": 25,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0959-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-06d7-b044-e053-0a32095ab044",
@@ -253,6 +261,7 @@
     "sggCode": "26470",
     "name": "토현유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 연제구 토현로 32",
     "latitude": 35.1803113038903,
     "longitude": 129.110635876516,
@@ -264,19 +273,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "57% (8명/14명)",
     "teacherTenure": {
-      "under1": 1,
-      "year1to2": 1,
-      "year2to4": 8,
-      "year4to6": 1,
+      "under1": 9,
+      "year1to2": 9,
+      "year2to4": 73,
+      "year4to6": 9,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-06d7-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-0257-b044-e053-0a32095ab044",
@@ -284,6 +293,7 @@
     "sggCode": "26470",
     "name": "연천초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 연제구 과정로225번길 46",
     "latitude": 35.1862187342275,
     "longitude": 129.100491802521,
@@ -295,19 +305,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 33,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 33,
       "year4to6": 0,
-      "over6": 1
+      "over6": 34
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-0257-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08d-00ee-b044-e053-0a32095ab044",
@@ -315,6 +325,7 @@
     "sggCode": "26470",
     "name": "과정유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 연제구 좌수영로 291",
     "latitude": 35.1875105716359,
     "longitude": 129.109888387434,
@@ -326,19 +337,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 20,
       "year1to2": 0,
-      "year2to4": 2,
-      "year4to6": 1,
-      "over6": 1
+      "year2to4": 40,
+      "year4to6": 20,
+      "over6": 20
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08d-00ee-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-febb-b044-e053-0a32095ab044",
@@ -346,6 +357,7 @@
     "sggCode": "26470",
     "name": "브니엘유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 연제구 중앙천로73번길 15",
     "latitude": 35.1797675391529,
     "longitude": 129.080053107347,
@@ -357,19 +369,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "07시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "75% (3명/4명)",
     "teacherTenure": {
-      "under1": 1,
+      "under1": 25,
       "year1to2": 0,
-      "year2to4": 1,
+      "year2to4": 25,
       "year4to6": 0,
-      "over6": 2
+      "over6": 50
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-febb-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fc41-b044-e053-0a32095ab044",
@@ -377,6 +389,7 @@
     "sggCode": "26470",
     "name": "동명초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 연제구 ���미천로44번길 17",
     "latitude": 35.1781699558144,
     "longitude": 129.090860568628,
@@ -388,19 +401,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "80% (4명/5명)",
     "teacherTenure": {
       "under1": 0,
       "year1to2": 0,
-      "year2to4": 2,
+      "year2to4": 100,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fc41-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-fa7e-b044-e053-0a32095ab044",
@@ -408,6 +421,7 @@
     "sggCode": "26470",
     "name": "창신초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 연제구 종합운동장로12번길 15",
     "latitude": 35.1930937187881,
     "longitude": 129.065994581054,
@@ -419,19 +433,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (3명/3명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 3,
+      "year1to2": 100,
       "year2to4": 0,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-fa7e-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-f578-b044-e053-0a32095ab044",
@@ -439,6 +453,7 @@
     "sggCode": "26470",
     "name": "양지유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 연제구 쌍미천로30번길 53",
     "latitude": 35.177812884473,
     "longitude": 129.092646820335,
@@ -450,19 +465,19 @@
     "mealStatus": "위탁급식",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "60% (3명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
+      "year1to2": 20,
       "year2to4": 0,
-      "year4to6": 2,
-      "over6": 2
+      "year4to6": 40,
+      "over6": 40
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-f578-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "1ecec08c-ef6a-b044-e053-0a32095ab044",
@@ -470,6 +485,7 @@
     "sggCode": "26470",
     "name": "부산경상대학교부속유치원",
     "type": "사립",
+    "source": "유치원",
     "address": "부산광역시 연제구 고분로 170",
     "latitude": 35.1854401302,
     "longitude": 129.1004633543,
@@ -481,19 +497,19 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "07시00분~22시00분",
     "hasSchoolBus": true,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "70% (7명/10명)",
     "teacherTenure": {
-      "under1": 2,
-      "year1to2": 2,
-      "year2to4": 4,
-      "year4to6": 1,
-      "over6": 0
+      "under1": 22,
+      "year1to2": 22,
+      "year2to4": 44,
+      "year4to6": 11,
+      "over6": 1
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=1ecec08c-ef6a-b044-e053-0a32095ab044",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   },
   {
     "id": "ec0f8453-4a88-457b-a53b-2bcaaf3a9c38",
@@ -501,6 +517,7 @@
     "sggCode": "26470",
     "name": "연제초등학교병설유치원",
     "type": "국공립",
+    "source": "유치원",
     "address": "부산광역시 연제구 중앙대로1065번길 14",
     "latitude": 35.1840540084016,
     "longitude": 129.077874195501,
@@ -512,18 +529,18 @@
     "mealStatus": "위탁급식, 영양사배치",
     "operatingHours": "09시00분~18시00분",
     "hasSchoolBus": false,
-    "expenseLevel": "정보없음",
-    "ageRange": "만 3세 ~ 만 5세",
+    "expenseLevel": "-",
+    "ageRange": "-",
     "teacherRatio": "100% (5명/5명)",
     "teacherTenure": {
       "under1": 0,
-      "year1to2": 1,
-      "year2to4": 3,
+      "year1to2": 25,
+      "year2to4": 75,
       "year4to6": 0,
       "over6": 0
     },
     "alimiUrl": "https://e-childschoolinfo.moe.go.kr/kinderMt/kinderViolation.do?ittId=ec0f8453-4a88-457b-a53b-2bcaaf3a9c38",
     "tags": [],
-    "specialPrograms": "정보 없음"
+    "specialPrograms": "-"
   }
 ]
