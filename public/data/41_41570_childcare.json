@@ -2739,6 +2739,7 @@
     },
     "waitlistTotal": 11,
     "cctvCount": 5,
+    "specialPrograms": "일��",
     "alimiUrl": null,
     "tags": []
   },
@@ -3861,10 +3862,9 @@
     },
     "waitlistTotal": 79,
     "cctvCount": 16,
-    "specialPrograms": "장애아통합,야간연장형",
+    "specialPrograms": "장애아통합,야간연���형",
     "alimiUrl": null,
     "tags": [
-      "야간운영",
       "장애아통합"
     ]
   },
@@ -6385,7 +6385,7 @@
     "id": "41570000134",
     "sidoCode": "41",
     "sggCode": "41570",
-    "name": "아이랑어린이집",
+    "name": "아��랑어린이집",
     "type": "가정",
     "source": "어린이집",
     "address": "경기도 김포시 돌문로15번길 45 102동 102호(사우동, 한신아파트)",
@@ -8421,7 +8421,7 @@
     "name": "주공예능어린이집",
     "type": "민간",
     "source": "어린이집",
-    "address": "경기도 김포시 통진읍 김포대로2270번길 40 관리동(소망마을주공아파트)",
+    "address": "경기도 김포시 통진읍 김포대로2270번길 40 관리동(소망��을주공아파트)",
     "latitude": 37.69161618,
     "longitude": 126.5954986,
     "phone": "031-988-6636",

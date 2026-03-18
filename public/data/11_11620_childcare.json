@@ -1390,7 +1390,7 @@
     "name": "구립상록어린이집",
     "type": "국공립",
     "source": "어린이집",
-    "address": "서울���별시 관악구 신원로2길 4-7 (신림동)  [신원동]",
+    "address": "서울특별시 관악구 신원로2길 4-7 (신림동)  [신원동]",
     "latitude": 37.48001452883674,
     "longitude": 126.92850117997631,
     "phone": "02-852-3851",
@@ -1463,7 +1463,7 @@
     "name": "구립새빛어린이집",
     "type": "국공립",
     "source": "어린이집",
-    "address": "서��특별시 관악구 신사로10길 29 (신림동)  [신사동]",
+    "address": "서울특별시 관악구 신사로10길 29 (신림동)  [신사동]",
     "latitude": 37.4863452026,
     "longitude": 126.9151665725,
     "phone": "02-862-1255",
@@ -1934,7 +1934,7 @@
     "name": "구립아이봄어린이집",
     "type": "국공립",
     "source": "어린이집",
-    "address": "서울특별시 관악구 은천로 86 두산아파트 208-101",
+    "address": "서울특별시 관악�� 은천로 86 두산아파트 208-101",
     "latitude": 37.48660631178124,
     "longitude": 126.94539312166282,
     "phone": "02-883-2081",
@@ -2004,7 +2004,7 @@
     "name": "구립예촌어린이집",
     "type": "국공립",
     "source": "어린이집",
-    "address": "서울특별시 관악구 남현1��길 29 남현동 복합청사내 1층",
+    "address": "서울특별시 관악구 남현1가길 29 남현동 복합청사내 1층",
     "latitude": 37.4745559518,
     "longitude": 126.9778736051,
     "phone": "02-3486-4333",
@@ -2712,6 +2712,43 @@
     "alimiUrl": null,
     "tags": [
       "야간운영"
+    ]
+  },
+  {
+    "id": "11620000032",
+    "sidoCode": "11",
+    "sggCode": "11620",
+    "name": "구립합실어린이집",
+    "type": "국공립",
+    "source": "어린이집",
+    "address": "서울특별시 관악구 광신길 113 (신림동)  [삼성동]",
+    "latitude": 37.46405032692235,
+    "longitude": 126.92541921398903,
+    "phone": "02-878-0254",
+    "capacity": 85,
+    "currentPupils": 59,
+    "childrenPerTeacher": 4.5,
+    "teacherRatio": "88% (14명/16명)",
+    "safetyStatus": "CCTV 18대 설치",
+    "mealStatus": "-",
+    "operatingHours": "-",
+    "hasSchoolBus": false,
+    "expenseLevel": "-",
+    "ageRange": "만 0세 ~ 만 5세",
+    "teacherTenure": {
+      "under1": 28,
+      "year1to2": 21,
+      "year2to4": 0,
+      "year4to6": 0,
+      "over6": 50
+    },
+    "waitlistTotal": 23,
+    "cctvCount": 18,
+    "specialPrograms": "장애아통합,야간연장형",
+    "alimiUrl": null,
+    "tags": [
+      "야간운영",
+      "장애아통합"
     ]
   },
   {
@@ -3649,7 +3686,7 @@
     "name": "사랑어린이집",
     "type": "가정",
     "source": "어린이집",
-    "address": "서울특별시 ���악구 당곡2가길 29 1,2층 (봉천동)  [보라매동]",
+    "address": "서울특별시 관악구 당곡2가길 29 1,2층 (봉천동)  [보라매동]",
     "latitude": 37.4917644785,
     "longitude": 126.9298423844,
     "phone": "02-872-8856",
@@ -3784,7 +3821,7 @@
     "name": "성아어린이집",
     "type": "민간",
     "source": "어린이집",
-    "address": "서울특별시 관악구 난곡로22길 23 (신림동)  [난���동]",
+    "address": "서울특별시 관악구 난곡로22길 23 (신림동)  [난곡동]",
     "latitude": 37.46933104,
     "longitude": 126.9206325,
     "phone": "02-857-5335",
@@ -4522,10 +4559,11 @@
     },
     "waitlistTotal": 3,
     "cctvCount": 4,
-    "specialPrograms": "야간연장형,시��제보육",
+    "specialPrograms": "야간연장형,시간제보육",
     "alimiUrl": "http://iseoul.seoul.go.kr/homepage/main.do?stCode=11620000190",
     "tags": [
-      "야간운영"
+      "야간운영",
+      "시간제보육"
     ]
   },
   {
@@ -4999,7 +5037,6 @@
     },
     "waitlistTotal": 13,
     "cctvCount": 5,
-    "specialPrograms": "일���",
     "alimiUrl": null,
     "tags": []
   },

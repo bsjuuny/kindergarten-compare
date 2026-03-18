@@ -275,7 +275,7 @@
       "year4to6": 11,
       "over6": 0
     },
-    "waitlistTotal": 28,
+    "waitlistTotal": 27,
     "cctvCount": 8,
     "specialPrograms": "장애아통합,야간연장형,휴일보육",
     "alimiUrl": null,
@@ -430,7 +430,7 @@
     "name": "꿈빛나무어린이집",
     "type": "국공립",
     "source": "어린이집",
-    "address": "서울특별시 서대문구 세검정로1길 116 홍은 복지관내 꿈빛나��어린이집",
+    "address": "서울특별시 서대문구 세검정로1길 116 홍은 복지관내 꿈빛나무어린이집",
     "latitude": 37.59539527903869,
     "longitude": 126.94643153590314,
     "phone": "02-391-0090",
@@ -587,7 +587,7 @@
       "year4to6": 23,
       "over6": 23
     },
-    "waitlistTotal": 162,
+    "waitlistTotal": 161,
     "cctvCount": 16,
     "specialPrograms": "장애아통합,시간제보육",
     "alimiUrl": null,
@@ -946,7 +946,7 @@
     "name": "마미어린이집",
     "type": "민간",
     "source": "어린이집",
-    "address": "서울특별시 서대문구 증가로32길 58 (북가좌동)",
+    "address": "서��특별시 서대문구 증가로32길 58 (북가좌동)",
     "latitude": 37.586012931787494,
     "longitude": 126.91388516680458,
     "phone": "02-302-5003",
@@ -1048,7 +1048,7 @@
     "id": "11410000380",
     "sidoCode": "11",
     "sggCode": "11410",
-    "name": "모두별어린이집",
+    "name": "���두별어린이집",
     "type": "국공립",
     "source": "어린이집",
     "address": "서울특별시 서대문구 통일로 339 단지 내",
@@ -1355,7 +1355,7 @@
       "year4to6": 16,
       "over6": 16
     },
-    "waitlistTotal": 40,
+    "waitlistTotal": 41,
     "cctvCount": 4,
     "specialPrograms": "야간연장형",
     "alimiUrl": null,
@@ -1598,7 +1598,7 @@
     },
     "waitlistTotal": 0,
     "cctvCount": 24,
-    "specialPrograms": "야간연장��",
+    "specialPrograms": "야간연장형",
     "alimiUrl": null,
     "tags": [
       "야간운영"
@@ -1741,7 +1741,7 @@
       "year4to6": 40,
       "over6": 40
     },
-    "waitlistTotal": 4,
+    "waitlistTotal": 5,
     "cctvCount": 4,
     "specialPrograms": "야간연장형",
     "alimiUrl": null,
@@ -2033,6 +2033,7 @@
     },
     "waitlistTotal": 26,
     "cctvCount": 9,
+    "specialPrograms": "일���",
     "alimiUrl": null,
     "tags": []
   },
@@ -2966,7 +2967,7 @@
       "year4to6": 0,
       "over6": 0
     },
-    "waitlistTotal": 5,
+    "waitlistTotal": 6,
     "cctvCount": 5,
     "alimiUrl": null,
     "tags": []

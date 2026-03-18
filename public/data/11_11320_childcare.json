@@ -530,7 +530,7 @@
     "name": "도봉1동새꿈 어린이집",
     "type": "국공립",
     "source": "어린이집",
-    "address": "서울특별시 도봉구 도봉로169길 31 104동 104���(도봉동, 럭키아파트)",
+    "address": "서울특별시 도봉구 도봉로169길 31 104동 104호(도봉동, 럭키아파트)",
     "latitude": 37.67942609,
     "longitude": 127.044496,
     "phone": "02-954-0802",
@@ -922,7 +922,7 @@
     "sidoCode": "11",
     "sggCode": "11320",
     "name": "도봉숲어린이집",
-    "type": "국공립",
+    "type": "민간",
     "source": "어린이집",
     "address": "서울특별시 도봉구 마들로 684-10",
     "latitude": 37.6709834,
@@ -2959,9 +2959,11 @@
     },
     "waitlistTotal": 0,
     "cctvCount": 7,
-    "specialPrograms": "야간연��형",
+    "specialPrograms": "야간연장형",
     "alimiUrl": null,
-    "tags": []
+    "tags": [
+      "야간운영"
+    ]
   },
   {
     "id": "11320000232",
@@ -3201,10 +3203,9 @@
     },
     "waitlistTotal": 4,
     "cctvCount": 4,
-    "specialPrograms": "야간연장형,시간제보육",
+    "specialPrograms": "��간연장형,시간제보육",
     "alimiUrl": null,
     "tags": [
-      "야간운영",
       "시간제보육"
     ]
   },
@@ -3444,9 +3445,11 @@
     },
     "waitlistTotal": 16,
     "cctvCount": 7,
-    "specialPrograms": "야간��장형",
+    "specialPrograms": "야간연장형",
     "alimiUrl": null,
-    "tags": []
+    "tags": [
+      "야간운영"
+    ]
   },
   {
     "id": "11320000134",
@@ -3511,11 +3514,9 @@
     },
     "waitlistTotal": 8,
     "cctvCount": 5,
-    "specialPrograms": "야간연장형",
+    "specialPrograms": "야��연장형",
     "alimiUrl": null,
-    "tags": [
-      "야간운영"
-    ]
+    "tags": []
   },
   {
     "id": "11320000049",
@@ -3557,7 +3558,7 @@
     "id": "11320000068",
     "sidoCode": "11",
     "sggCode": "11320",
-    "name": "지앤지어린이집",
+    "name": "지앤지어���이집",
     "type": "민간",
     "source": "어린이집",
     "address": "서울특별시 도봉구 삼양로 574-44",

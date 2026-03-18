@@ -32,11 +32,14 @@ function CompareContent() {
 
         const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? '';
 
-        Promise.all(uniqueRegions.map(region =>
+        Promise.all(uniqueRegions.flatMap(region => [
             fetch(`${basePath}/data/${region}.json`)
                 .then(r => r.ok ? r.json() : [])
+                .catch(() => []),
+            fetch(`${basePath}/data/${region}_childcare.json`)
+                .then(r => r.ok ? r.json() : [])
                 .catch(() => [])
-        )).then((results) => {
+        ])).then((results) => {
             const allFetched = results.flat();
             const filtered = allFetched.filter(inst => {
                 const comp = `${inst.sidoCode || '11'}_${inst.sggCode || '11620'}_${inst.id}`;
@@ -49,8 +52,8 @@ function CompareContent() {
 
     if (isLoading) {
         return (
-            <div className="flex justify-center py-20">
-                <Loader2 className="w-8 h-8 animate-spin text-blue-600" />
+            <div className="flex justify-center py-20" role="status" aria-label="비교 데이터를 불러오는 중입니다">
+                <Loader2 className="w-8 h-8 animate-spin text-blue-600" aria-hidden="true" />
             </div>
         );
     }
@@ -59,25 +62,25 @@ function CompareContent() {
         <div className="space-y-10 pb-20">
             <div className="relative overflow-hidden bg-gradient-to-br from-blue-600 to-indigo-700 rounded-[2rem] p-8 md:p-12 text-white shadow-2xl">
                 {/* Decorative circles */}
-                <div className="absolute top-0 right-0 -mr-20 -mt-20 w-64 h-64 bg-white/10 rounded-full blur-3xl"></div>
-                <div className="absolute bottom-0 left-0 -ml-16 -mb-16 w-48 h-48 bg-blue-400/20 rounded-full blur-2xl"></div>
+                <div className="absolute top-0 right-0 -mr-20 -mt-20 w-64 h-64 bg-white/10 rounded-full blur-3xl" aria-hidden="true"></div>
+                <div className="absolute bottom-0 left-0 -ml-16 -mb-16 w-48 h-48 bg-blue-400/20 rounded-full blur-2xl" aria-hidden="true"></div>
 
                 <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between gap-6">
                     <div>
-                        <div className="inline-flex items-center px-3 py-1 rounded-full bg-white/20 backdrop-blur-md text-xs font-bold mb-4 border border-white/30 uppercase tracking-widest">
-                            Detailed Comparison
+                        <div className="inline-flex items-center px-3 py-1 rounded-full bg-white/20 backdrop-blur-md text-xs font-bold mb-4 border border-white/30 tracking-wider">
+                            기관 비교
                         </div>
-                        <h1 className="text-3xl md:text-4xl font-black mb-3 tracking-tight">상세 비교하기</h1>
+                        <h1 id="compare-title" className="text-3xl md:text-4xl font-black mb-3 tracking-tight">상세 비교</h1>
                         <p className="text-blue-100 font-medium max-w-xl leading-relaxed">
-                            선택하신 <span className="text-white font-black underline underline-offset-4 decoration-blue-300">{compareData.length}개 기관</span>의
-                            데이터를 한 화면에서 분석하고 최선의 선택을 도와드립니다.
+                            <span className="text-white font-black">{compareData.length}개 기관</span>의 주요 항목을 한눈에 비교해 보세요.
                         </p>
                     </div>
                     <button
                         onClick={() => router.back()}
+                        aria-label="이전 페이지로 돌아가기"
                         className="self-start md:self-center flex items-center px-6 py-3 bg-white text-blue-700 font-bold rounded-2xl shadow-lg hover:bg-blue-50 hover:scale-105 transition-all duration-200 group"
                     >
-                        <ArrowLeft className="w-5 h-5 mr-2 group-hover:-translate-x-1 transition-transform" />
+                        <ArrowLeft className="w-5 h-5 mr-2 group-hover:-translate-x-1 transition-transform" aria-hidden="true" />
                         이전으로
                     </button>
                 </div>
@@ -93,10 +96,10 @@ function CompareContent() {
                         <Award className="w-6 h-6 text-amber-600" />
                     </div>
                     <div>
-                        <h4 className="font-bold text-amber-900 mb-1">비교 Tip</h4>
+                        <h4 className="font-bold text-amber-900 mb-1">비교 안내</h4>
                         <p className="text-sm leading-relaxed opacity-90">
-                            기관을 2개 이상 선택하시면 각 항목별 차이를 더 명확하게 확인하실 수 있습니다.
-                            목록 페이지에서 하트나 체크 버튼을 눌러 더 많은 유치원을 담아보세요!
+                            2개 이상 선택하면 항목별 차이를 더 명확하게 확인할 수 있습니다.
+                            목록 페이지에서 체크 버튼을 눌러 기관을 추가해 보세요.
                         </p>
                     </div>
                 </div>

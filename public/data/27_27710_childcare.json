@@ -1732,7 +1732,7 @@
     "name": "미소어린이집",
     "type": "사회복지법인",
     "source": "어린이집",
-    "address": "대구광역시 달성군 논공읍 논공로5길 121 사회복지법인 미소어린이집",
+    "address": "대구광역��� 달성군 논공읍 논공로5길 121 사회복지법인 미소어린이집",
     "latitude": 35.72938228,
     "longitude": 128.4423751,
     "phone": "053-615-5559",
@@ -1993,7 +1993,6 @@
     },
     "waitlistTotal": 10,
     "cctvCount": 11,
-    "specialPrograms": "��반",
     "alimiUrl": null,
     "tags": []
   },
@@ -2402,39 +2401,6 @@
       "over6": 66
     },
     "waitlistTotal": 8,
-    "cctvCount": 4,
-    "alimiUrl": null,
-    "tags": []
-  },
-  {
-    "id": "27710000112",
-    "sidoCode": "27",
-    "sggCode": "27710",
-    "name": "아너스어린이집",
-    "type": "가정",
-    "source": "어린이집",
-    "address": "대구광역시 달성군 다사읍 왕선로 26 102동 102호(죽곡 하우젠트아너스빌)",
-    "latitude": 35.8601442034,
-    "longitude": 128.4651948676,
-    "phone": "053-586-4416",
-    "capacity": 20,
-    "currentPupils": 8,
-    "childrenPerTeacher": 2,
-    "teacherRatio": "67% (4명/6명)",
-    "safetyStatus": "CCTV 4대 설치",
-    "mealStatus": "-",
-    "operatingHours": "-",
-    "hasSchoolBus": false,
-    "expenseLevel": "-",
-    "ageRange": "만 0세 ~ 만 2세",
-    "teacherTenure": {
-      "under1": 60,
-      "year1to2": 20,
-      "year2to4": 0,
-      "year4to6": 0,
-      "over6": 20
-    },
-    "waitlistTotal": 1,
     "cctvCount": 4,
     "alimiUrl": null,
     "tags": []
@@ -3164,7 +3130,7 @@
     "name": "오즈어린이집",
     "type": "가정",
     "source": "어린이집",
-    "address": "대구광역시 달성군 다사읍 서재로30길 17 106동 103호(서재리, 서재보성타운1차아파트)",
+    "address": "대구광역시 달���군 다사읍 서재로30길 17 106동 103호(서재리, 서재보성타운1차아파트)",
     "latitude": 35.8826073,
     "longitude": 128.5002107,
     "phone": "053-281-6838",
@@ -3989,7 +3955,7 @@
       "year4to6": 0,
       "over6": 0
     },
-    "waitlistTotal": 18,
+    "waitlistTotal": 19,
     "cctvCount": 9,
     "alimiUrl": null,
     "tags": []
@@ -4360,7 +4326,7 @@
     },
     "waitlistTotal": 9,
     "cctvCount": 8,
-    "specialPrograms": "일반,시간제보육",
+    "specialPrograms": "���반,시간제보육",
     "alimiUrl": null,
     "tags": [
       "시간제보육"

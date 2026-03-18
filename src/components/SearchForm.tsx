@@ -70,15 +70,18 @@ export default function SearchForm() {
     return (
         <form
             onSubmit={handleSubmit}
-            className={`relative max-w-4xl mx-auto w-full transition-all duration-500 bg-white rounded-[2.5rem] p-3 md:p-4 shadow-[0_24px_48px_-12px_rgba(0,0,0,0.1)] border border-slate-100 ${isFocused ? 'ring-4 md:ring-8 ring-indigo-50 shadow-[0_32px_64px_-16px_rgba(79,70,229,0.15)]' : ''}`}
+            aria-label="지역별 유치원 및 어린이집 검색"
+            className={`relative max-w-4xl mx-auto w-full transition-all duration-500 bg-white/70 backdrop-blur-xl rounded-[3rem] p-3 md:p-4 shadow-premium border border-white/50 ${isFocused ? 'ring-8 ring-indigo-100/50 shadow-glow' : ''}`}
         >
             <div className="flex flex-col md:flex-row items-center gap-3 md:gap-2">
                 {/* SIDO Select */}
                 <div className="relative w-full md:w-1/3 group">
-                    <div className="absolute inset-y-0 left-5 flex items-center pointer-events-none group-focus-within:text-indigo-600 transition-colors">
-                        <MapPin className="h-5 w-5 opacity-40 group-focus-within:opacity-100" />
+                    <div className="absolute inset-y-0 left-6 flex items-center pointer-events-none group-focus-within:text-indigo-600 transition-colors" aria-hidden="true">
+                        <MapPin className="h-5 w-5 opacity-30 group-focus-within:opacity-100" aria-hidden="true" />
                     </div>
+                    <label htmlFor="select-sido" className="absolute top-2 left-14 text-xs font-black text-slate-400 uppercase tracking-widest pointer-events-none group-focus-within:text-indigo-500 transition-all font-heading">시·도</label>
                     <select
+                        id="select-sido"
                         value={sidoCode}
                         onChange={(e) => {
                             setSidoCode(e.target.value);
@@ -91,36 +94,38 @@ export default function SearchForm() {
                         }}
                         onFocus={() => setIsFocused(true)}
                         onBlur={() => setIsFocused(false)}
-                        className="block w-full pl-14 pr-10 py-5 bg-transparent text-slate-900 font-bold focus:outline-none text-base md:text-lg cursor-pointer appearance-none"
+                        className="block w-full pl-14 pr-10 pt-6 pb-3 bg-transparent text-slate-900 font-bold focus:outline-none text-base md:text-lg cursor-pointer appearance-none"
                     >
                         {regions.map(r => (
                             <option key={r.sidoCode} value={r.sidoCode}>{r.sidoName}</option>
                         ))}
                     </select>
-                    <div className="absolute right-5 top-1/2 -translate-y-1/2 pointer-events-none opacity-40 group-focus-within:text-indigo-600">
-                        <ChevronDown className="w-5 h-5" />
+                    <div className="absolute right-5 top-1/2 -translate-y-1/2 pointer-events-none opacity-40 group-focus-within:text-indigo-600" aria-hidden="true">
+                        <ChevronDown className="w-5 h-5" aria-hidden="true" />
                     </div>
                 </div>
 
                 {/* Vertical Divider (Desktop) */}
-                <div className="hidden md:block w-px h-10 bg-slate-100 mx-2"></div>
+                <div className="hidden md:block w-px h-10 bg-slate-100 mx-2" aria-hidden="true"></div>
 
                 {/* SGG Select */}
                 <div className="relative w-full md:w-1/3 group">
+                    <label htmlFor="select-sgg" className="absolute top-2 left-6 text-xs font-black text-slate-400 uppercase tracking-widest pointer-events-none group-focus-within:text-indigo-500 transition-all font-heading">시·군·구</label>
                     <select
+                        id="select-sgg"
                         value={sggCode}
                         onChange={(e) => setSggCode(e.target.value)}
                         onFocus={() => setIsFocused(true)}
                         onBlur={() => setIsFocused(false)}
-                        className="block w-full pl-6 pr-10 py-5 bg-transparent text-slate-900 font-bold focus:outline-none text-base md:text-lg cursor-pointer appearance-none"
+                        className="block w-full pl-6 pr-10 pt-6 pb-3 bg-transparent text-slate-900 font-bold focus:outline-none text-base md:text-lg cursor-pointer appearance-none"
                         disabled={sggList.length === 0}
                     >
                         {sggList.map(s => (
                             <option key={s.sggCode} value={s.sggCode}>{s.sggName}</option>
                         ))}
                     </select>
-                    <div className="absolute right-5 top-1/2 -translate-y-1/2 pointer-events-none opacity-40 group-focus-within:text-indigo-600">
-                        <ChevronDown className="w-5 h-5" />
+                    <div className="absolute right-5 top-1/2 -translate-y-1/2 pointer-events-none opacity-40 group-focus-within:text-indigo-600" aria-hidden="true">
+                        <ChevronDown className="w-5 h-5" aria-hidden="true" />
                     </div>
                 </div>
 
@@ -128,18 +133,13 @@ export default function SearchForm() {
                 <button
                     type="submit"
                     disabled={!sidoCode || !sggCode}
-                    className="w-full md:w-auto px-8 py-5 bg-slate-900 hover:bg-indigo-600 disabled:bg-slate-300 disabled:cursor-not-allowed text-white font-black rounded-[2rem] shadow-xl shadow-slate-200 hover:shadow-indigo-200 flex items-center justify-center gap-2 transform active:scale-95 transition-all duration-300 group ml-auto"
+                    className="w-full md:w-auto px-10 py-5 bg-slate-900 hover:bg-indigo-600 disabled:bg-slate-200 disabled:text-slate-400 disabled:cursor-not-allowed text-white font-black rounded-full shadow-premium hover:shadow-glow flex items-center justify-center gap-2 transform active:scale-95 transition-all duration-500 group ml-auto font-heading"
                 >
-                    <Search className="w-5 h-5 group-hover:rotate-12 transition-transform" />
-                    <span>조회하기</span>
+                    <Search className="w-5 h-5 group-hover:scale-110 transition-transform" aria-hidden="true" />
+                    <span>검색하기</span>
                 </button>
             </div>
 
-            {/* Quick Suggestions (Optional visual piece) */}
-            <div className="absolute -bottom-10 left-8 hidden md:flex items-center gap-4 text-[11px] font-bold text-slate-400">
-                <span className="uppercase tracking-widest opacity-60">TIP:</span>
-                <span className="opacity-80">전체 지역에 대한 선택이 가능하도록 업데이트 되었습니다!</span>
-            </div>
         </form>
     );
 }

@@ -1,11 +1,9 @@
 @import "tailwindcss";
 
 :root {
-  --background: #fdfdfe;
+  --background: #f8fafc;
   --foreground: #0f172a;
-  /* slate-900 */
   --primary: #4f46e5;
-  /* indigo-600 */
   --primary-foreground: #ffffff;
 }
 
@@ -16,50 +14,123 @@
   --color-primary-foreground: var(--primary-foreground);
   --radius-3xl: 2rem;
   --radius-4xl: 2.5rem;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui;
+  --font-heading: var(--font-outfit), ui-sans-serif, system-ui;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  letter-spacing: -0.01em;
+  font-family: var(--font-inter), sans-serif;
+  letter-spacing: 0;
   -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, .font-heading {
+  font-family: var(--font-outfit), sans-serif;
+  letter-spacing: -0.01em;
+}
+
+/* Glassmorphism Classes */
+.glass {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.glass-dark {
+  background: rgba(15, 23, 42, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Premium Shadows */
+.shadow-premium {
+  box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.05), 
+              0 2px 20px -5px rgba(0, 0, 0, 0.02);
+}
+
+.shadow-glow {
+  box-shadow: 0 0 20px rgba(79, 70, 229, 0.15), 
+              0 0 40px rgba(79, 70, 229, 0.1);
+}
+
+/* Animated Underline */
+.hover-underline {
+  position: relative;
+}
+.hover-underline::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -2px;
+  left: 0;
+  background-color: var(--primary);
+  transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.hover-underline:hover::after {
+  width: 100%;
 }
 
 /* Custom Scrollbar for Compare Table */
 .custom-scrollbar::-webkit-scrollbar {
-  height: 12px;
-  /* Slightly thicker for visibility */
+  height: 8px;
   display: block;
 }
 
 .custom-scrollbar::-webkit-scrollbar-track {
-  background: #f8fafc;
-  /* slate-50 */
-  border-radius: 10px;
-  border: 1px solid #e2e8f0;
-  /* slate-200 */
+  background: transparent;
 }
 
 .custom-scrollbar::-webkit-scrollbar-thumb {
-  background: #94a3b8;
-  /* slate-400 - darker for visibility */
+  background: #cbd5e1;
   border-radius: 10px;
-  border: 3px solid #f8fafc;
+  border: 2px solid transparent;
+  background-clip: padding-box;
 }
 
 .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-  background: #64748b;
-  /* slate-500 */
+  background: #94a3b8;
+}
+
+/* Global Focus Styles */
+:focus-visible {
+  outline: 2px solid #4f46e5;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Respect user motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Smooth Entrance Transition */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-up {
+  animation: fadeInUp 0.6s cubic-bezier(0.22, 1, 0.36, 1) forwards;
 }
 
 /* Firefox support & Layout */
 .custom-scrollbar {
-  /* Always allow scrolling even if not "needed" by one pixel */
   overflow-x: scroll !important;
-}
-
-/* Smooth transitions */
-* {
-  @apply transition-colors duration-200;
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 transparent;
 }

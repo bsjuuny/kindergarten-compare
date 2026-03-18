@@ -269,12 +269,11 @@
     },
     "waitlistTotal": 7,
     "cctvCount": 26,
-    "specialPrograms": "장애아통합,야간연장형,시간제보육",
+    "specialPrograms": "장애아통합,야간연장형,시��제보육",
     "alimiUrl": null,
     "tags": [
       "야간운영",
-      "장애아통합",
-      "시간제보육"
+      "장애아통합"
     ]
   },
   {
@@ -1959,7 +1958,7 @@
     "name": "신한어린이집",
     "type": "민간",
     "source": "어린이집",
-    "address": "경기도 이천시 부발읍 경충대로2313번길 42-28",
+    "address": "��기도 이천시 부발읍 경충대로2313번길 42-28",
     "latitude": 37.26039875938363,
     "longitude": 127.47098620777994,
     "phone": "031-637-2334",
@@ -3717,42 +3716,6 @@
     "cctvCount": 4,
     "alimiUrl": null,
     "tags": []
-  },
-  {
-    "id": "41500000146",
-    "sidoCode": "41",
-    "sggCode": "41500",
-    "name": "푸른나무어린이집",
-    "type": "민간",
-    "source": "어린이집",
-    "address": "경기도 이천시 갈산��136번길 31 푸른나무어린이집",
-    "latitude": 37.28566188925415,
-    "longitude": 127.46598339237453,
-    "phone": "031-634-9300",
-    "capacity": 130,
-    "currentPupils": 11,
-    "childrenPerTeacher": 2.2,
-    "teacherRatio": "63% (5명/8명)",
-    "safetyStatus": "CCTV 16대 설치",
-    "mealStatus": "-",
-    "operatingHours": "-",
-    "hasSchoolBus": false,
-    "expenseLevel": "-",
-    "ageRange": "만 0세 ~ 만 2세",
-    "teacherTenure": {
-      "under1": 20,
-      "year1to2": 40,
-      "year2to4": 0,
-      "year4to6": 20,
-      "over6": 20
-    },
-    "waitlistTotal": 2,
-    "cctvCount": 16,
-    "specialPrograms": "야간연장형",
-    "alimiUrl": null,
-    "tags": [
-      "야간운영"
-    ]
   },
   {
     "id": "41500000161",

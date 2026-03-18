@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Outfit } from "next/font/google";
 import "./globals.css";
 import Providers from "./providers";
 import Layout from "@/components/layout/Layout";
 import DonationPopup from "@/components/DonationPopup";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
+const outfit = Outfit({ subsets: ["latin"], variable: "--font-outfit" });
 
 export const metadata: Metadata = {
   title: "우리동네 어린이집/유치원 비교 서비스",
@@ -19,7 +20,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko" suppressHydrationWarning>
-      <body className={inter.className} suppressHydrationWarning>
+      <body className={`${inter.variable} ${outfit.variable} font-sans`} suppressHydrationWarning>
         <Providers>
           <Layout>
             {children}

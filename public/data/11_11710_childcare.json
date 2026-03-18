@@ -751,7 +751,7 @@
     "sidoCode": "11",
     "sggCode": "11710",
     "name": "국공립 잠실진주어린이집",
-    "type": "민간",
+    "type": "국공립",
     "source": "어린이집",
     "address": "서울특별시 송파구 올림픽로 393 111동 1층",
     "latitude": 37.51874790672688,
@@ -2214,7 +2214,7 @@
       "year4to6": 0,
       "over6": 16
     },
-    "waitlistTotal": 135,
+    "waitlistTotal": 136,
     "cctvCount": 6,
     "specialPrograms": "야간연장형",
     "alimiUrl": null,
@@ -2252,6 +2252,39 @@
     },
     "waitlistTotal": 0,
     "cctvCount": 52,
+    "alimiUrl": null,
+    "tags": []
+  },
+  {
+    "id": "11710000623",
+    "sidoCode": "11",
+    "sggCode": "11710",
+    "name": "리틀짐어린이집",
+    "type": "민간",
+    "source": "어린이집",
+    "address": "서울특별시 송파구 백제고분로46길 26-11",
+    "latitude": 37.506996437369835,
+    "longitude": 127.11374772853284,
+    "phone": "02-417-0003",
+    "capacity": 69,
+    "currentPupils": 17,
+    "childrenPerTeacher": 1.4,
+    "teacherRatio": "80% (12명/15명)",
+    "safetyStatus": "CCTV 13대 설치",
+    "mealStatus": "-",
+    "operatingHours": "-",
+    "hasSchoolBus": false,
+    "expenseLevel": "-",
+    "ageRange": "만 0세 ~ 만 2세",
+    "teacherTenure": {
+      "under1": 41,
+      "year1to2": 8,
+      "year2to4": 8,
+      "year4to6": 25,
+      "over6": 16
+    },
+    "waitlistTotal": 16,
+    "cctvCount": 13,
     "alimiUrl": null,
     "tags": []
   },
@@ -3055,7 +3088,7 @@
       "year4to6": 0,
       "over6": 5
     },
-    "waitlistTotal": 312,
+    "waitlistTotal": 313,
     "cctvCount": 22,
     "specialPrograms": "장애아통합,야간연장형",
     "alimiUrl": "http://cafe.daum.net/burido5278",
@@ -3104,7 +3137,7 @@
     "name": "브니엘어린이집",
     "type": "민간",
     "source": "어린이집",
-    "address": "서울특별시 송파구 가락로28길 7-6 1��",
+    "address": "서울특별시 송파구 가락로28길 7-6 1층",
     "latitude": 37.506317788887166,
     "longitude": 127.11702367029403,
     "phone": "02-400-6214",
@@ -3199,6 +3232,7 @@
     },
     "waitlistTotal": 39,
     "cctvCount": 37,
+    "specialPrograms": "���반",
     "alimiUrl": null,
     "tags": []
   },
@@ -4136,9 +4170,10 @@
     },
     "waitlistTotal": 17,
     "cctvCount": 7,
-    "specialPrograms": "영아전담,��간연장형",
+    "specialPrograms": "영아전담,야간연장형",
     "alimiUrl": "http://www.sorikids.net",
     "tags": [
+      "야간운영",
       "영아전담"
     ]
   },
@@ -4346,10 +4381,9 @@
     },
     "waitlistTotal": 15,
     "cctvCount": 13,
-    "specialPrograms": "장애아통합,야간연장형",
+    "specialPrograms": "장애아통합,야��연장형",
     "alimiUrl": null,
     "tags": [
-      "야간운영",
       "장애아통합"
     ]
   },
@@ -6720,7 +6754,7 @@
     "id": "11710000804",
     "sidoCode": "11",
     "sggCode": "11710",
-    "name": "위례푸른숲어린이집",
+    "name": "위례푸른숲��린이집",
     "type": "국공립",
     "source": "어린이집",
     "address": "서울특별시 송파구 위례북로4길 12",
@@ -6985,46 +7019,10 @@
       "year4to6": 0,
       "over6": 14
     },
-    "waitlistTotal": 20,
+    "waitlistTotal": 21,
     "cctvCount": 4,
     "alimiUrl": "http://cafe.naver.com/xhemffj",
     "tags": []
-  },
-  {
-    "id": "11710000569",
-    "sidoCode": "11",
-    "sggCode": "11710",
-    "name": "잠실3동어린이집",
-    "type": "국공립",
-    "source": "어린이집",
-    "address": "서울특별시 송파구 석촌호수로 155",
-    "latitude": 37.5072656562136,
-    "longitude": 127.09421808787,
-    "phone": "02-421-8637",
-    "capacity": 29,
-    "currentPupils": 23,
-    "childrenPerTeacher": 3.8,
-    "teacherRatio": "75% (6명/8명)",
-    "safetyStatus": "CCTV 6대 설치",
-    "mealStatus": "-",
-    "operatingHours": "-",
-    "hasSchoolBus": false,
-    "expenseLevel": "-",
-    "ageRange": "만 1세 ~ 만 2세",
-    "teacherTenure": {
-      "under1": 16,
-      "year1to2": 16,
-      "year2to4": 16,
-      "year4to6": 16,
-      "over6": 33
-    },
-    "waitlistTotal": 146,
-    "cctvCount": 6,
-    "specialPrograms": "야간연장형",
-    "alimiUrl": null,
-    "tags": [
-      "야간운영"
-    ]
   },
   {
     "id": "11710000724",
@@ -7266,11 +7264,9 @@
     },
     "waitlistTotal": 110,
     "cctvCount": 8,
-    "specialPrograms": "야간연장형",
+    "specialPrograms": "야간연��형",
     "alimiUrl": null,
-    "tags": [
-      "야간운영"
-    ]
+    "tags": []
   },
   {
     "id": "11710000648",
@@ -8008,7 +8004,7 @@
     "name": "파인13어린이집",
     "type": "국공립",
     "source": "어린이집",
-    "address": "서울특별시 송파구 송파대로8길 10 (���지동, 송파파인타운13단지)",
+    "address": "서울특별시 송파구 송파대로8길 10 (장지동, 송파파인타운13단지)",
     "latitude": 37.4784436,
     "longitude": 127.1311569,
     "phone": "02-400-0609",
@@ -8366,7 +8362,7 @@
     "name": "푸르지오그린어린이집",
     "type": "민간",
     "source": "어린이집",
-    "address": "서울특별시 송파구 위례���장로 185 관리동",
+    "address": "서울특별시 송파구 위례광장로 185 관리동",
     "latitude": 37.48004885855524,
     "longitude": 127.13988854121521,
     "phone": "02-2138-6493",
@@ -9391,7 +9387,7 @@
       "year4to6": 6,
       "over6": 33
     },
-    "waitlistTotal": 157,
+    "waitlistTotal": 156,
     "cctvCount": 16,
     "specialPrograms": "야간연장형",
     "alimiUrl": null,

@@ -99,11 +99,9 @@
     },
     "waitlistTotal": 7,
     "cctvCount": 4,
-    "specialPrograms": "야간연장형",
+    "specialPrograms": "야간��장형",
     "alimiUrl": null,
-    "tags": [
-      "야간운영"
-    ]
+    "tags": []
   },
   {
     "id": "11740000382",
@@ -3875,7 +3873,7 @@
       "year4to6": 0,
       "over6": 0
     },
-    "waitlistTotal": 183,
+    "waitlistTotal": 184,
     "cctvCount": 17,
     "specialPrograms": "장애아통합",
     "alimiUrl": null,
@@ -5537,39 +5535,6 @@
     "tags": []
   },
   {
-    "id": "11740000066",
-    "sidoCode": "11",
-    "sggCode": "11740",
-    "name": "세종어린이집",
-    "type": "민간",
-    "source": "어린이집",
-    "address": "서울특별시 강동구 천호옛6길 3 (성내동 119-14)",
-    "latitude": 37.53323993,
-    "longitude": 127.1234209,
-    "phone": "02-487-0746",
-    "capacity": 54,
-    "currentPupils": 28,
-    "childrenPerTeacher": 2.8,
-    "teacherRatio": "77% (10명/13명)",
-    "safetyStatus": "CCTV 8대 설치",
-    "mealStatus": "-",
-    "operatingHours": "-",
-    "hasSchoolBus": false,
-    "expenseLevel": "-",
-    "ageRange": "만 0세 ~ 만 5세",
-    "teacherTenure": {
-      "under1": 30,
-      "year1to2": 20,
-      "year2to4": 10,
-      "year4to6": 10,
-      "over6": 30
-    },
-    "waitlistTotal": 7,
-    "cctvCount": 8,
-    "alimiUrl": null,
-    "tags": []
-  },
-  {
     "id": "11740000258",
     "sidoCode": "11",
     "sggCode": "11740",
@@ -5748,7 +5713,7 @@
     "id": "11740000250",
     "sidoCode": "11",
     "sggCode": "11740",
-    "name": "아��맘어린이집",
+    "name": "아이맘어린이집",
     "type": "가정",
     "source": "어린이집",
     "address": "서울특별시 강동구 고덕로97길 20 1008동 104호(강일동, 강일리버파크10단지아파트)",
@@ -5781,7 +5746,7 @@
     "id": "11740000362",
     "sidoCode": "11",
     "sggCode": "11740",
-    "name": "아이본어린이집",
+    "name": "아���본어린이집",
     "type": "가정",
     "source": "어린이집",
     "address": "서울특별시 강동구 상일로19길 36 (고덕동 185번지)",
@@ -6162,7 +6127,7 @@
     "name": "어울림어린이집",
     "type": "가정",
     "source": "어린이집",
-    "address": "서울특별시 ���동구 고덕로 333 127동 104호(고덕그라시움)",
+    "address": "서울특별시 강동구 고덕로 333 127동 104호(고덕그라시움)",
     "latitude": 37.56100375,
     "longitude": 127.1716909,
     "phone": "02-481-0045",
@@ -6566,11 +6531,12 @@
     },
     "waitlistTotal": 1,
     "cctvCount": 9,
-    "specialPrograms": "야간연장형,휴일��육,24시간",
+    "specialPrograms": "야간연장형,휴일보육,24시간",
     "alimiUrl": null,
     "tags": [
       "야간운영",
-      "24시간"
+      "24시간",
+      "휴일운영"
     ]
   },
   {
@@ -7607,7 +7573,7 @@
     "id": "11740000402",
     "sidoCode": "11",
     "sggCode": "11740",
-    "name": "하은어린이집",
+    "name": "하은���린이집",
     "type": "가정",
     "source": "어린이집",
     "address": "서울특별시 강동구 진황도로31길 26 (천호동 564 성원아파트)",

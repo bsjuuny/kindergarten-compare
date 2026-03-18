@@ -173,7 +173,7 @@
     "id": "31710000134",
     "sidoCode": "31",
     "sggCode": "31710",
-    "name": "구영어린이��",
+    "name": "구영어린이집",
     "type": "국공립",
     "source": "어린이집",
     "address": "울산광역시 울주군 범서읍 대리로 43 (구영리 212) 구영주공1차아파트 관리동",
@@ -1285,7 +1285,7 @@
       "year4to6": 16,
       "over6": 8
     },
-    "waitlistTotal": 7,
+    "waitlistTotal": 6,
     "cctvCount": 16,
     "alimiUrl": null,
     "tags": []
@@ -1846,7 +1846,7 @@
     "name": "애시앙어린이집",
     "type": "민간",
     "source": "어린이집",
-    "address": "울산광역시 울주군 ���서읍 대동길 21 문수애시앙아파트 관리동 (108동)",
+    "address": "울산광역시 울주군 범서읍 대동길 21 문수애시앙아파트 관리동 (108동)",
     "latitude": 35.562788321488576,
     "longitude": 129.23249194863112,
     "phone": "052-245-5066",
@@ -2865,39 +2865,6 @@
     ]
   },
   {
-    "id": "31710000032",
-    "sidoCode": "31",
-    "sggCode": "31710",
-    "name": "키즈코코어린이집",
-    "type": "가정",
-    "source": "어린이집",
-    "address": "울산광역시 울주군 청량읍 삼정로 811 101동104호(신일해피트리)",
-    "latitude": 35.489038001048186,
-    "longitude": 129.30324599002154,
-    "phone": "052-222-5003",
-    "capacity": 19,
-    "currentPupils": 19,
-    "childrenPerTeacher": 2.7,
-    "teacherRatio": "78% (7명/9명)",
-    "safetyStatus": "CCTV 4대 설치",
-    "mealStatus": "-",
-    "operatingHours": "-",
-    "hasSchoolBus": false,
-    "expenseLevel": "-",
-    "ageRange": "만 0세 ~ 만 2세",
-    "teacherTenure": {
-      "under1": 25,
-      "year1to2": 12,
-      "year2to4": 50,
-      "year4to6": 0,
-      "over6": 12
-    },
-    "waitlistTotal": 20,
-    "cctvCount": 4,
-    "alimiUrl": null,
-    "tags": []
-  },
-  {
     "id": "31710000214",
     "sidoCode": "31",
     "sggCode": "31710",
@@ -2995,7 +2962,7 @@
       "year4to6": 0,
       "over6": 25
     },
-    "waitlistTotal": 4,
+    "waitlistTotal": 5,
     "cctvCount": 5,
     "alimiUrl": null,
     "tags": []

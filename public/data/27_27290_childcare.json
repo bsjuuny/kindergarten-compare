@@ -1694,10 +1694,9 @@
     },
     "waitlistTotal": 75,
     "cctvCount": 23,
-    "specialPrograms": "야간연장형,시간제보육",
+    "specialPrograms": "야간��장형,시간제보육",
     "alimiUrl": null,
     "tags": [
-      "야간운영",
       "시간제보육"
     ]
   },
@@ -4243,7 +4242,7 @@
     "name": "에덴어린이집",
     "type": "민간",
     "source": "어린이집",
-    "address": "대구광역시 달서구 구마��36길 20 (본동)",
+    "address": "대구광역시 달서구 구마로36길 20 (본동)",
     "latitude": 35.83618821,
     "longitude": 128.5455995,
     "phone": "053-627-5080",
@@ -6820,7 +6819,7 @@
     "sidoCode": "27",
     "sggCode": "27290",
     "name": "한솔어린이집",
-    "type": "법인단체",
+    "type": "사회복지법인",
     "source": "어린이집",
     "address": "대구광역시 달서구 성지로16길 69-6 (용산동)",
     "latitude": 35.85784137,

@@ -872,6 +872,7 @@
     },
     "waitlistTotal": 0,
     "cctvCount": 16,
+    "specialPrograms": "일��",
     "alimiUrl": null,
     "tags": []
   },
@@ -1212,7 +1213,7 @@
     "name": "두레키즈어린이집",
     "type": "가정",
     "source": "어린이집",
-    "address": "울산광역시 남구 굴화4길 20 굴화주공아파트 1단지 관��동",
+    "address": "울산광역시 남구 굴화4길 20 굴화주공아파트 1단지 관리동",
     "latitude": 35.55434524,
     "longitude": 129.2630974,
     "phone": "052-223-3563",
@@ -1568,6 +1569,7 @@
     },
     "waitlistTotal": 7,
     "cctvCount": 4,
+    "specialPrograms": "일��",
     "alimiUrl": null,
     "tags": []
   },
@@ -1803,13 +1805,12 @@
     },
     "waitlistTotal": 51,
     "cctvCount": 15,
-    "specialPrograms": "장애아통합,야간연장형,휴일보육,시간제보육",
+    "specialPrograms": "장애아통합,야간연장형,��일보육,시간제보육",
     "alimiUrl": "http://cafe.daum.net/munsulovehouse",
     "tags": [
       "야간운영",
       "장애아통합",
-      "시간제보육",
-      "휴일운영"
+      "시간제보육"
     ]
   },
   {
@@ -2149,7 +2150,7 @@
     "id": "31140000022",
     "sidoCode": "31",
     "sggCode": "31140",
-    "name": "생각나라어린��집",
+    "name": "생각나라어린이집",
     "type": "가정",
     "source": "어린이집",
     "address": "울산광역시 남구 대공원입구로10번길 8 옥동",
@@ -3595,7 +3596,7 @@
       "year4to6": 8,
       "over6": 25
     },
-    "waitlistTotal": 50,
+    "waitlistTotal": 49,
     "cctvCount": 8,
     "alimiUrl": null,
     "tags": []
@@ -3919,7 +3920,7 @@
     "name": "키즈포레어린이집",
     "type": "민간",
     "source": "어린이집",
-    "address": "울��광역시 남구 거마로117번길 17",
+    "address": "울산광역시 남구 거마로117번길 17",
     "latitude": 35.553378812402116,
     "longitude": 129.27930658955782,
     "phone": "052-913-1170",
@@ -4138,7 +4139,7 @@
       "year4to6": 7,
       "over6": 0
     },
-    "waitlistTotal": 42,
+    "waitlistTotal": 43,
     "cctvCount": 12,
     "alimiUrl": "http://cafe.daum.net/blue12233",
     "tags": []

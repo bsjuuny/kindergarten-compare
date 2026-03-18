@@ -1170,7 +1170,7 @@
     "name": "리틀아띠어린이집",
     "type": "가정",
     "source": "어린이집",
-    "address": "경��도 하남시 신장로228번길 32 (덕풍동)",
+    "address": "경기도 하남시 신장로228번길 32 (덕풍동)",
     "latitude": 37.54425548,
     "longitude": 127.2001195,
     "phone": "031-792-1261",
@@ -1302,7 +1302,7 @@
     "id": "41450000247",
     "sidoCode": "41",
     "sggCode": "41450",
-    "name": "미사다온어린이집",
+    "name": "미사다온어린���집",
     "type": "민간",
     "source": "어린이집",
     "address": "경기도 하남시 미사강변대로 135 미사강변19단지, 관리동어린이집",
@@ -2579,9 +2579,10 @@
     },
     "waitlistTotal": 72,
     "cctvCount": 16,
-    "specialPrograms": "장애아통합,���간연장형",
+    "specialPrograms": "장애아통합,야간연장형",
     "alimiUrl": null,
     "tags": [
+      "야간운영",
       "장애아통합"
     ]
   },
@@ -3191,7 +3192,7 @@
       "year4to6": 20,
       "over6": 0
     },
-    "waitlistTotal": 72,
+    "waitlistTotal": 73,
     "cctvCount": 8,
     "specialPrograms": "장애아통합,야간연장형",
     "alimiUrl": null,
@@ -3267,9 +3268,11 @@
     },
     "waitlistTotal": 141,
     "cctvCount": 15,
-    "specialPrograms": "��간연장형",
+    "specialPrograms": "야간연장형",
     "alimiUrl": null,
-    "tags": []
+    "tags": [
+      "야간운영"
+    ]
   },
   {
     "id": "41450000408",
@@ -6359,7 +6362,7 @@
     "id": "41450000056",
     "sidoCode": "41",
     "sggCode": "41450",
-    "name": "탱글어��이집",
+    "name": "탱글어린이집",
     "type": "민간",
     "source": "어린이집",
     "address": "경기도 하남시 하남대로784번길 29 에코타운관리동 (신장동)",
@@ -6935,7 +6938,7 @@
     "name": "한양어린이집",
     "type": "민간",
     "source": "어린이집",
-    "address": "경기도 하남시 하남대로778번길 45",
+    "address": "경���도 하남시 하남대로778번길 45",
     "latitude": 37.54143755321086,
     "longitude": 127.21267985686225,
     "phone": "031-795-0236",
